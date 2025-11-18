@@ -1,7 +1,6 @@
 from pathlib import Path
 from lxml import etree  # pyright: ignore[reportAttributeAccessIssue]
 from loguru import logger
-from typing import Self
 
 
 class EXB:
@@ -10,6 +9,8 @@ class EXB:
         self.doc = etree.fromstring(Path(file).read_bytes())
         self.timeline = self.get_timeline()
         self.speakers = self.find_speakers_from_tier_attrib_speaker()
+        self.wavfile_raw = Path(self.doc.find(".//referenced-file").attrib["url"])
+        self.wavfile_abs = (self.path.absolute().resolve().parent / self.wavfile_raw).absolute()
 
     def get_tier_names(self):
         tiers = self.doc.findall(".//tier")
@@ -93,7 +94,7 @@ class EXB:
                 previous = tli.attrib
         self.update_timeline()
 
-    def copy(self) -> Self:
+    def copy(self):
         """Returns a deep copy of the EXB instance
 
         :return EXB: Copied instance
