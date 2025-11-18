@@ -1,0 +1,60 @@
+[project]
+name = "exbee"
+version = "2025.11.18.1"
+description = "Add your description here"
+readme = "README.md"
+authors = [{ name = "Peter Rupnik", email = "peter.rupnik@ijs.si" }]
+requires-python = ">=3.11"
+dependencies = ["loguru>=0.5.1", "lxml>=4.0.0", "pytest>=5.0.0"]
+
+[project.optional-dependencies]
+dev = [
+    "black",
+    "bumpver",
+    "isort",
+    "pip-tools",
+    "pytest",
+    "pytest-cov",
+    "twine",
+    "ruff",
+    "bandit",
+    "pre-commit",
+]
+
+[project.scripts]
+exbee = "exbee:main"
+
+[build-system]
+requires = ["uv_build>=0.9.10,<0.10.0"]
+build-backend = "uv_build"
+
+
+[tool.bumpver]
+current_version = "2025.11.18.1"
+version_pattern = "YYYY.MM.DD[.INC0]"
+commit_message = "bump version {old_version} -> {new_version}"
+tag_message = "{new_version}"
+tag_scope = "default"
+pre_commit_hook = ""
+post_commit_hook = ""
+commit = false
+tag = false
+push = false
+
+[tool.bumpver.file_patterns]
+"pyproject.toml" = ['current_version = "{version}"', 'version = "{version}"']
+"src/exbee/__init__.py" = ['__version__ = "{version}"']
+
+[dependency-groups]
+dev = [
+    "bandit>=1.9.1",
+    "black>=25.11.0",
+    "bumpver>=2025.1131",
+    "isort>=7.0.0",
+    "pip-tools>=7.5.2",
+    "pre-commit>=4.4.0",
+    "pytest>=9.0.1",
+    "pytest-cov>=7.0.0",
+    "ruff>=0.14.5",
+    "twine>=6.2.0",
+]
