@@ -62,6 +62,3 @@ def test_unhiding_tiers():
     ]
     assert len(tiers) == 0
     2 + 2
-
-
-test_unhiding_tiers()
