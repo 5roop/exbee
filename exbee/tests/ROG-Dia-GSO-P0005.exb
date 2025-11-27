@@ -8,7 +8,10 @@
       <ud-meta-information>
         <ud-information attribute-name="TEXT-ID">ROG-Dia-GSO-P0005</ud-information>
         <ud-information attribute-name="SUBCORPUS">ROG-dialog</ud-information>
-        <ud-information attribute-name="TITLE">Z govorkama smo se predhodno dogovorile za snemanje. Da je bil pogovor sproščen, smo govor snemale na domu ene izmed njiju. Pogovor je potekal o temah, ki govorki zanimajo, da sta si lahko izmenjevali navodila.</ud-information>
+        <ud-information attribute-name="TITLE">Z govorkama smo se predhodno dogovorile za
+                    snemanje. Da je bil pogovor sproščen, smo govor snemale na domu ene izmed njiju.
+                    Pogovor je potekal o temah, ki govorki zanimajo, da sta si lahko izmenjevali
+                    navodila.</ud-information>
         <ud-information attribute-name="DATE">2025-03</ud-information>
         <ud-information attribute-name="TEXT-REGION">Postojna</ud-information>
         <ud-information attribute-name="DOMAIN">Navodila</ud-information>
@@ -17,7 +20,11 @@
         <ud-information attribute-name="N-SPEAKERS">2</ud-information>
         <ud-information attribute-name="REC-LOCATION">Dnevna soba</ud-information>
       </ud-meta-information>
-      <comment>Imported from a transcriber file on 2025-05-29T11:53:43.979+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-17: Manual timeline corrections. // PR, 2025-11-17: Import of normSeq and colloqSey tiers from standard exbs. </comment>
+      <comment>Imported from a transcriber file on 2025-05-29T11:53:43.979+02:00 // PR,
+                2025-11-14: Consolidate naming conventions, validate correspondence between std and
+                anno transcriptions, import metadata. // JV, 2025-11-17: Manual timeline
+                corrections. // PR, 2025-11-17: Import of normSeq and colloqSey tiers from standard
+                exbs. </comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>
@@ -35,11 +42,14 @@
           <ud-information attribute-name="AGE">47</ud-information>
           <ud-information attribute-name="1LANG">SL</ud-information>
           <ud-information attribute-name="REGISTER">narečje</ud-information>
-          <ud-information attribute-name="EDUCATION">Višješolska ali visokošolska strokovna</ud-information>
+          <ud-information attribute-name="EDUCATION">Višješolska ali visokošolska
+                        strokovna</ud-information>
           <ud-information attribute-name="PERM-RESD-SETTLEMENT">Postojna, Občina Postojna</ud-information>
-          <ud-information attribute-name="PERM-RESD-STAT-REGION">primorsko-notranjska regija</ud-information>
+          <ud-information attribute-name="PERM-RESD-STAT-REGION">primorsko-notranjska
+                        regija</ud-information>
           <ud-information attribute-name="CHILD-RESD-SETTLEMENT">Postojna, Občina postojna</ud-information>
-          <ud-information attribute-name="CHILD-RESD-STAT-REGION">primorsko-notranjska regija</ud-information>
+          <ud-information attribute-name="CHILD-RESD-STAT-REGION">primorsko-notranjska
+                        regija</ud-information>
           <ud-information attribute-name="OTHER-RESD-SETTLEMENT">None</ud-information>
           <ud-information attribute-name="OTHER-RESD-STAT-REGION">None</ud-information>
           <ud-information attribute-name="BILINGUAL">Ne</ud-information>
@@ -63,10 +73,13 @@
           <ud-information attribute-name="REGISTER">narečje</ud-information>
           <ud-information attribute-name="EDUCATION">Srednješolska</ud-information>
           <ud-information attribute-name="PERM-RESD-SETTLEMENT">Postojna, Občina Postojna</ud-information>
-          <ud-information attribute-name="PERM-RESD-STAT-REGION">primorsko-notranjska regija</ud-information>
+          <ud-information attribute-name="PERM-RESD-STAT-REGION">primorsko-notranjska
+                        regija</ud-information>
           <ud-information attribute-name="CHILD-RESD-SETTLEMENT">Pivka, Občina Pivka</ud-information>
-          <ud-information attribute-name="CHILD-RESD-STAT-REGION">primorsko-notranjska regija</ud-information>
-          <ud-information attribute-name="OTHER-RESD-SETTLEMENT">Nova Gorica, Občina Nova Gorica</ud-information>
+          <ud-information attribute-name="CHILD-RESD-STAT-REGION">primorsko-notranjska
+                        regija</ud-information>
+          <ud-information attribute-name="OTHER-RESD-SETTLEMENT">Nova Gorica, Občina Nova
+                        Gorica</ud-information>
           <ud-information attribute-name="OTHER-RESD-STAT-REGION">Goriška regija</ud-information>
           <ud-information attribute-name="BILINGUAL">Ne</ud-information>
           <ud-information attribute-name="BILING-DESCRIPTION">None</ud-information>
@@ -786,9 +799,6 @@
       <tli id="T717-92" time="717.6863661681292"/>
       <tli id="T717-92_" time="717.92"/>
       <tli id="T717-920_" time="717.92"/>
-      <tli id="T717-92_" time="717.92"/>
-      <tli id="T717-920_" time="717.92"/>
-      <tli id="T717-92_" time="717.92"/>
       <tli id="T717-920" time="718.4594999999999" type="intp"/>
       <tli id="T718-999" time="718.999"/>
       <tli id="T719-893" time="719.893"/>
@@ -1345,7 +1355,8 @@
       <event start="T86" end="T198-341">pa si zbereš, kar č@š. </event>
       <event start="T201-508" end="T245">Mor@š met aplikacijo </event>
       <event start="T245" end="T89">pa si rezerviraš Buking, </event>
-      <event start="T89" end="T90">pa sej tm maš guor tut apartmaje in bungalove menda in hotelov, kmečke turizme, </event>
+      <event start="T89" end="T90">pa sej tm maš guor tut apartmaje in bungalove menda in
+                hotelov, kmečke turizme, </event>
       <event start="T90" end="T209-453">menda je vse guor. </event>
       <event start="T212-783" end="T214-062">[glas] Ja. </event>
       <event start="T216-064" end="T93">Ja, lepu. </event>
@@ -1448,7 +1459,8 @@
       <event start="T126" end="T389">in si ha najdeš </event>
       <event start="T389" end="T418-197">in greš naprej. </event>
       <event start="T418-197" end="T418-407">Ja. </event>
-      <event start="T423-202" end="T430-653">Tm zraven, takoj zraven letališča j ful t@h eee ahencij, ku majo rentakar. </event>
+      <event start="T423-202" end="T430-653">Tm zraven, takoj zraven letališča j ful t@h eee
+                ahencij, ku majo rentakar. </event>
       <event start="T430-653" end="T431-835">Ena zravn druge. </event>
       <event start="T432-733" end="T434-977">In tm lahku najam@š avto. </event>
       <event start="T434-977" end="T436-121">In pol greš. </event>
@@ -1657,7 +1669,8 @@
       <event start="T944-074" end="T288">Nej sam ena korenika, </event>
       <event start="T288" end="T946-008">jih je več. </event>
       <event start="T950-597" end="T951-135">Aja? </event>
-      <event start="T952-448" end="T956-439">Ma kaj tu je res, da se da h korenčki l@hku tut mivko? </event>
+      <event start="T952-448" end="T956-439">Ma kaj tu je res, da se da h korenčki l@hku tut
+                mivko? </event>
       <event start="T965-491" end="T374">Aha, </event>
       <event start="T374" end="T966-216">rabi bt bl mehka zjemla. </event>
       <event start="T966-216" end="T969-11">Da lohk nardi koreniko. </event>
@@ -1779,7 +1792,8 @@
       <event start="T105-010" end="T106-675">Pa tam rezervirajte tisto. </event>
       <event start="T107-182" end="T53">Ja, </event>
       <event start="T53" end="T112-081">samo moraš imeti eee tablico, registracijo </event>
-      <event start="T112-081" end="T116-436">in pol tam daš od kdaj do kdaj, kateri datum in uro. </event>
+      <event start="T112-081" end="T116-436">in pol tam daš od kdaj do kdaj, kateri datum in
+                uro. </event>
       <event start="T117-061" end="T283">In pol tam pustiš </event>
       <event start="T283" end="T120-101">in te že senzor zazna tablico,</event>
       <event start="T120-101" end="T120-7">ja.</event>
@@ -1832,10 +1846,11 @@
       <event start="T86" end="T198-341">pa si izbereš, kar češ. </event>
       <event start="T201-508" end="T245">Moraš imeti aplikacijo</event>
       <event start="T245" end="T89"> pa si rezerviraš Booking, </event>
-      <event start="T89" end="T90">pa saj tam imaš gor tudi apartmaje in bungalove menda in hotelov, kmečke turizme,</event>
+      <event start="T89" end="T90">pa saj tam imaš gor tudi apartmaje in bungalove menda in
+                hotelov, kmečke turizme,</event>
       <event start="T90" end="T209-453"> menda je vse gor. </event>
       <event start="T212-783" end="T214-062">[glas] Ja. </event>
-      <event start="T216-064" end="T93">Ja, lepo.   </event>
+      <event start="T216-064" end="T93">Ja, lepo. </event>
       <event start="T93" end="T218-39">Kaj pa za potovalko? </event>
       <event start="T218-39" end="T219-393">Kufer? </event>
       <event start="T220-038" end="T222-237">Moraš pogledati one mere, ko gre na letalo. </event>
@@ -1935,7 +1950,8 @@
       <event start="T126" end="T389">in si ga najdeš </event>
       <event start="T389" end="T418-197">in greš naprej. </event>
       <event start="T418-197" end="T418-407">Ja. </event>
-      <event start="T423-202" end="T430-653">Tam zraven, takoj zraven letališča je ful teh eee agencij, ko imajo rentakar. </event>
+      <event start="T423-202" end="T430-653">Tam zraven, takoj zraven letališča je ful teh eee
+                agencij, ko imajo rentakar. </event>
       <event start="T430-653" end="T431-835">Ena zraven druge. </event>
       <event start="T432-733" end="T434-977">In tam lahko najameš avto. </event>
       <event start="T434-977" end="T436-121">In pol greš. </event>
@@ -2016,7 +2032,8 @@
       <event start="T592-19" end="T593-965">Kaj pa krompir? </event>
       <event start="T593-965" end="T595-436">Je že cajt za krompir? </event>
       <event start="T606-742" end="T608-232">Kaj pa jagode? </event>
-      <event start="T614-067" end="T618-497">Sem videla včeraj v v drevesnici, da imajo sadike. </event>
+      <event start="T614-067" end="T618-497">Sem videla včeraj v v drevesnici, da imajo
+                sadike. </event>
       <event start="T627-986" end="T311">Aha. </event>
       <event start="T311" end="T155">Kaj pa maline?</event>
       <event start="T155" end="T631-349"> D() eee </event>
@@ -2024,7 +2041,7 @@
       <event start="T637-103" end="T637-671">Ja,</event>
       <event start="T637-671" end="T639-068"> ma kaj jih treba tudi zredčiti? </event>
       <event start="T639-068" end="T640-828">Ker te so prav goste. </event>
-      <event start="T643-008" end="T644-322">Poganjke.  </event>
+      <event start="T643-008" end="T644-322">Poganjke. </event>
       <event start="T647-218" end="T649-675">Ma tudi v k malinam bi lahko dala malo gnoja. </event>
       <event start="T656-709" end="T315">Aja,</event>
       <event start="T315" end="T272"> to, to,</event>
@@ -2033,7 +2050,8 @@
       <event start="T658-749" end="T158">ja.</event>
       <event start="T158" end="T355"> Bo v redu, </event>
       <event start="T355" end="T661-02">ja. </event>
-      <event start="T662-813" end="T159">Sem pa danes kupila eno sadikico tistega grma rumenega,</event>
+      <event start="T662-813" end="T159">Sem pa danes kupila eno sadikico tistega grma
+                rumenega,</event>
       <event start="T159" end="T667-363"> kaj je forzicija</event>
       <event start="T667-363" end="T668-3"> ali kako se reče tistemu? </event>
       <event start="T668-3" end="T669-949">Ja, ka() tisti, </event>
@@ -2144,7 +2162,8 @@
       <event start="T944-074" end="T288">Ni samo ena korenika,</event>
       <event start="T288" end="T946-008"> jih je več. </event>
       <event start="T950-597" end="T951-135">Aja? </event>
-      <event start="T952-448" end="T956-439">Ma kaj to je res, da se da h korenčku lahko tudi mivko? </event>
+      <event start="T952-448" end="T956-439">Ma kaj to je res, da se da h korenčku lahko tudi
+                mivko? </event>
       <event start="T965-491" end="T374">Aha, </event>
       <event start="T374" end="T966-216">rabi biti bolj mehka zemlja.</event>
       <event start="T966-216" end="T969-11">Da lahko naredi koreniko. </event>
@@ -3897,19 +3916,25 @@
     </tier>
     <tier id="TIE1_NORM1_seg" speaker="ROG-dialog-0007" category="norm" type="a" display-name="ROG-dialog-0007 [normSeg]">
       <event start="T0-555" end="T3-017">Kaj zdaj, si kupila karte za na Sardinijo? </event>
-      <event start="T5-403" end="T12-533">Ja, pa saj je čisto enostavno. Tam greš na ono spletno stran od Ryanaira, pogledaš datume, pogledaš cene in pol si izbereš. </event>
+      <event start="T5-403" end="T12-533">Ja, pa saj je čisto enostavno. Tam greš na ono
+                spletno stran od Ryanaira, pogledaš datume, pogledaš cene in pol si izbereš. </event>
       <event start="T12-533" end="T16-579">Koliko cajta ... koliko cajta bi bila tam? </event>
       <event start="T16-579" end="T18-133">Več cajta ko si, bolj poceni je. </event>
-      <event start="T20-669" end="T23-316_">Ja, ti bi rada samo, da ti drugi zrihtajo pa da ti greš. </event>
-      <event start="T26-411" end="T32-282_">No, ma tam si naloži tisto aplikacijo od Ryanair in se prijaviš in pol izbereš karto. [zvok] </event>
+      <event start="T20-669" end="T23-316_">Ja, ti bi rada samo, da ti drugi zrihtajo pa da ti
+                greš. </event>
+      <event start="T26-411" end="T32-282_">No, ma tam si naloži tisto aplikacijo od Ryanair
+                in se prijaviš in pol izbereš karto. [zvok] </event>
       <event start="T34-931_" end="T35-679">Ne, </event>
       <event start="T35-679" end="T36-904">moraš imeti aplikacijo. </event>
       <event start="T37-794_" end="T40-45">Ja, ker pol imaš shranjene te karte v aplikaciji. </event>
       <event start="T42-701" end="T44-195">Ja, pol si jih pa še natisneš, č() </event>
       <event start="T44-195" end="T46-755">če ti slučajno telefon crkne. Ja. </event>
-      <event start="T48-336_" end="T53-776">Tam izbereš, pol se prijaviš, prijaviš tiste osebe, ko grejo. </event>
-      <event start="T53-776" end="T56-595">Pa mora biti prav napisano. Morajo biti vse črke prav. </event>
-      <event start="T58-838" end="T65-334">Lahko eee z doplačilom, mislim, da je deset evrov, da zamenjaš eee naslov eee naslovnika </event>
+      <event start="T48-336_" end="T53-776">Tam izbereš, pol se prijaviš, prijaviš tiste
+                osebe, ko grejo. </event>
+      <event start="T53-776" end="T56-595">Pa mora biti prav napisano. Morajo biti vse črke
+                prav. </event>
+      <event start="T58-838" end="T65-334">Lahko eee z doplačilom, mislim, da je deset evrov,
+                da zamenjaš eee naslov eee naslovnika </event>
       <event start="T65-334" end="T66-083">karte. </event>
       <event start="T66-93" end="T68-851">Ja, in pol s kartico plačaš. </event>
       <event start="T69-978" end="T72-147">Kartico imaš za plačati? </event>
@@ -3917,8 +3942,10 @@
       <event start="T73-508" end="T73-944_">A imaš? </event>
       <event start="T75-105" end="T75-957_">A no, tisto imaš. </event>
       <event start="T75-957_" end="T78-046">No, in pol ko plačaš ... </event>
-      <event start="T78-046" end="T81-743">pol pa greš nazaj v aplikacijo in narediš tisti check in. </event>
-      <event start="T82-496" end="T88-976">Ne? In tam ti piše pol, ob koliki uri greš in kdaj pristaneš. In številko leta. </event>
+      <event start="T78-046" end="T81-743">pol pa greš nazaj v aplikacijo in narediš tisti
+                check in. </event>
+      <event start="T82-496" end="T88-976">Ne? In tam ti piše pol, ob koliki uri greš in kdaj
+                pristaneš. In številko leta. </event>
       <event start="T88-976" end="T90-502">Pa za ... </event>
       <event start="T92-364" end="T95-011">Ja, no, pa saj sss čem ti povedati pa te navaditi. </event>
       <event start="T95-487" end="T97-797">Pa kaj b() kje boste pa parkirali? </event>
@@ -3927,8 +3954,10 @@
       <event start="T105-010" end="T106-139_">Pa tam rezervirajte </event>
       <event start="T106-139_" end="T106-675">tisto. </event>
       <event start="T107-182" end="T112-081">Ja, samo moraš imeti eee tablico, registracijo </event>
-      <event start="T112-081" end="T116-436">in pol tam daš od kdaj do kdaj, kateri datum in uro. </event>
-      <event start="T117-061_" end="T120-101_">In pol tam pustiš in te že senzor zazna tablico,</event>
+      <event start="T112-081" end="T116-436">in pol tam daš od kdaj do kdaj, kateri datum in
+                uro. </event>
+      <event start="T117-061_" end="T120-101_">In pol tam pustiš in te že senzor zazna
+                tablico,</event>
       <event start="T120-101_" end="T120-7_">ja.</event>
       <event start="T120-7_" end="T121-687">Ja, in nič ne rabiš.</event>
       <event start="T122-951" end="T125-123">No, in ti je čisto enostavno tja priti.</event>
@@ -3939,10 +3968,13 @@
       <event start="T133-509_" end="T134-639">greš domov. </event>
       <event start="T137-504" end="T139-426">Saj boš počivala na letalu. </event>
       <event start="T139-931" end="T140-979">Koliko cajta </event>
-      <event start="T140-979" end="T143-902">se boste peljali? Dve uri? Koliko smo se mi peljali? Tri? </event>
+      <event start="T140-979" end="T143-902">se boste peljali? Dve uri? Koliko smo se mi
+                peljali? Tri? </event>
       <event start="T143-902" end="T145-608">Dve, menda, ne vem. </event>
-      <event start="T147-075" end="T150-099_">Na karti bo pisalo. Kdaj je vzlet in kdaj je pristanek. </event>
-      <event start="T151-669" end="T154-954">Ja, saj zato si moraš naruo() naložiti tisto aplikacijo. </event>
+      <event start="T147-075" end="T150-099_">Na karti bo pisalo. Kdaj je vzlet in kdaj je
+                pristanek. </event>
+      <event start="T151-669" end="T154-954">Ja, saj zato si moraš naruo() naložiti tisto
+                aplikacijo. </event>
       <event start="T155-796" end="T159-028">Ja, kaj pa eee hotel? </event>
       <event start="T159-028" end="T160-472">A ne boste v hotelu? </event>
       <event start="T160-472" end="T161-106">Kje pa boste? </event>
@@ -3961,10 +3993,13 @@
       <event start="T189-13" end="T189-841_">Ja, no, </event>
       <event start="T189-841_" end="T190-257">ma saj tudi </event>
       <event start="T190-257" end="T192-035">tu preko Bookinga greš lahko, ne? </event>
-      <event start="T192-462" end="T195-428">Tudi tu moraš imeti aplikacijo pa se registrirati. </event>
+      <event start="T192-462" end="T195-428">Tudi tu moraš imeti aplikacijo pa se
+                registrirati. </event>
       <event start="T196-431" end="T197-702">Ne, pa si izbereš, </event>
       <event start="T197-702" end="T198-341">kar češ. </event>
-      <event start="T201-508" end="T209-453_">Moraš imeti aplikacijo pa si rezerviraš Booking, pa saj tam imaš gor tudi apartmaje in bungalove menda in hotelov, kmečke turizme, menda je vse gor. </event>
+      <event start="T201-508" end="T209-453_">Moraš imeti aplikacijo pa si rezerviraš Booking,
+                pa saj tam imaš gor tudi apartmaje in bungalove menda in hotelov, kmečke turizme,
+                menda je vse gor. </event>
       <event start="T212-783" end="T214-062">[glas] Ja. </event>
       <event start="T216-064" end="T218-39">Ja, lepo. Kaj pa za potovalko? </event>
       <event start="T218-39" end="T219-393">Kufer? </event>
@@ -3980,19 +4015,23 @@
       <event start="T241-892" end="T242-305">Pol </event>
       <event start="T242-305" end="T243-700">boste pa raziskovali okoli </event>
       <event start="T243-700" end="T245-127">pa na izlete boste šli. </event>
-      <event start="T246-422" end="T252-894">Mislim, da je dimenzije štiri, eee ko(), ne, rukzak je štirideset, petdeset, dvajset, ne? </event>
+      <event start="T246-422" end="T252-894">Mislim, da je dimenzije štiri, eee ko(), ne,
+                rukzak je štirideset, petdeset, dvajset, ne? </event>
       <event start="T253-52" end="T255-822_">Kufer je pa, piše na aplikaciji </event>
       <event start="T255-822_" end="T256-795_">od Ryanaira, moraš </event>
       <event start="T256-795_" end="T258-191">pogledati, koliko gre lahko. </event>
       <event start="T258-801" end="T259-132">Ker če ... </event>
       <event start="T259-92" end="T260-941">Ja, tudi. </event>
-      <event start="T260-941" end="T265-174">Ker če boš na prišla na letališče, moraš, tam je en tak pano, </event>
-      <event start="T265-174" end="T271-182">pa notri je ograjeno, kakšen eee kufer gre noter. Če je pre() prevelik, lahko plačaš tudi petdeset evrov, veš? </event>
+      <event start="T260-941" end="T265-174">Ker če boš na prišla na letališče, moraš, tam je
+                en tak pano, </event>
+      <event start="T265-174" end="T271-182">pa notri je ograjeno, kakšen eee kufer gre noter.
+                Če je pre() prevelik, lahko plačaš tudi petdeset evrov, veš? </event>
       <event start="T271-725" end="T272-324">Ja, ja.</event>
       <event start="T273-188" end="T273-629">Te lahko </event>
       <event start="T273-629" end="T275-063">tam kar ustavijo. </event>
       <event start="T275-063" end="T275-692">Ja.</event>
-      <event start="T275-692" end="T279-907">Zato morajo biti standardne mere. Tako kot piše tam, na aplikaciji. </event>
+      <event start="T275-692" end="T279-907">Zato morajo biti standardne mere. Tako kot piše
+                tam, na aplikaciji. </event>
       <event start="T283-793" end="T284-027">Ja. </event>
       <event start="T284-027" end="T285-21">Pojdi pogledat. </event>
       <event start="T285-21" end="T288-868">Po moje da imajo v tej eee, kaj je ona trgovina? </event>
@@ -4014,10 +4053,12 @@
       <event start="T318-274_" end="T319-201">skozi </event>
       <event start="T319-201" end="T320-407">kontrolo. </event>
       <event start="T324-765" end="T326-399">Eee moraš imeti eee </event>
-      <event start="T326-399" end="T330-54">powerbank moraš imeti pri sebi pa polnilec moraš imeti pri sebi v rukzaku. </event>
+      <event start="T326-399" end="T330-54">powerbank moraš imeti pri sebi pa polnilec moraš
+                imeti pri sebi v rukzaku. </event>
       <event start="T330-54" end="T332-202">To ne sme biti noter v kufru. </event>
       <event start="T332-997" end="T333-485">Ne, </event>
-      <event start="T333-485" end="T336-96">to moraš imeti pri sebi, in ko boš šla skozi  kontrolo, moraš to vse dati </event>
+      <event start="T333-485" end="T336-96">to moraš imeti pri sebi, in ko boš šla skozi
+                kontrolo, moraš to vse dati </event>
       <event start="T336-96" end="T337-61">ven. </event>
       <event start="T338-364" end="T338-998">Na, na </event>
       <event start="T338-998" end="T339-91">tekoči </event>
@@ -4046,23 +4087,28 @@
       <event start="T392-1" end="T393-056">pa pol. </event>
       <event start="T393-056" end="T394-237">Ko pristaneš. </event>
       <event start="T399-341" end="T401-133">Ma odvisno. </event>
-      <event start="T401-133" end="T404-386">Odvisno, koliko cajta rabijo, da razložijo letalo. </event>
+      <event start="T401-133" end="T404-386">Odvisno, koliko cajta rabijo, da razložijo
+                letalo. </event>
       <event start="T406-696" end="T407-768">Ja, tudi, ja. </event>
       <event start="T407-768" end="T409-812">Ma na Sardiniji ni tako veliko. </event>
       <event start="T410-272_" end="T410-779">Ne. </event>
       <event start="T412-303_" end="T412-79_">Bolj hitro </event>
-      <event start="T412-79_" end="T416-991">pripeljejo tiste kufre na tekoči trak in si ga najdeš in greš </event>
+      <event start="T412-79_" end="T416-991">pripeljejo tiste kufre na tekoči trak in si ga
+                najdeš in greš </event>
       <event start="T416-991" end="T418-197">naprej. </event>
       <event start="T418-197" end="T418-407">Ja. </event>
-      <event start="T423-202" end="T430-653">Tam zraven, takoj zraven letališča je ful teh eee agencij, ko imajo rentakar. </event>
+      <event start="T423-202" end="T430-653">Tam zraven, takoj zraven letališča je ful teh eee
+                agencij, ko imajo rentakar. </event>
       <event start="T430-653" end="T431-453">Ena zraven </event>
       <event start="T431-453" end="T431-835">druge. </event>
       <event start="T432-733_" end="T433-626">In tam </event>
       <event start="T433-626" end="T434-977">lahko najameš avto. </event>
       <event start="T434-977" end="T436-121">In pol greš. </event>
       <event start="T438-505" end="T440-868">Ne vem. Moraš pogledati, ko ima vsak drugače. </event>
-      <event start="T441-667_" end="T447-421">Pa moraš plačati še neko zavarovanje, pa če je mmm če je mlad šofer, je pol problem. </event>
-      <event start="T447-421" end="T452-076_">Pa če ti rezerviraš nase, pa drug vozi, je tudi problem, ko moraš </event>
+      <event start="T441-667_" end="T447-421">Pa moraš plačati še neko zavarovanje, pa če je
+                mmm če je mlad šofer, je pol problem. </event>
+      <event start="T447-421" end="T452-076_">Pa če ti rezerviraš nase, pa drug vozi, je tudi
+                problem, ko moraš </event>
       <event start="T452-076_" end="T453-37">pol popravljati to. </event>
       <event start="T454-947_" end="T456-121">Ti() ja. </event>
       <event start="T456-121" end="T456-792_">Tisti, ko </event>
@@ -4073,22 +4119,27 @@
       <event start="T464-033_" end="T464-978_">Ker smo imeli </event>
       <event start="T464-978_" end="T466-06_">tam mi tudi </event>
       <event start="T466-06_" end="T468-39">problem, k smo pol dali na Iztoka. </event>
-      <event start="T469-373" end="T473-784">Ja zato, ko nnn ne sme voziti mlad šofer ali nekako tako je bilo. </event>
+      <event start="T469-373" end="T473-784">Ja zato, ko nnn ne sme voziti mlad šofer ali
+                nekako tako je bilo. </event>
       <event start="T474-267_" end="T475-511">Ja, ja. </event>
-      <event start="T475-511" end="T479-633_">Ker je nas je Gaja rezervirala in pol smo mogli prenesti na Iztoka in smo </event>
+      <event start="T475-511" end="T479-633_">Ker je nas je Gaja rezervirala in pol smo mogli
+                prenesti na Iztoka in smo </event>
       <event start="T479-633_" end="T480-704">mogli pol doplačati. </event>
       <event start="T481-824" end="T482-499">Ja. </event>
       <event start="T482-499" end="T484-294">Bencin je pa bolj poceni. </event>
       <event start="T484-936" end="T485-56">Ja, </event>
-      <event start="T485-56" end="T488-099">bolj poceni kot pri nas, tudi v trgovinah je vse bolj poceni </event>
+      <event start="T485-56" end="T488-099">bolj poceni kot pri nas, tudi v trgovinah je vse
+                bolj poceni </event>
       <event start="T488-099" end="T488-91">kot pri nas. </event>
       <event start="T488-91" end="T489-941_">Ja. </event>
       <event start="T493-002" end="T494-234">Nnn ne. </event>
       <event start="T494-234" end="T495-015">V trgovinah je </event>
       <event start="T495-015" end="T495-828">cenejše. </event>
-      <event start="T495-828" end="T501-454">Smo šli mi v Eurospin, tam neke njihove trgovine, ma je bilo vse bolj poceni. </event>
+      <event start="T495-828" end="T501-454">Smo šli mi v Eurospin, tam neke njihove trgovine,
+                ma je bilo vse bolj poceni. </event>
       <event start="T502-4_" end="T504-504_">Ja. In Eurospin </event>
-      <event start="T504-504_" end="T507-698">je lepši kakor pri nas in imajo bolj založeno kot pri nas. </event>
+      <event start="T504-504_" end="T507-698">je lepši kakor pri nas in imajo bolj založeno
+                kot pri nas. </event>
       <event start="T508-751" end="T509-272">Ja. </event>
       <event start="T509-272" end="T512-95">Tako da pojdite v Eurospin pa l() v Lidl pojdite </event>
       <event start="T512-95" end="T515-597">pa polno znamenitosti </event>
@@ -4103,7 +4154,8 @@
       <event start="T536-0" end="T537-625_">to greš za cel dan, </event>
       <event start="T537-625_" end="T539-676">in te peljejo od plaže do plaže </event>
       <event start="T539-676" end="T540-271">in ti povejo, </event>
-      <event start="T540-271" end="T543-357_">katera plaža je, in pol greš ti dol in se lahko tam </event>
+      <event start="T540-271" end="T543-357_">katera plaža je, in pol greš ti dol in se lahko
+                tam </event>
       <event start="T543-357_" end="T544-446_">kopaš in pol </event>
       <event start="T544-446_" end="T546-183">ti povejo, kdaj gre ladja nazaj, </event>
       <event start="T546-183" end="T548-166">in pol te peljejo na drugo plažo. </event>
@@ -4111,21 +4163,25 @@
       <event start="T550-026" end="T550-85">Pa moraš ... </event>
       <event start="T553-46" end="T554-25_">Tudi, </event>
       <event start="T554-25_" end="T555-391_">ne, tudi v angleščini. </event>
-      <event start="T558-419" end="T563-333">No, zdaj ko boš to ko to veš, kako to gre, zdaj pa daj mi še to povej, </event>
-      <event start="T563-333" end="T568-03">kaj je zdaj, kaj naj zdaj na njivi sadim in sejem? Kaj čem zdaj, ko ko ne vem, </event>
+      <event start="T558-419" end="T563-333">No, zdaj ko boš to ko to veš, kako to gre, zdaj
+                pa daj mi še to povej, </event>
+      <event start="T563-333" end="T568-03">kaj je zdaj, kaj naj zdaj na njivi sadim in sejem?
+                Kaj čem zdaj, ko ko ne vem, </event>
       <event start="T568-03" end="T568-953">točno </event>
       <event start="T568-953" end="T569-867">kaj se lotiti. </event>
       <event start="T572-561" end="T573-247">Ja, to ... </event>
       <event start="T575-745" end="T576-847">Pa imaš kaj gnoja? </event>
       <event start="T578-424" end="T578-94">No ... </event>
-      <event start="T580-098" end="T583-439">Prav, samo moram kakšne vreče najti, ker je eee  tisto pol v avtu vse smrdi. </event>
+      <event start="T580-098" end="T583-439">Prav, samo moram kakšne vreče najti, ker je eee
+                tisto pol v avtu vse smrdi. </event>
       <event start="T592-19" end="T593-965">Kaj pa krompir? </event>
       <event start="T593-965" end="T594-497">Je že cajt </event>
       <event start="T594-497" end="T595-436_">za krompir? </event>
       <event start="T606-742" end="T608-232">Kaj pa jagode? </event>
       <event start="T614-067" end="T615-255">Sem videla včeraj </event>
       <event start="T615-255" end="T618-497">v v drevesnici, da imajo sadike. </event>
-      <event start="T627-986" end="T631-349_">Aha. Kaj pa maline? D() eee kaj je treba kaj porezati </event>
+      <event start="T627-986" end="T631-349_">Aha. Kaj pa maline? D() eee kaj je treba kaj
+                porezati </event>
       <event start="T631-349_" end="T632-395">jih ali nič? </event>
       <event start="T637-103" end="T637-671_">Ja, ma </event>
       <event start="T637-671_" end="T638-145_">kaj jih </event>
@@ -4137,7 +4193,8 @@
       <event start="T656-709" end="T658-004_">Aja, to, to, travo </event>
       <event start="T658-004_" end="T658-749_">bom pokosila </event>
       <event start="T658-749_" end="T661-02">pa bom dala, ja. Bo v redu, ja. </event>
-      <event start="T662-813_" end="T667-363_">Sem pa danes kupila eno sadikico tistega grma rumenega, kaj je forzicija ali kako se reče </event>
+      <event start="T662-813_" end="T667-363_">Sem pa danes kupila eno sadikico tistega grma
+                rumenega, kaj je forzicija ali kako se reče </event>
       <event start="T667-363_" end="T668-3">tistemu? </event>
       <event start="T668-3" end="T669-949_">Ja, ka() tisti, tisto, ko </event>
       <event start="T669-949_" end="T670-507">zdaj cvete, </event>
@@ -4171,7 +4228,8 @@
       <event start="T744-328_" end="T744-934">mi je lep. </event>
       <event start="T745-662" end="T746-934">Pa lepo diši tisto. </event>
       <event start="T752-848" end="T754-204_">Kaj je to? </event>
-      <event start="T760-616" end="T764-440">Ja, samo tisto bi morala dati pozimi eee biz() ... tisto bi moralo biti v loncu, da </event>
+      <event start="T760-616" end="T764-440">Ja, samo tisto bi morala dati pozimi eee biz()
+                ... tisto bi moralo biti v loncu, da </event>
       <event start="T764-440" end="T765-986">se da pozimi noter ali ne? </event>
       <event start="T766-645" end="T767-631">Aja? </event>
       <event start="T768-693" end="T769-949">Aja? </event>
@@ -4183,7 +4241,8 @@
       <event start="T791-775" end="T792-596">Ma onega </event>
       <event start="T792-596" end="T793-814">tam, ko je tako kot drevo </event>
       <event start="T793-814" end="T794-351_">veliko. </event>
-      <event start="T794-943" end="T799-483">No, saj zdaj sem ga zadnjič ven prinesla iz one  kočice, da vidim, če bo kaj pognalo listov. </event>
+      <event start="T794-943" end="T799-483">No, saj zdaj sem ga zadnjič ven prinesla iz one
+                kočice, da vidim, če bo kaj pognalo listov. </event>
       <event start="T800-145_" end="T802-176_">Ne vem. Zdaj je samo štrcelj. </event>
       <event start="T806-06" end="T807-348">Zdaj je samo štrcelj. </event>
       <event start="T807-348" end="T808-124">Am() ... </event>
@@ -4201,7 +4260,8 @@
       <event start="T849-367" end="T850-03">Aja? </event>
       <event start="T857-814" end="T858-697">A majčken </event>
       <event start="T858-697" end="T859-368">žakelj? </event>
-      <event start="T861-279" end="T864-333">Aja, pol bi mogla kupiti enega zgodnjega, da je čim prej? </event>
+      <event start="T861-279" end="T864-333">Aja, pol bi mogla kupiti enega zgodnjega, da je
+                čim prej? </event>
       <event start="T864-333" end="T865-811">Pa enega kasnega. </event>
       <event start="T871-881" end="T873-514">Ma, nekaj ga je. </event>
       <event start="T877-667" end="T878-754">Tisto je še prezgodaj. T() </event>
@@ -4234,14 +4294,16 @@
       <event start="T938-404" end="T938-861">Ne? </event>
       <event start="T944-074_" end="T946-008_">Ni samo ena korenika, jih je več. </event>
       <event start="T950-597" end="T951-135">Aja? </event>
-      <event start="T952-448" end="T956-439">Ma kaj to je res, da se da h korenčku lahko tudi mivko? </event>
+      <event start="T952-448" end="T956-439">Ma kaj to je res, da se da h korenčku lahko tudi
+                mivko? </event>
       <event start="T965-491" end="T966-216_">Aha, rabi biti </event>
       <event start="T966-216_" end="T966-862_">bolj mehka </event>
       <event start="T966-862_" end="T968-523">zemlja. Da lahko naredi </event>
       <event start="T968-523" end="T969-11_">koreniko. </event>
       <event start="T972-55" end="T973-775">Da je čim več belega? </event>
       <event start="T975-927_" end="T977-782">Ja. Tisto je fino. </event>
-      <event start="T983-472_" end="T986-524">Pa kaj naj pol kupim, tudi loke pa tisto kopreno? </event>
+      <event start="T983-472_" end="T986-524">Pa kaj naj pol kupim, tudi loke pa tisto
+                kopreno? </event>
       <event start="T991-362" end="T992-66">Ja, kaj, zimska je bolj debela, </event>
       <event start="T992-66" end="T993-332_">so različne? </event>
       <event start="T996-483" end="T997-347">Aja, dve? </event>
@@ -4266,7 +4328,8 @@
       <event start="T1066-01" end="T1066-875_">Aja. </event>
       <event start="T1072-362" end="T1073-684_">Aja, to sem imela </event>
       <event start="T1073-684_" end="T1075-227">v planu, da bi še kupila. </event>
-      <event start="T1082-506" end="T1087-72">Aja, kaj pa to, veš, kaj bi jaz dala v dve gredice? One dalije, rože, ko so mi lepe. </event>
+      <event start="T1082-506" end="T1087-72">Aja, kaj pa to, veš, kaj bi jaz dala v dve
+                gredice? One dalije, rože, ko so mi lepe. </event>
       <event start="T1087-72" end="T1089-06">Tisto tudi ni še zdaj </event>
       <event start="T1089-06" end="T1089-833_">cajt, ne? </event>
       <event start="T1091-826_" end="T1093-459_">[nerazumljivo] </event>
@@ -4296,19 +4359,24 @@
     </tier>
     <tier id="TIE1_seg" speaker="ROG-dialog-0007" category="colloq" type="a" display-name="ROG-dialog-0007 [colloqSeg]">
       <event start="T0-555" end="T3-017">Kaj zdej, si kupla karte za na Sardinijo? </event>
-      <event start="T5-403" end="T12-533">Ja, pa sej je čist enostavno. Tm greš na uno spletno str@n od Rajenera, puhledaš datume, puhledaš cene in puol si zbjereš. </event>
+      <event start="T5-403" end="T12-533">Ja, pa sej je čist enostavno. Tm greš na uno spletno
+                str@n od Rajenera, puhledaš datume, puhledaš cene in puol si zbjereš. </event>
       <event start="T12-533" end="T16-579">Kulk cajta ... kulk cajta bi bla tm? </event>
       <event start="T16-579" end="T18-133">Vječ cajta ku si, bl poceni je. </event>
-      <event start="T20-669" end="T23-316_">Ja, ti bi rada sam, da ti drugi zrihtaju pa da ti hrješ. </event>
-      <event start="T26-411" end="T32-282_">No, ma tm si naluoži tisto aplikacijo od Rajener in se prjav@š in puol zbjereš karto. [zvok] </event>
+      <event start="T20-669" end="T23-316_">Ja, ti bi rada sam, da ti drugi zrihtaju pa da ti
+                hrješ. </event>
+      <event start="T26-411" end="T32-282_">No, ma tm si naluoži tisto aplikacijo od Rajener
+                in se prjav@š in puol zbjereš karto. [zvok] </event>
       <event start="T34-931_" end="T35-679">Ne, </event>
       <event start="T35-679" end="T36-904">morš met aplikacijo. </event>
       <event start="T37-794_" end="T40-45">Ja, ker pol maš shranjene te karte v aplikaciji. </event>
       <event start="T42-701" end="T44-195">Ja, puol si jih pa še natisn@š, č() </event>
       <event start="T44-195" end="T46-755">če ti slučajn telefon crkne. Ja. </event>
-      <event start="T48-336_" end="T53-776">Tm zbjereš, pol se prjav@š, prjav@š tiste usjebe, ku grjejo. </event>
+      <event start="T48-336_" end="T53-776">Tm zbjereš, pol se prjav@š, prjav@š tiste usjebe,
+                ku grjejo. </event>
       <event start="T53-776" end="T56-595">Pa mor bit prov napisano. Morjo bit vse črke prov. </event>
-      <event start="T58-838" end="T65-334">Lohku eee z doplačil@m, misl@m, da je desjet evru, da zamenjaš eee naslov eee naslovnika </event>
+      <event start="T58-838" end="T65-334">Lohku eee z doplačil@m, misl@m, da je desjet evru,
+                da zamenjaš eee naslov eee naslovnika </event>
       <event start="T65-334" end="T66-083">karte. </event>
       <event start="T66-93" end="T68-851">Ja, in pol s kartico plačaš. </event>
       <event start="T69-978" end="T72-147">Kartico j@maš za plačat? </event>
@@ -4316,8 +4384,10 @@
       <event start="T73-508" end="T73-944_">A j@maš? </event>
       <event start="T75-105" end="T75-957_">A no, tistu j@maš. </event>
       <event start="T75-957_" end="T78-046">No, in pol ko plačaš ... </event>
-      <event start="T78-046" end="T81-743">puol pa hr@š nazaj v aplikacijo in nardiš tisti ček in. </event>
-      <event start="T82-496" end="T88-976">Ne? In tm ti piše puol, ob kulki uri grješ in kdaj pristaneš. In številko leta. </event>
+      <event start="T78-046" end="T81-743">puol pa hr@š nazaj v aplikacijo in nardiš tisti ček
+                in. </event>
+      <event start="T82-496" end="T88-976">Ne? In tm ti piše puol, ob kulki uri grješ in kdaj
+                pristaneš. In številko leta. </event>
       <event start="T88-976" end="T90-502">Pa za ... </event>
       <event start="T92-364" end="T95-011">Ja, no, pa sej sss čm ti puvedat pa te navad@t. </event>
       <event start="T95-487" end="T97-797">Pa kaj b() ki buste pa parkirali? </event>
@@ -4338,10 +4408,13 @@
       <event start="T133-509_" end="T134-639">hr@š domov. </event>
       <event start="T137-504" end="T139-426">Sej buš počivala na letali. </event>
       <event start="T139-931" end="T140-979">Kuk cajta </event>
-      <event start="T140-979" end="T143-902">se uste pelali? Dve uri? Kulk smo se mi pelali? Tri? </event>
+      <event start="T140-979" end="T143-902">se uste pelali? Dve uri? Kulk smo se mi pelali?
+                Tri? </event>
       <event start="T143-902" end="T145-608">Dvej, menda, ne vem. </event>
-      <event start="T147-075" end="T150-099_">Na karti bo pisalu. Kdaj je vzlet in kdaj je pristanek. </event>
-      <event start="T151-669" end="T154-954">Ja, sej zatu si muorš naruo() naluožt tisto aplikacijo. </event>
+      <event start="T147-075" end="T150-099_">Na karti bo pisalu. Kdaj je vzlet in kdaj je
+                pristanek. </event>
+      <event start="T151-669" end="T154-954">Ja, sej zatu si muorš naruo() naluožt tisto
+                aplikacijo. </event>
       <event start="T155-796" end="T159-028">Ja, kaj pa eee hotel? </event>
       <event start="T159-028" end="T160-472">A ne boste v hoteli? </event>
       <event start="T160-472" end="T161-106">Ki pa boste? </event>
@@ -4363,7 +4436,9 @@
       <event start="T192-462" end="T195-428">Tut tu morš imeti aplikacijo pa se registrir@t. </event>
       <event start="T196-431" end="T197-702">Ne, pa si zbereš, </event>
       <event start="T197-702" end="T198-341">kar č@š. </event>
-      <event start="T201-508" end="T209-453_">Mor@š met aplikacijo pa si rezerviraš Buking, pa sej tm maš guor tut apartmaje in bungalove menda in hotelov, kmečke turizme, menda je vse guor. </event>
+      <event start="T201-508" end="T209-453_">Mor@š met aplikacijo pa si rezerviraš Buking, pa
+                sej tm maš guor tut apartmaje in bungalove menda in hotelov, kmečke turizme, menda
+                je vse guor. </event>
       <event start="T212-783" end="T214-062">[glas] Ja. </event>
       <event start="T216-064" end="T218-39">Ja, lepu. Kaj pa za potovalko? </event>
       <event start="T218-39" end="T219-393">Kuf@r? </event>
@@ -4379,19 +4454,23 @@
       <event start="T241-892" end="T242-305">Pol </event>
       <event start="T242-305" end="T243-700">buste pa raziskovali okuli </event>
       <event start="T243-700" end="T245-127">pa na izlete boste šli. </event>
-      <event start="T246-422" end="T252-894">Misl@m, da je dimenzije štir, eee ku(), ne, rudzah je štjirdeset, pjed@s@t, dvajst, ne?</event>
+      <event start="T246-422" end="T252-894">Misl@m, da je dimenzije štir, eee ku(), ne,
+                rudzah je štjirdeset, pjed@s@t, dvajst, ne?</event>
       <event start="T253-52" end="T255-822_">Kuf@r je pa, piše na aplikaciji </event>
       <event start="T255-822_" end="T256-795_">od Rajenera, murš </event>
       <event start="T256-795_" end="T258-191">puhljedat, kulk gre l@hku. </event>
       <event start="T258-801" end="T259-132">Ker če ... </event>
       <event start="T259-92" end="T260-941">Ja, tudi. </event>
-      <event start="T260-941" end="T265-174">Ker če boš na pršla na letališče, mor@š, tm je en tak pano, </event>
-      <event start="T265-174" end="T271-182">pa nuotr je ohrajenu, kaš@n eee kuf@r gre nuoter. Če je pre() prevel@k, lohk plačaš tut pjedes@t evrov, veš? </event>
+      <event start="T260-941" end="T265-174">Ker če boš na pršla na letališče, mor@š, tm je en
+                tak pano, </event>
+      <event start="T265-174" end="T271-182">pa nuotr je ohrajenu, kaš@n eee kuf@r gre nuoter.
+                Če je pre() prevel@k, lohk plačaš tut pjedes@t evrov, veš? </event>
       <event start="T271-725" end="T272-324">Ja, ja. </event>
       <event start="T273-188" end="T273-629">Te lohku </event>
       <event start="T273-629" end="T275-063">tm kr ustavjo. </event>
       <event start="T275-063" end="T275-692">Ja. </event>
-      <event start="T275-692" end="T279-907">Zatu morju b@t standardne mjere. Tku ku piše tm, na aplikaciji. </event>
+      <event start="T275-692" end="T279-907">Zatu morju b@t standardne mjere. Tku ku piše tm,
+                na aplikaciji. </event>
       <event start="T283-793" end="T284-027">Ja. </event>
       <event start="T284-027" end="T285-21">Pejt puhled@t. </event>
       <event start="T285-21" end="T288-868">Po moje da j@maju v tej eee, kaj je una trhovina? </event>
@@ -4413,10 +4492,12 @@
       <event start="T318-274_" end="T319-201">skuzi</event>
       <event start="T319-201" end="T320-407">kontrolo. </event>
       <event start="T324-765" end="T326-399">Eee mor@š met eee </event>
-      <event start="T326-399" end="T330-54">pauerbenk morš met pr sjebi pa povnivc morš met pr sjebi u rudzahi. </event>
+      <event start="T326-399" end="T330-54">pauerbenk morš met pr sjebi pa povnivc morš met pr
+                sjebi u rudzahi. </event>
       <event start="T330-54" end="T332-202">Tu ne smej bit noter u kufri. </event>
       <event start="T332-997" end="T333-485">Ne, </event>
-      <event start="T333-485" end="T336-96">tu morš met pr sjebi, in ku buš šla skus kontrolo, morš tu vse d@t </event>
+      <event start="T333-485" end="T336-96">tu morš met pr sjebi, in ku buš šla skus kontrolo,
+                morš tu vse d@t </event>
       <event start="T336-96" end="T337-61">ven. </event>
       <event start="T338-364" end="T338-998">Na, na </event>
       <event start="T338-998" end="T339-91">tekoči </event>
@@ -4450,18 +4531,22 @@
       <event start="T407-768" end="T409-812">Ma na Sardiniji nij taku veliku. </event>
       <event start="T410-272_" end="T410-779">Ne. </event>
       <event start="T412-303_" end="T412-79_">Bol hitru </event>
-      <event start="T412-79_" end="T416-991">prpjeleju tiste kufre na tekoči trak in si ha najdeš in greš </event>
+      <event start="T412-79_" end="T416-991">prpjeleju tiste kufre na tekoči trak in si ha
+                najdeš in greš </event>
       <event start="T416-991" end="T418-197">naprej. </event>
       <event start="T418-197" end="T418-407">Ja. </event>
-      <event start="T423-202" end="T430-653">Tm zraven, takoj zraven letališča j ful t@h eee ahencij, ku majo rentakar. </event>
+      <event start="T423-202" end="T430-653">Tm zraven, takoj zraven letališča j ful t@h eee
+                ahencij, ku majo rentakar. </event>
       <event start="T430-653" end="T431-453">Ena zravn </event>
       <event start="T431-453" end="T431-835">druge. </event>
       <event start="T432-733_" end="T433-626">In tm </event>
       <event start="T433-626" end="T434-977">lahku najam@š avto. </event>
       <event start="T434-977" end="T436-121">In pol greš. </event>
       <event start="T438-505" end="T440-868">Ne vem. Morš puhljed@t, ku ma vsak drgač. </event>
-      <event start="T441-667_" end="T447-421">Pa morš plačat še neko zavarovanje, pa če je mmm če je ml@t šofjer, je pol problem. </event>
-      <event start="T447-421" end="T452-076_">Pa če ti rezerviraš nase, pa drug vuozi, je tut problem, ko morš </event>
+      <event start="T441-667_" end="T447-421">Pa morš plačat še neko zavarovanje, pa če je mmm
+                če je ml@t šofjer, je pol problem. </event>
+      <event start="T447-421" end="T452-076_">Pa če ti rezerviraš nase, pa drug vuozi, je tut
+                problem, ko morš </event>
       <event start="T452-076_" end="T453-37">pol popravlat tu. </event>
       <event start="T454-947_" end="T456-121">Ti() ja. </event>
       <event start="T456-121" end="T456-792_">Tisti, ko </event>
@@ -4472,22 +4557,27 @@
       <event start="T464-033_" end="T464-978_">Ker smo meli </event>
       <event start="T464-978_" end="T466-06_">tm mi tut </event>
       <event start="T466-06_" end="T468-39">problem, k smo pol dali na Iztoka. </event>
-      <event start="T469-373" end="T473-784">Ja zatu, ku nnn ne sme vuozt ml@t šofer al nekaku taku je blu. </event>
+      <event start="T469-373" end="T473-784">Ja zatu, ku nnn ne sme vuozt ml@t šofer al nekaku
+                taku je blu. </event>
       <event start="T474-267_" end="T475-511">Ja, ja. </event>
-      <event start="T475-511" end="T479-633_">Ker je nas je Gaja rezervirala in pol smo mogli prenest na Iztoka in smo </event>
+      <event start="T475-511" end="T479-633_">Ker je nas je Gaja rezervirala in pol smo mogli
+                prenest na Iztoka in smo </event>
       <event start="T479-633_" end="T480-704">mogl puol doplačat. </event>
       <event start="T481-824" end="T482-499">Ja. </event>
       <event start="T482-499" end="T484-294">Bencin je pa bl pocjeni. </event>
       <event start="T484-936" end="T485-56">Ja, </event>
-      <event start="T485-56" end="T488-099">bl poceni ku pr nas, tut v trhovinah je vse bl                poceni </event>
+      <event start="T485-56" end="T488-099">bl poceni ku pr nas, tut v trhovinah je vse bl
+                poceni </event>
       <event start="T488-099" end="T488-91">ku pr nas. </event>
       <event start="T488-91" end="T489-941_">Ja. </event>
       <event start="T493-002" end="T494-234">Nnn ne. </event>
       <event start="T494-234" end="T495-015">V trgovinah je </event>
       <event start="T495-015" end="T495-828">cenejš. </event>
-      <event start="T495-828" end="T501-454">Smo šli mi v Evrospin, tam neke njihove trgovine, ma je blu vse bl poceni. </event>
+      <event start="T495-828" end="T501-454">Smo šli mi v Evrospin, tam neke njihove trgovine,
+                ma je blu vse bl poceni. </event>
       <event start="T502-4_" end="T504-504_">Ja. In Evrospin </event>
-      <event start="T504-504_" end="T507-698">je lepši kukr pr n@s in maju bl zaluoženo ku pr n@s. </event>
+      <event start="T504-504_" end="T507-698">je lepši kukr pr n@s in maju bl zaluoženo ku pr
+                n@s. </event>
       <event start="T508-751" end="T509-272">Ja. </event>
       <event start="T509-272" end="T512-95">Tku da pejte v Evrospin pa l() v Lidl pejte </event>
       <event start="T512-95" end="T515-597">pa pouhno znamenitosti </event>
@@ -4502,7 +4592,8 @@
       <event start="T536-0" end="T537-625_">tu hreš za cel dan, </event>
       <event start="T537-625_" end="T539-676">in te pjelejo od plaže do plaže </event>
       <event start="T539-676" end="T540-271">in ti povejo, </event>
-      <event start="T540-271" end="T543-357_">ktera plaža je, in pol hreš ti duol in se l@hku tm </event>
+      <event start="T540-271" end="T543-357_">ktera plaža je, in pol hreš ti duol in se l@hku
+                tm </event>
       <event start="T543-357_" end="T544-446_">kuop@š in puol </event>
       <event start="T544-446_" end="T546-183">ti povejo, kdaj hre ladja nazaj, </event>
       <event start="T546-183" end="T548-166">in pol te peljejo na druho plažo. </event>
@@ -4510,21 +4601,25 @@
       <event start="T550-026" end="T550-85">Pa mor@š ... </event>
       <event start="T553-46" end="T554-25_">Tudi, </event>
       <event start="T554-25_" end="T555-391_">ne, tut v angleščini. </event>
-      <event start="T558-419" end="T563-333">No, zdej ku boš tu ku tu veš, kaku tu grje, zdej pa dej mi še tu povej, </event>
-      <event start="T563-333" end="T568-03">kaj je zdej, kaj nej zej na njivi sadim in sejem?  Kaj čm zdej, ku ku ne vem, </event>
+      <event start="T558-419" end="T563-333">No, zdej ku boš tu ku tu veš, kaku tu grje, zdej
+                pa dej mi še tu povej, </event>
+      <event start="T563-333" end="T568-03">kaj je zdej, kaj nej zej na njivi sadim in sejem?
+                Kaj čm zdej, ku ku ne vem, </event>
       <event start="T568-03" end="T568-953">točno </event>
       <event start="T568-953" end="T569-867">kaj se luot@t. </event>
       <event start="T572-561" end="T573-247">Ja, tu ... </event>
       <event start="T575-745" end="T576-847">Pa j@maš kej hnoja? </event>
       <event start="T578-424" end="T578-94">No ... </event>
-      <event start="T580-098" end="T583-439">Prov, sam morm k@šne vreče najt, kr j@ eee tistu pol v avti vse smrdi. </event>
+      <event start="T580-098" end="T583-439">Prov, sam morm k@šne vreče najt, kr j@ eee tistu
+                pol v avti vse smrdi. </event>
       <event start="T592-19" end="T593-965">Kaj pa krompir? </event>
       <event start="T593-965" end="T594-497">Je že cajt </event>
       <event start="T594-497" end="T595-436_">za krompir? </event>
       <event start="T606-742" end="T608-232">Kaj pa jagode? </event>
       <event start="T614-067" end="T615-255">Sem vidla včiri </event>
       <event start="T615-255" end="T618-497">v v drevjesnci, da majo sadike. </event>
-      <event start="T627-986" end="T631-349_">Aha. Kaj pa maline? D() eee kaj je treba kej porezat </event>
+      <event start="T627-986" end="T631-349_">Aha. Kaj pa maline? D() eee kaj je treba kej
+                porezat </event>
       <event start="T631-349_" end="T632-395">j@h al n@č? </event>
       <event start="T637-103" end="T637-671_">Ja, ma </event>
       <event start="T637-671_" end="T638-145_">kaj j@h </event>
@@ -4536,7 +4631,8 @@
       <event start="T656-709" end="T658-004_">Aja, tu, tu, travo </event>
       <event start="T658-004_" end="T658-749_">bom pokosila </event>
       <event start="T658-749_" end="T661-02">pa bom dala, ja. Bo v redi, ja. </event>
-      <event start="T662-813_" end="T667-363_">Sem pa d@n@s kupla eno sadikco tistha hrma rmenga, kaj je forzicija al ku se reče </event>
+      <event start="T662-813_" end="T667-363_">Sem pa d@n@s kupla eno sadikco tistha hrma
+                rmenga, kaj je forzicija al ku se reče </event>
       <event start="T667-363_" end="T668-3">tistmi? </event>
       <event start="T668-3" end="T669-949_">Ja, ka() tisti, tistu, ku </event>
       <event start="T669-949_" end="T670-507">zej cv@te, </event>
@@ -4570,7 +4666,8 @@
       <event start="T744-328_" end="T744-934">mi je lep. </event>
       <event start="T745-662" end="T746-934">Pa lepu diši tistu. </event>
       <event start="T752-848" end="T754-204_">Kaj je tu? </event>
-      <event start="T760-616" end="T764-440">Ja, sam tist bi morala dat pozimi eee biz() ...  tist bi morlo bt v luonci, d </event>
+      <event start="T760-616" end="T764-440">Ja, sam tist bi morala dat pozimi eee biz() ...
+                tist bi morlo bt v luonci, d </event>
       <event start="T764-440" end="T765-986">se da puzimi notr al ne? </event>
       <event start="T766-645" end="T767-631">Aja? </event>
       <event start="T768-693" end="T769-949">Aja? </event>
@@ -4582,7 +4679,8 @@
       <event start="T791-775" end="T792-596">Ma un@ha </event>
       <event start="T792-596" end="T793-814">tm, ko je taku ku drevu </event>
       <event start="T793-814" end="T794-351_">veliko. </event>
-      <event start="T794-943" end="T799-483">No, sej zej sem ha zadnč ven prnesla z une kučice, da vid@m, če bo kej puhnalu listu. </event>
+      <event start="T794-943" end="T799-483">No, sej zej sem ha zadnč ven prnesla z une
+                kučice, da vid@m, če bo kej puhnalu listu. </event>
       <event start="T800-145_" end="T802-176_">Ne vem. Zej je sam štrc@l. </event>
       <event start="T806-06" end="T807-348">Zej je sam štrc@l. </event>
       <event start="T807-348" end="T808-124">Am() ... </event>
@@ -4600,7 +4698,8 @@
       <event start="T849-367" end="T850-03">Aja? </event>
       <event start="T857-814" end="T858-697">A mičken </event>
       <event start="T858-697" end="T859-368">žaku? </event>
-      <event start="T861-279" end="T864-333">Aja, pol bi muhla kupti enha zgudneha, da je čim prej? </event>
+      <event start="T861-279" end="T864-333">Aja, pol bi muhla kupti enha zgudneha, da je čim
+                prej? </event>
       <event start="T864-333" end="T865-811">Pa enga k@snega. </event>
       <event start="T871-881" end="T873-514">Ma, neki ha j@. </event>
       <event start="T877-667" end="T878-754">Tist je še prezhudej. T() </event>
@@ -4633,7 +4732,8 @@
       <event start="T938-404" end="T938-861">Ne? </event>
       <event start="T944-074_" end="T946-008_">Nej sam ena korenika, jih je več. </event>
       <event start="T950-597" end="T951-135">Aja? </event>
-      <event start="T952-448" end="T956-439">Ma kaj tu je res, da se da h korenčki l@hku tut mivko? </event>
+      <event start="T952-448" end="T956-439">Ma kaj tu je res, da se da h korenčki l@hku tut
+                mivko? </event>
       <event start="T965-491" end="T966-216_">Aha, rabi bt </event>
       <event start="T966-216_" end="T966-862_">bl mehka </event>
       <event start="T966-862_" end="T968-523">zjemla. Da lohk nardi </event>
@@ -4665,7 +4765,8 @@
       <event start="T1066-01" end="T1066-875_">Aja. </event>
       <event start="T1072-362" end="T1073-684_">Aja, tu sem mela </event>
       <event start="T1073-684_" end="T1075-227">v plani, da bi še kupla. </event>
-      <event start="T1082-506" end="T1087-72">Aja, kaj pa tu, veš, kaj bi jest dala v dve gredice? Une dalije, ruože, ku so mi lepe. </event>
+      <event start="T1082-506" end="T1087-72">Aja, kaj pa tu, veš, kaj bi jest dala v dve
+                gredice? Une dalije, ruože, ku so mi lepe. </event>
       <event start="T1087-72" end="T1089-06">Tistu tut nej še zej </event>
       <event start="T1089-06" end="T1089-833_">cajt, ne? </event>
       <event start="T1091-826_" end="T1093-459_">[nerazumljivo] </event>
@@ -4841,7 +4942,8 @@
       <event start="T389-2" end="T391-297">Mhm, </event>
       <event start="T391-297" end="T392-1">pol je bulš, da tu prej spij@š. </event>
       <event start="T394-237" end="T395-264">Aha. </event>
-      <event start="T395-264" end="T399-341">In kulk cajta, ku pristan@š, čakaš za kufer prevzet? </event>
+      <event start="T395-264" end="T399-341">In kulk cajta, ku pristan@š, čakaš za kufer
+                prevzet? </event>
       <event start="T404-386" end="T406-696">Al odvisnu tut, kulku veliku letališče je? </event>
       <event start="T409-812" end="T410-272">Ne? </event>
       <event start="T410-779" end="T388">Aja, </event>
@@ -4939,7 +5041,8 @@
       <event start="T639-068" end="T314">Eee tudi, </event>
       <event start="T314" end="T640-828">ja. </event>
       <event start="T640-828" end="T643-008">Ja, </event>
-      <event start="T643-008" end="T644-322">p@stiš tri do štjiri tiste stare pohanke in druhu ven. </event>
+      <event start="T643-008" end="T644-322">p@stiš tri do štjiri tiste stare pohanke in druhu
+                ven. </event>
       <event start="T644-322" end="T647-218">Unu suhu, staru vse ven </event>
       <event start="T647-218" end="T648-177">in une malu skrajšaš druho. </event>
       <event start="T649-675" end="T156">Malu hnuoja in lohku k@šno zastirko daš, </event>
@@ -5011,7 +5114,8 @@
       <event start="T768-693" end="T772-279">Pr jung@lci tisti drev vel@k. </event>
       <event start="T772-279" end="T276">Tistu ... </event>
       <event start="T276" end="T776-026">Kaj ti nejs@m </event>
-      <event start="T776-026" end="T778-306">kaj ti nejs@m jest tjebi lani dala ena dva taka pohanka? </event>
+      <event start="T776-026" end="T778-306">kaj ti nejs@m jest tjebi lani dala ena dva taka
+                pohanka? </event>
       <event start="T778-306" end="T778-92">Ta na, k sem ven skopala. </event>
       <event start="T778-92" end="T360">Ja sem ti dala, </event>
       <event start="T360" end="T781-003">sem. </event>
@@ -5137,7 +5241,8 @@
       <event start="T992-66" end="T344">Ja, </event>
       <event start="T344" end="T993-332">je bl guosta, ja, </event>
       <event start="T993-332" end="T996-483">letna koprena je pa bl t@nka. </event>
-      <event start="T996-483" end="T1001-328">Al pa daš najlon še, ne vem, pa čjez kopreno al neki. </event>
+      <event start="T996-483" end="T1001-328">Al pa daš najlon še, ne vem, pa čjez kopreno al
+                neki. </event>
       <event start="T1002-45" end="T376">Ja, </event>
       <event start="T376" end="T213">ku skuz najlon pol zna sunce tudi z() tu vse zapal@t, </event>
       <event start="T213" end="T377">k@dr fajn pali, </event>
@@ -5236,7 +5341,8 @@
       <event start="T267" end="T1179-177">pa si posej@š. </event>
       <event start="T1179-177" end="T240">Pa lih taku odhanja neke škodljivce, </event>
       <event start="T240" end="T1184-416">pa tu pa lepo ... </event>
-      <event start="T1184-416" end="T1188-294">Pa lepu je vid@t ob hredicah malu, da cv@te med k@šno zelenjavo, </event>
+      <event start="T1184-416" end="T1188-294">Pa lepu je vid@t ob hredicah malu, da cv@te med
+                k@šno zelenjavo, </event>
       <event start="T1188-294" end="T1189-681">daš k@š@n cvet, ja. </event>
       <event start="T1190-514" end="T1191-584">Ja, taku. </event>
       <event start="T1191-584" end="T1194-160">Da je lepu urejeno. </event>
@@ -5389,7 +5495,8 @@
       <event start="T389-2" end="T391-297">Mhm, </event>
       <event start="T391-297" end="T392-1">pol je boljše, da to prej spiješ. </event>
       <event start="T394-237" end="T395-264">Aha. </event>
-      <event start="T395-264" end="T399-341">In koliko cajta, ko pristaneš, čakaš za kufer prevzet? </event>
+      <event start="T395-264" end="T399-341">In koliko cajta, ko pristaneš, čakaš za kufer
+                prevzet? </event>
       <event start="T404-386" end="T406-696">Ali odvisno tudi, koliko veliko letališče je? </event>
       <event start="T409-812" end="T410-272">Ne? </event>
       <event start="T410-779" end="T388">Aja, </event>
@@ -5487,7 +5594,8 @@
       <event start="T639-068" end="T314">Eee tudi,</event>
       <event start="T314" end="T640-828"> ja. </event>
       <event start="T640-828" end="T643-008">Ja, </event>
-      <event start="T643-008" end="T644-322">pustiš tri do štiri tiste stare poganjke in drugo ven.</event>
+      <event start="T643-008" end="T644-322">pustiš tri do štiri tiste stare poganjke in drugo
+                ven.</event>
       <event start="T644-322" end="T647-218"> Ono suho, staro vse ven </event>
       <event start="T647-218" end="T648-177">in one malo skrajšaš drugo. </event>
       <event start="T649-675" end="T156">Malo gnoja in lahko kakšno zastirko daš,</event>
@@ -5507,7 +5615,7 @@
       <event start="T677-045" end="T677-61">Ne. </event>
       <event start="T677-61" end="T274">In se bo lepo razrastlo, </event>
       <event start="T274" end="T160">bo ratal lep grm,</event>
-      <event start="T160" end="T682-017"> in kar bo odcvelo,  </event>
+      <event start="T160" end="T682-017"> in kar bo odcvelo, </event>
       <event start="T682-017" end="T258">lepo poreži, </event>
       <event start="T258" end="T259">da bo ratalo pol, </event>
       <event start="T259" end="T684-984">da boš imela lepo obliko grma. </event>
@@ -5559,7 +5667,8 @@
       <event start="T768-693" end="T772-279">Pri jungelci tisti drev velik. </event>
       <event start="T772-279" end="T276">Tisto ...</event>
       <event start="T276" end="T776-026"> Kaj ti nisem,</event>
-      <event start="T776-026" end="T778-306">kaj ti nisem jaz tebi lani dala ena dva taka poganjka? </event>
+      <event start="T776-026" end="T778-306">kaj ti nisem jaz tebi lani dala ena dva taka
+                poganjka? </event>
       <event start="T778-306" end="T778-92">Ta na, k sem ven skopala.</event>
       <event start="T778-92" end="T360"> Ja sem ti dala, </event>
       <event start="T360" end="T781-003">sem. </event>
@@ -5643,10 +5752,12 @@
       <event start="T368" end="T338">pa zelje rabi,</event>
       <event start="T338" end="T918-371">moraš zalivati. </event>
       <event start="T918-752" end="T919-574">Ja. </event>
-      <event start="T919-574" end="T923-271">Drugače pa lahko še korenček seješ, kakšno blitvo. </event>
+      <event start="T919-574" end="T923-271">Drugače pa lahko še korenček seješ, kakšno
+                blitvo. </event>
       <event start="T924-346" end="T340">To,</event>
       <event start="T340" end="T926-602"> redkvica. </event>
-      <event start="T926-602" end="T199">Eee sem videla ima tudi r() sadike pora pa rdeče pese, </event>
+      <event start="T926-602" end="T199">Eee sem videla ima tudi r() sadike pora pa rdeče
+                pese, </event>
       <event start="T199" end="T932-743">tako da imaš za naprej, ne. </event>
       <event start="T934-459" end="T935-590">Edino koren ... </event>
       <event start="T935-590" end="T369">tako, </event>
@@ -5685,7 +5796,8 @@
       <event start="T992-66" end="T344">Ja,</event>
       <event start="T344" end="T993-332"> je bolj gosta, ja,</event>
       <event start="T993-332" end="T996-483"> letna koprena je pa bolj tanka. </event>
-      <event start="T996-483" end="T1001-328">Ali pa daš najlon še, ne vem, pa čez kopreno ali nekaj. </event>
+      <event start="T996-483" end="T1001-328">Ali pa daš najlon še, ne vem, pa čez kopreno ali
+                nekaj. </event>
       <event start="T1002-45" end="T376">Ja, </event>
       <event start="T376" end="T213">ko skozi najlon pol zna sonce tudi z() to vse zapalit,</event>
       <event start="T213" end="T377"> kadar fajn pali, </event>
@@ -5743,13 +5855,14 @@
       <event start="T350" end="T229"> in spomladi spet sadiš </event>
       <event start="T229" end="T230">in pol daš še na pol, </event>
       <event start="T230" end="T1108-441">ker to rata gomolj pol še enkrat večji. </event>
-      <event start="T1108-441" end="T1109-045">In se j() ...  </event>
+      <event start="T1108-441" end="T1109-045">In se j() ... </event>
       <event start="T1109-665" end="T1110-248">Tako ja, </event>
       <event start="T1110-248" end="T231">se jih namno() </event>
       <event start="T231" end="T1112-954">imaš pol za z() naprej, ja. </event>
       <event start="T1112-954" end="T1114-96">Tako, ja. </event>
       <event start="T1119-706" end="T1120-77">Za rezano. </event>
-      <event start="T1122-088" end="T1125-221">Pa cinije bi lahko sejala pa astre pa kakšne ... </event>
+      <event start="T1122-088" end="T1125-221">Pa cinije bi lahko sejala pa astre pa kakšne
+                ... </event>
       <event start="T1125-678" end="T280">Ja, </event>
       <event start="T280" end="T233">kupiš seme. </event>
       <event start="T233" end="T384">Lahko kupiš sončnico, </event>
@@ -5784,7 +5897,8 @@
       <event start="T267" end="T1179-177">pa si poseješ. </event>
       <event start="T1179-177" end="T240">Pa glih tako odganja neke škodljivce, </event>
       <event start="T240" end="T1184-416">pa to pa lepo ... </event>
-      <event start="T1184-416" end="T1188-294">Pa lepo je videti ob gredicah malo, da cveti med kakšno zelenjavo, </event>
+      <event start="T1184-416" end="T1188-294">Pa lepo je videti ob gredicah malo, da cveti
+                med kakšno zelenjavo, </event>
       <event start="T1188-294" end="T1189-681">daš kakšen cvet, ja. </event>
       <event start="T1190-514" end="T1191-584">Ja, tako.</event>
       <event start="T1191-584" end="T1194-160"> Da je lepo urejeno. </event>
@@ -6878,9 +6992,6 @@
       <event start="T1191-584" end="T1194-160">inform</event>
     </tier>
     <tier id="TIE7" speaker="ROG-dialog-0008" category="sentimentCurated" type="a" display-name="ROG-dialog-0008 [sentimentCurated]">
-      <ud-tier-information>
-        <ud-information attribute-name="exmaralda:hidden">true</ud-information>
-      </ud-tier-information>
       <event start="T3-017" end="T4">predominantlyNegative</event>
       <event start="T4" end="T5-403">neutralPositive</event>
       <event start="T12-533" end="T9">neutralNegative</event>
@@ -7312,9 +7423,6 @@
       <event start="T1191-584" end="T1194-160">predominantlyPositive</event>
     </tier>
     <tier id="TIE7_annotated" speaker="ROG-dialog-0008" category="sentimentAnnotated" type="a" display-name="ROG-dialog-0008 [sentimentAnnotated]">
-      <ud-tier-information>
-        <ud-information attribute-name="exmaralda:hidden">true</ud-information>
-      </ud-tier-information>
       <event start="T3-017" end="T4">predominantlyNegative</event>
       <event start="T4" end="T5-403">neutralPositive</event>
       <event start="T12-533" end="T9">neutralNegative</event>
@@ -7786,7 +7894,8 @@
       <event start="T12-533" end="T16-579">Aja? Ne vem. Ma ... </event>
       <event start="T18-133" end="T20-669">Aja? Ni to zame za iskati, ne znam. </event>
       <event start="T23-316_" end="T26-411">Ja, itak, kaj pa? Najlepše je tako. </event>
-      <event start="T32-282_" end="T34-931_">Aja, prav aplikacijo moraš imeti? Kaj ne greš kar tako na Google [zvok] </event>
+      <event start="T32-282_" end="T34-931_">Aja, prav aplikacijo moraš imeti? Kaj ne greš kar
+                tako na Google [zvok] </event>
       <event start="T34-931_" end="T35-679">pa najdeš? </event>
       <event start="T36-904" end="T37-794_">Aja, to pa nimam. </event>
       <event start="T40-45" end="T42-701">Aja, kaj ni boljše, da si jih natisneš? </event>
@@ -7841,7 +7950,8 @@
       <event start="T195-428" end="T196-431">Ja, no. </event>
       <event start="T197-702" end="T198-341">Ne vem, kako </event>
       <event start="T198-341" end="T201-508">so r() eee to rezervirali, nnn ne vem. </event>
-      <event start="T209-453_" end="T212-783">Baje da je vse rezervirano. So direktno poklicali. </event>
+      <event start="T209-453_" end="T212-783">Baje da je vse rezervirano. So direktno
+                poklicali. </event>
       <event start="T214-062" end="T216-064">Tako da mi ni treba nič skrbeti. </event>
       <event start="T219-393" end="T220-038">Ne rabim. </event>
       <event start="T221-295" end="T222-237">Samo rukzak. </event>
@@ -7864,7 +7974,8 @@
       <event start="T272-324" end="T273-188">Aha. </event>
       <event start="T273-629" end="T275-063">Doplačilo. </event>
       <event start="T275-063" end="T275-692">Aha.</event>
-      <event start="T279-907" end="T283-793">Pa da se kufer ne umaže, je tudi kakšna lepa oblekica za kufer tako? </event>
+      <event start="T279-907" end="T283-793">Pa da se kufer ne umaže, je tudi kakšna lepa
+                oblekica za kufer tako? </event>
       <event start="T284-027" end="T285-21">Kje v reklamah? </event>
       <event start="T288-868" end="T290-093_">BagsAndMore? </event>
       <event start="T290-684" end="T291-318_">Aja. </event>
@@ -7911,13 +8022,15 @@
       <event start="T389-2" end="T391-297_">Mhm, pol je boljše, da to prej </event>
       <event start="T391-297_" end="T392-1">spiješ. </event>
       <event start="T394-237" end="T395-264">Aha. </event>
-      <event start="T395-264" end="T399-341">In koliko cajta, ko pristaneš, čakaš za kufer prevzet? </event>
+      <event start="T395-264" end="T399-341">In koliko cajta, ko pristaneš, čakaš za kufer
+                prevzet? </event>
       <event start="T404-386" end="T406-696">Ali odvisno tudi, koliko veliko letališče je? </event>
       <event start="T409-812" end="T410-272_">Ne? </event>
       <event start="T410-779" end="T412-303_">Aja, jaz sem mislila pa, da je veliko </event>
       <event start="T412-303_" end="T412-79_">tam. </event>
       <event start="T416-991" end="T418-197">In greš naprej. </event>
-      <event start="T418-407" end="T422-311">In pol kaj imaš tam naprej, kakšen taksi? Ko prideš pol v mesto? </event>
+      <event start="T418-407" end="T422-311">In pol kaj imaš tam naprej, kakšen taksi? Ko
+                prideš pol v mesto? </event>
       <event start="T422-311" end="T423-202">Avtobus? </event>
       <event start="T430-653" end="T431-453">Avte. </event>
       <event start="T431-835" end="T432-733_">Aha, si lahko si </event>
@@ -7930,7 +8043,8 @@
       <event start="T454-947_" end="T456-121">mora voziti. </event>
       <event start="T456-121" end="T456-792_">Aha. </event>
       <event start="T457-937" end="T458-429">Pa </event>
-      <event start="T458-429" end="T461-977">kaj mlad šofer je tako kot pri nas, do enaindvajstega leta, ali kako je tam? </event>
+      <event start="T458-429" end="T461-977">kaj mlad šofer je tako kot pri nas, do
+                enaindvajstega leta, ali kako je tam? </event>
       <event start="T462-979_" end="T464-033_">Aha, ja. </event>
       <event start="T464-978_" end="T466-06_">Je pa dražje? </event>
       <event start="T468-39" end="T469-373">Zakaj? </event>
@@ -7966,17 +8080,23 @@
       <event start="T576-847" end="T578-424">Ma je gnoja, kolikor hočeš. </event>
       <event start="T578-424" end="T578-94">Samo pridi </event>
       <event start="T578-94" end="T580-098">in si ga naloži. </event>
-      <event start="T583-439" end="T587-335">Ja, to pa ja. No, in lepo boš pognojila, pokopala, </event>
+      <event start="T583-439" end="T587-335">Ja, to pa ja. No, in lepo boš pognojila,
+                pokopala, </event>
       <event start="T587-335" end="T592-19">in lahko seješ kakšno zelje, cvetačo, korenček. </event>
       <event start="T592-19" end="T593-965">Lahko kupiš že ... </event>
       <event start="T594-497" end="T595-436_">Ne, za krompir </event>
-      <event start="T595-436_" end="T601-518">je še malo zgodaj. Lahko kakšna sadikica solate kupiš, imajo že vse, sem videla tam v trgovini. </event>
-      <event start="T601-518" end="T606-742">In malo pogrneš s kakšno kopreno ali pa morda kakšne loke daš, kakšen najlon čez. </event>
+      <event start="T595-436_" end="T601-518">je še malo zgodaj. Lahko kakšna sadikica solate
+                kupiš, imajo že vse, sem videla tam v trgovini. </event>
+      <event start="T601-518" end="T606-742">In malo pogrneš s kakšno kopreno ali pa morda
+                kakšne loke daš, kakšen najlon čez. </event>
       <event start="T608-232" end="T611-222">Eee tudi jagode lahko že daš, ja. </event>
-      <event start="T611-222" end="T614-067">Samo če imajo že sadike, ne vem, to pa nisem šla za </event>
+      <event start="T611-222" end="T614-067">Samo če imajo že sadike, ne vem, to pa nisem šla
+                za </event>
       <event start="T614-067" end="T615-255">tam, če so že. </event>
-      <event start="T618-497" end="T623-092">Aja, no pol pa lahko daš, pa malo boš s kopreno pogrnila, če bo še kaj mraz. </event>
-      <event start="T623-092" end="T627-986">Pa fajn zaliješ, če ne bo dežja, in to je to. K jagode rabijo polno vode. </event>
+      <event start="T618-497" end="T623-092">Aja, no pol pa lahko daš, pa malo boš s kopreno
+                pogrnila, če bo še kaj mraz. </event>
+      <event start="T623-092" end="T627-986">Pa fajn zaliješ, če ne bo dežja, in to je to. K
+                jagode rabijo polno vode. </event>
       <event start="T631-349_" end="T632-395">Ma seveda, treba </event>
       <event start="T632-395" end="T635-141">stare veje vse ven tiste suhe </event>
       <event start="T635-141" end="T637-103">in one malo prikrajšati. </event>
@@ -7984,21 +8104,26 @@
       <event start="T639-068" end="T640-828">Eee tudi, ja. </event>
       <event start="T640-828" end="T643-008_">Ja, pustiš tri do štiri tiste </event>
       <event start="T643-008_" end="T644-322_">stare poganjke </event>
-      <event start="T644-322_" end="T647-218_">in drugo ven. Ono suho, staro vse ven in one malo </event>
+      <event start="T644-322_" end="T647-218_">in drugo ven. Ono suho, staro vse ven in one
+                malo </event>
       <event start="T647-218_" end="T648-177">skrajšaš drugo. </event>
-      <event start="T649-675" end="T656-709">Malo gnoja in lahko kakšno zastirko daš, eee kakšno kopreno ono črno pa kakšno slamo ali pa travo pokošeno. </event>
+      <event start="T649-675" end="T656-709">Malo gnoja in lahko kakšno zastirko daš, eee
+                kakšno kopreno ono črno pa kakšno slamo ali pa travo pokošeno. </event>
       <event start="T658-004_" end="T658-749_">Ja. </event>
       <event start="T658-749_" end="T661-02">[glas] </event>
       <event start="T661-02" end="T662-813_">To gre tudi čez, ja. </event>
       <event start="T667-363_" end="T668-3">Forzicija? </event>
       <event start="T668-3" end="T669-949_">Tisto, ko zdaj cveti? </event>
       <event start="T670-507" end="T671-233">Ja. </event>
-      <event start="T671-82" end="T674-606">Seveda, saj si verjetno si kupila jo v lončku z zemljo? </event>
+      <event start="T671-82" end="T674-606">Seveda, saj si verjetno si kupila jo v lončku z
+                zemljo? </event>
       <event start="T675-035" end="T676-681">Ja, saj tisto ne bo zmrznilo. </event>
       <event start="T677-045" end="T677-61">Ne. </event>
       <event start="T677-61" end="T678-874_">In se bo lepo </event>
-      <event start="T678-874_" end="T682-017_">razrastlo, bo ratal lep grm, in kar bo odcvelo, lepo </event>
-      <event start="T682-017_" end="T684-984_">poreži, da bo ratalo pol, da boš imela lepo obliko grma. </event>
+      <event start="T678-874_" end="T682-017_">razrastlo, bo ratal lep grm, in kar bo odcvelo,
+                lepo </event>
+      <event start="T682-017_" end="T684-984_">poreži, da bo ratalo pol, da boš imela lepo
+                obliko grma. </event>
       <event start="T686-303" end="T686-862">No. </event>
       <event start="T689-843" end="T690-355">No, no, </event>
       <event start="T690-355" end="T691-24">to bo drug teden </event>
@@ -8006,9 +8131,11 @@
       <event start="T691-586_" end="T693-172">vreme pa boš sadila. </event>
       <event start="T693-172" end="T694-061">Ja. </event>
       <event start="T694-061" end="T697-022">Pa sem videla, imajo tudi mimozo, je hudo lepa. </event>
-      <event start="T697-749" end="T700-79">Ja, samo tule pri nas ne vem, če bi preživela veni. </event>
+      <event start="T697-749" end="T700-79">Ja, samo tule pri nas ne vem, če bi preživela
+                veni. </event>
       <event start="T702-393" end="T704-687">Ja, samo verjetno bi ... </event>
-      <event start="T705-910" end="T709-603">Premraz je, pozimi bi jo treba v lonec pa noter dati pol. </event>
+      <event start="T705-910" end="T709-603">Premraz je, pozimi bi jo treba v lonec pa noter
+                dati pol. </event>
       <event start="T709-603" end="T711-734">Verjetno bi pomrznila, no. </event>
       <event start="T715-26" end="T716-727">Kaj misliš zelenjavo </event>
       <event start="T716-727" end="T717-92_">ali kaj takega? </event>
@@ -8021,7 +8148,8 @@
       <event start="T728-937" end="T729-999">Ja. </event>
       <event start="T730-911" end="T731-398">Se mi zdi, da </event>
       <event start="T731-398" end="T732-434">sem ga videla. </event>
-      <event start="T735-002" end="T738-513">Ja, ne vem, kakšen, kaj jaz vem. Tisti škatli tako je pakiran. </event>
+      <event start="T735-002" end="T738-513">Ja, ne vem, kakšen, kaj jaz vem. Tisti škatli
+                tako je pakiran. </event>
       <event start="T740-286" end="T741-533">Ja, saj je na sliki, </event>
       <event start="T741-533" end="T743-199_">bel, vijoličast pa rozast menda </event>
       <event start="T743-199_" end="T744-328_">pride, ne? </event>
@@ -8030,7 +8158,8 @@
       <event start="T746-934" end="T749-613">Drugo pa ne vem, saj je še kakšen tak drev. </event>
       <event start="T749-613" end="T752-848">Tak, kot imamo mi tukaj pred hišo, katalpa, ko </event>
       <event start="T752-848" end="T754-204_">cveti belo. </event>
-      <event start="T754-204_" end="T760-616">Katalpa, cigarovec. Ko ima velike tis() take srčaste liste, pol naredi cvete kot ena trobenta. </event>
+      <event start="T754-204_" end="T760-616">Katalpa, cigarovec. Ko ima velike tis() take
+                srčaste liste, pol naredi cvete kot ena trobenta. </event>
       <event start="T764-440" end="T765-986">Zakaj? Ne. </event>
       <event start="T765-986" end="T766-645">Če t() n() </event>
       <event start="T766-645" end="T767-631">mi imamo pri nas </event>
@@ -8051,31 +8180,40 @@
       <event start="T794-351_" end="T794-943">tisto. </event>
       <event start="T799-483" end="T800-145_">No, no, bo </event>
       <event start="T800-145_" end="T802-176_">bo pognalo. Pusti, pusti še </event>
-      <event start="T802-176_" end="T806-06">v loncu in ko bo malo pognalo, čez boš pol posadila </event>
+      <event start="T802-176_" end="T806-06">v loncu in ko bo malo pognalo, čez boš pol
+                posadila </event>
       <event start="T806-06" end="T807-348">ven nekam. </event>
       <event start="T807-348" end="T808-124">Ja itak. </event>
       <event start="T808-124" end="T809-647_">Je še zgodaj. </event>
       <event start="T811-276_" end="T811-936_">Ja, je še </event>
-      <event start="T811-936_" end="T815-297">zgodaj. To bo komaj zdaj začelo odganjat, ko bo bolj toplo. </event>
+      <event start="T811-936_" end="T815-297">zgodaj. To bo komaj zdaj začelo odganjat, ko bo
+                bolj toplo. </event>
       <event start="T816-096" end="T817-3">Ja. </event>
       <event start="T817-3" end="T818-965">Drugo, kaj še kaj takega bi </event>
       <event start="T818-965" end="T819-559">vsadila? </event>
       <event start="T820-554" end="T823-915">Ja pa tam ... aprila enkrat </event>
       <event start="T827-454" end="T830-328">Arov je zgodnja sorta, </event>
       <event start="T830-328" end="T831-719">pa ... Verjetno, </event>
-      <event start="T831-719" end="T838-191">pojdi pogledat, ne vem, jaz nisem gledala tako. Mi smo krompir naročili, so ga domov pripeljali, ne vem, moraš pogledati. </event>
-      <event start="T838-781" end="T842-321">Pa ti bojo morda tam še kaj svetovali, kakšen krompir. </event>
-      <event start="T843-819" end="T849-367">Če ne pa daš kakšnega drugega, da je bolj pozen, ko se bo tudi bolj boljše skladišči. </event>
+      <event start="T831-719" end="T838-191">pojdi pogledat, ne vem, jaz nisem gledala tako.
+                Mi smo krompir naročili, so ga domov pripeljali, ne vem, moraš pogledati. </event>
+      <event start="T838-781" end="T842-321">Pa ti bojo morda tam še kaj svetovali, kakšen
+                krompir. </event>
+      <event start="T843-819" end="T849-367">Če ne pa daš kakšnega drugega, da je bolj pozen,
+                ko se bo tudi bolj boljše skladišči. </event>
       <event start="T850-03" end="T851-213">Ja. </event>
-      <event start="T851-213" end="T857-814">Kakšno sorto, ko imajo tudi manjša pakiranja, ne samo one velike vreče po petindvajset kil, imajo tudi majhna pakiranja. </event>
+      <event start="T851-213" end="T857-814">Kakšno sorto, ko imajo tudi manjša pakiranja, ne
+                samo one velike vreče po petindvajset kil, imajo tudi majhna pakiranja. </event>
       <event start="T858-697" end="T859-368">Ja. </event>
       <event start="T859-368" end="T861-279">Ja, menda po deset kil. </event>
       <event start="T865-811" end="T866-624">Ja. </event>
-      <event start="T866-624" end="T871-881">Tako da ... odvisno, koliko imaš prostora, no, kakšne imaš tiste gredice, njivo, ne vem. </event>
-      <event start="T873-514" end="T877-667">Drugo pa ne vem, kaj boš še sadila, za bučke, tisto je pa še vse prezgodaj. </event>
+      <event start="T866-624" end="T871-881">Tako da ... odvisno, koliko imaš prostora, no,
+                kakšne imaš tiste gredice, njivo, ne vem. </event>
+      <event start="T873-514" end="T877-667">Drugo pa ne vem, kaj boš še sadila, za bučke,
+                tisto je pa še vse prezgodaj. </event>
       <event start="T878-754" end="T879-547">Ja. </event>
       <event start="T879-919" end="T880-329">Zdaj bi </event>
-      <event start="T880-329" end="T885-507">lahko to cvetačo, zelje bi lahko dala, ko cvetača ti poleti, če je prevroče, noče delati. </event>
+      <event start="T880-329" end="T885-507">lahko to cvetačo, zelje bi lahko dala, ko cvetača
+                ti poleti, če je prevroče, noče delati. </event>
       <event start="T886-859" end="T887-822">Imajo. </event>
       <event start="T887-822" end="T889-063">Cvetača, zelje, </event>
       <event start="T889-063" end="T889-553">eee </event>
@@ -8096,63 +8234,79 @@
       <event start="T915-022" end="T915-659">Ja. </event>
       <event start="T915-659" end="T918-371">Tudi, ker je tu(), pa zelje rabi, moraš zalivati. </event>
       <event start="T918-752" end="T919-574_">Ja. </event>
-      <event start="T919-574_" end="T923-271">Drugače pa lahko še korenček seješ, kakšno blitvo. </event>
+      <event start="T919-574_" end="T923-271">Drugače pa lahko še korenček seješ, kakšno
+                blitvo. </event>
       <event start="T924-346" end="T926-602">To, redkvica. </event>
-      <event start="T926-602" end="T932-743">Eee sem videla ima tudi r() sadike pora pa rdeče pese, tako da imaš za naprej, ne. </event>
+      <event start="T926-602" end="T932-743">Eee sem videla ima tudi r() sadike pora pa rdeče
+                pese, tako da imaš za naprej, ne. </event>
       <event start="T934-459_" end="T934-833">Edino </event>
       <event start="T934-833" end="T935-590">koren ... </event>
       <event start="T935-590" end="T938-404">tako, edino korenček sadike niso v redu. </event>
-      <event start="T938-861" end="T944-074_">Ne, ko pride korenček razvejan, ni tak lep, raven, kot bi moral biti. </event>
-      <event start="T946-008_" end="T950-597">Ja, tako, ja, pride kar nekaj. Ko naleti na eno oviro, rata vse se </event>
+      <event start="T938-861" end="T944-074_">Ne, ko pride korenček razvejan, ni tak lep,
+                raven, kot bi moral biti. </event>
+      <event start="T946-008_" end="T950-597">Ja, tako, ja, pride kar nekaj. Ko naleti na eno
+                oviro, rata vse se </event>
       <event start="T951-135" end="T952-448">deformira tako. </event>
       <event start="T956-439" end="T957-422">Tudi, ja. </event>
-      <event start="T957-422" end="T963-2">Ja, saj korenček rabi bolj tako z() zemljo, peščeno tako, ne, da bo on, da bo lep. </event>
+      <event start="T957-422" end="T963-2">Ja, saj korenček rabi bolj tako z() zemljo, peščeno
+                tako, ne, da bo on, da bo lep. </event>
       <event start="T963-2" end="T965-491">Ko če je trdo, nima iti kam, </event>
       <event start="T965-491" end="T966-216_">ne. </event>
       <event start="T966-862_" end="T968-523">Ja, tako, tako, ja. </event>
-      <event start="T969-11_" end="T972-55">Tako. Glih tako kot por, ko ga moraš gor malo zagrebsti, </event>
+      <event start="T969-11_" end="T972-55">Tako. Glih tako kot por, ko ga moraš gor malo
+                zagrebsti, </event>
       <event start="T972-55" end="T973-775">eee da ima ...</event>
       <event start="T973-775" end="T975-927_">tako, ja, da ima čim več belega dela, </event>
       <event start="T975-927_" end="T977-782">ja. Tistega uporabnega, </event>
       <event start="T977-782" end="T978-864">ja, tako. </event>
-      <event start="T978-864" end="T983-472_">Drugo pa ne vem. Rukola bi bila zdaj, še bi lahko, je dobra. </event>
-      <event start="T986-524" end="T991-362">Lahko, ko daš loke pa daš kopreno ono, magari zdaj zimsko, če jo imaš. </event>
+      <event start="T978-864" end="T983-472_">Drugo pa ne vem. Rukola bi bila zdaj, še bi
+                lahko, je dobra. </event>
+      <event start="T986-524" end="T991-362">Lahko, ko daš loke pa daš kopreno ono, magari
+                zdaj zimsko, če jo imaš. </event>
       <event start="T992-66" end="T993-332_">Ja, je bolj </event>
       <event start="T993-332_" end="T996-483">gosta, ja, letna koprena je pa bolj tanka. </event>
       <event start="T996-483" end="T997-347">Ali pa </event>
       <event start="T997-347" end="T1001-328">daš najlon še, ne vem, pa čez kopreno ali nekaj. </event>
-      <event start="T1002-45" end="T1009-463">Ja, ko skozi najlon pol zna sonce tudi z() to vse zapalit, kadar fajn pali, zdaj če te ni tam, da nisi blizu. </event>
+      <event start="T1002-45" end="T1009-463">Ja, ko skozi najlon pol zna sonce tudi z() to
+                vse zapalit, kadar fajn pali, zdaj če te ni tam, da nisi blizu. </event>
       <event start="T1009-463" end="T1011-278_">Eee da bi to čez dan ... </event>
       <event start="T1011-278_" end="T1014-352">Ja, da lahko čez dan to kaj odgrneš, ne. </event>
       <event start="T1015-008_" end="T1016-763">[glas] </event>
-      <event start="T1016-763" end="T1023-575">No, ko ne vem, v r() tule mi, ko imamo v rastlinjaku, so je noter pride savna. Moraš čez dan odpreti, če ne, je vse skuhano. </event>
+      <event start="T1016-763" end="T1023-575">No, ko ne vem, v r() tule mi, ko imamo v
+                rastlinjaku, so je noter pride savna. Moraš čez dan odpreti, če ne, je vse skuhano. </event>
       <event start="T1023-575" end="T1024-237">Zdaj, k </event>
       <event start="T1024-237" end="T1024-587">je bilo </event>
       <event start="T1024-587" end="T1025-231_">vro() tu je ... </event>
       <event start="T1026-746" end="T1027-531">Ja. </event>
-      <event start="T1027-531" end="T1033-475">Edino če je bo napovedan kakšen bolj mraz, ne vem, daš, če imaš, en kos najlona, ne. </event>
+      <event start="T1027-531" end="T1033-475">Edino če je bo napovedan kakšen bolj mraz, ne
+                vem, daš, če imaš, en kos najlona, ne. </event>
       <event start="T1033-475" end="T1035-701">Pokriješ, tako da ... </event>
-      <event start="T1036-387" end="T1040-346">To je to, no. Drugo pa ne vem. Kaj bi še kakšno drevje okrasno sadila? </event>
+      <event start="T1036-387" end="T1040-346">To je to, no. Drugo pa ne vem. Kaj bi še kakšno
+                drevje okrasno sadila? </event>
       <event start="T1042-498" end="T1043-376">Aha. </event>
       <event start="T1047-132" end="T1048-036">Malo ... </event>
       <event start="T1048-391" end="T1049-275">Okrasno ali </event>
       <event start="T1049-275" end="T1050-741">češnjo ta pravo? </event>
       <event start="T1051-523" end="T1052-914">Da bo sadež, aha. </event>
       <event start="T1052-914" end="T1053-437">No no. </event>
-      <event start="T1054-576" end="T1058-975">Aja, tudi pri nas jo je, pa jo vsako leto samo ptiči pojejo. </event>
+      <event start="T1054-576" end="T1058-975">Aja, tudi pri nas jo je, pa jo vsako leto samo
+                ptiči pojejo. </event>
       <event start="T1060-405" end="T1061-829">Ja. Ma ja, </event>
-      <event start="T1061-829" end="T1066-01">se da, ja, dati mrežo, ma zrase visoko in pol ne moreš do njih, </event>
+      <event start="T1061-829" end="T1066-01">se da, ja, dati mrežo, ma zrase visoko in pol ne
+                moreš do njih, </event>
       <event start="T1066-01" end="T1066-875_">ne. </event>
       <event start="T1066-875_" end="T1069-947">In pol greš, se koplješ po kakšnih lojtrah. </event>
       <event start="T1069-947" end="T1072-362">Ni vredno, ko lahko še padeš dol. </event>
       <event start="T1073-684_" end="T1075-227">Mreže pa obstajajo, </event>
-      <event start="T1075-227" end="T1082-506">ja, da vržeš čez krošnjo, ne, zdaj če pa rata preveliko drevo, je pa pol to vse skup veliko, visoko. </event>
+      <event start="T1075-227" end="T1082-506">ja, da vržeš čez krošnjo, ne, zdaj če pa rata
+                preveliko drevo, je pa pol to vse skup veliko, visoko. </event>
       <event start="T1089-06" end="T1089-833_">Ne, tisto </event>
       <event start="T1089-833_" end="T1091-826_">se da kadar krompir, zato ko majo tisti </event>
       <event start="T1091-826_" end="T1093-459_">gomolji ... Ko krompir, </event>
       <event start="T1093-459_" end="T1096-471">ja. Samo v jeseni moraš tisto skopati ven, </event>
       <event start="T1096-471" end="T1101-266">vse med gomolji očistiš eee tisto eee zemljo. </event>
-      <event start="T1101-266" end="T1108-441">In lepo pospraviš v eno klet in spomladi spet sadiš in pol daš še na pol, ker to rata gomolj pol še enkrat večji. </event>
+      <event start="T1101-266" end="T1108-441">In lepo pospraviš v eno klet in spomladi spet
+                sadiš in pol daš še na pol, ker to rata gomolj pol še enkrat večji. </event>
       <event start="T1108-441" end="T1109-045">In se je() ... </event>
       <event start="T1109-665" end="T1110-248_">Tako </event>
       <event start="T1110-248_" end="T1112-954">ja, se jih namno() imaš pol za z() naprej, ja. </event>
@@ -8160,25 +8314,34 @@
       <event start="T1119-706" end="T1120-77">Za rezano. </event>
       <event start="T1122-088" end="T1124-56">Pa cinije bi lahko sejala pa astre </event>
       <event start="T1124-56" end="T1125-221">pa kakšne ... </event>
-      <event start="T1125-678" end="T1135-658">Ja, kupiš seme. Lahko kupiš sončnico, jo daš kam. Zdaj če je previsoka, jo daš ob kakšen rob pa ti lepo, se lepo ona obrača proti soncu. </event>
-      <event start="T1135-658" end="T1139-661">In pol da imaš seme, tudi ptiči pol pojejo tisto seme. </event>
+      <event start="T1125-678" end="T1135-658">Ja, kupiš seme. Lahko kupiš sončnico, jo daš
+                kam. Zdaj če je previsoka, jo daš ob kakšen rob pa ti lepo, se lepo ona obrača proti
+                soncu. </event>
+      <event start="T1135-658" end="T1139-661">In pol da imaš seme, tudi ptiči pol pojejo
+                tisto seme. </event>
       <event start="T1139-661" end="T1141-038">Tako da ... </event>
       <event start="T1141-038" end="T1141-921">to. </event>
-      <event start="T1141-921" end="T1149-351">Saj je polno tam, tako, vse sort je rož, samo pride noter v vrečki glih ene tri semena pa dostikrat tudi ven nič ne pride. </event>
+      <event start="T1141-921" end="T1149-351">Saj je polno tam, tako, vse sort je rož, samo
+                pride noter v vrečki glih ene tri semena pa dostikrat tudi ven nič ne pride. </event>
       <event start="T1150-423" end="T1151-681_">Ja, tako slabo </event>
       <event start="T1151-681_" end="T1152-432">je, ja. </event>
       <event start="T1152-432" end="T1152-907">Pa ... </event>
       <event start="T1153-958" end="T1156-657_">Pa veš, kaj je tudi lepo? Kakšen ognjič. </event>
-      <event start="T1156-657_" end="T1163-394">Da daš na njivo med [glas] malo sadik, ga glih tako lahko poseješ, pa on se tudi pol kar vseje za naprej. </event>
-      <event start="T1163-763" end="T1167-669">Pa je lepo videti med zelenjavo pa odganja neke škodljivce, ne vem. </event>
+      <event start="T1156-657_" end="T1163-394">Da daš na njivo med [glas] malo sadik, ga glih
+                tako lahko poseješ, pa on se tudi pol kar vseje za naprej. </event>
+      <event start="T1163-763" end="T1167-669">Pa je lepo videti med zelenjavo pa odganja neke
+                škodljivce, ne vem. </event>
       <event start="T1167-669" end="T1168-578">Ali pa </event>
       <event start="T1168-578" end="T1171-491">te eem ti turški nageljčki. </event>
       <event start="T1172-073" end="T1172-462">Tisto </event>
       <event start="T1172-462" end="T1173-274">glih tako kupiš </event>
       <event start="T1173-274" end="T1174-523">seme pa ... </event>
-      <event start="T1174-523" end="T1179-177">Eee turški, pa pobereš pol seme pa imaš za naprej pa si poseješ. </event>
-      <event start="T1179-177" end="T1184-416">Pa glih tako odganja neke škodljivce, pa to pa lepo ... </event>
-      <event start="T1184-416" end="T1188-294">Pa lepo je videti ob gredicah malo, da cveti med kakšno zelenjavo, </event>
+      <event start="T1174-523" end="T1179-177">Eee turški, pa pobereš pol seme pa imaš za
+                naprej pa si poseješ. </event>
+      <event start="T1179-177" end="T1184-416">Pa glih tako odganja neke škodljivce, pa to pa
+                lepo ... </event>
+      <event start="T1184-416" end="T1188-294">Pa lepo je videti ob gredicah malo, da cveti
+                med kakšno zelenjavo, </event>
       <event start="T1188-294" end="T1189-681_">daš kakšen cvet, ja. </event>
       <event start="T1190-514" end="T1191-584_">Ja, tako. Da je </event>
       <event start="T1191-584_" end="T1194-160">lepo urejeno. </event>
@@ -8188,7 +8351,8 @@
       <event start="T12-533" end="T16-579">Aja? Ne vem. Ma ... </event>
       <event start="T18-133" end="T20-669">Aja? Nej tu zame za j@skat, ne znam. </event>
       <event start="T23-316_" end="T26-411">Ja, itak, kaj pa? Najlepše je taku. </event>
-      <event start="T32-282_" end="T34-931_">Aja, prov aplikacijo morš imjet? Kaj ne rš kar tko na Huhl [zvok] </event>
+      <event start="T32-282_" end="T34-931_">Aja, prov aplikacijo morš imjet? Kaj ne rš kar
+                tko na Huhl [zvok] </event>
       <event start="T34-931_" end="T35-679">pa najd@š? </event>
       <event start="T36-904" end="T37-794_">Aja, tu pa nem@m. </event>
       <event start="T40-45" end="T42-701">Aja, kaj nej bulš, da si jih natisn@š? </event>
@@ -8243,7 +8407,8 @@
       <event start="T195-428" end="T196-431">Ja, no. </event>
       <event start="T197-702" end="T198-341">Ne vem, kaku </event>
       <event start="T198-341" end="T201-508">so r() eee tu rezervirali, nnn ne vem. </event>
-      <event start="T209-453_" end="T212-783">Baje da je vse rezervirano. So direktno poklicali. </event>
+      <event start="T209-453_" end="T212-783">Baje da je vse rezervirano. So direktno
+                poklicali. </event>
       <event start="T214-062" end="T216-064">Taku da mi nej treba nč skrb@t. </event>
       <event start="T219-393" end="T220-038">Ne rab@m. </event>
       <event start="T221-295" end="T222-237">Sam rudzak. </event>
@@ -8266,7 +8431,8 @@
       <event start="T272-324" end="T273-188">Aha. </event>
       <event start="T273-629" end="T275-063">Doplačilo. </event>
       <event start="T275-063" end="T275-692">Aha. </event>
-      <event start="T279-907" end="T283-793">Pa da se kuf@r na umaže, je tut k@šna lepa ublekca za kuf@r tku? </event>
+      <event start="T279-907" end="T283-793">Pa da se kuf@r na umaže, je tut k@šna lepa
+                ublekca za kuf@r tku? </event>
       <event start="T284-027" end="T285-21">Kje v reklamah? </event>
       <event start="T288-868" end="T290-093_">Beksendmor? </event>
       <event start="T290-684" end="T291-318_">Aja. </event>
@@ -8313,13 +8479,15 @@
       <event start="T389-2" end="T391-297_">Mhm, pol je bulš, da tu prej </event>
       <event start="T391-297_" end="T392-1">spij@š. </event>
       <event start="T394-237" end="T395-264">Aha. </event>
-      <event start="T395-264" end="T399-341">In kulk cajta, ku pristan@š, čakaš za kufer prevzet? </event>
+      <event start="T395-264" end="T399-341">In kulk cajta, ku pristan@š, čakaš za kufer
+                prevzet? </event>
       <event start="T404-386" end="T406-696">Al odvisnu tut, kulku veliku letališče je? </event>
       <event start="T409-812" end="T410-272_">Ne? </event>
       <event start="T410-779" end="T412-303_">Aja, js sem misla pa, da je veliku </event>
       <event start="T412-303_" end="T412-79_">tm. </event>
       <event start="T416-991" end="T418-197">In greš naprej. </event>
-      <event start="T418-407" end="T422-311">In pol kaj j@maš tm naprej, k@š@n taksi? Ku prideš pol v mejstu? </event>
+      <event start="T418-407" end="T422-311">In pol kaj j@maš tm naprej, k@š@n taksi? Ku
+                prideš pol v mejstu? </event>
       <event start="T422-311" end="T423-202">Avtubus? </event>
       <event start="T430-653" end="T431-453">Avte. </event>
       <event start="T431-835" end="T432-733_">Aha, si lohk si </event>
@@ -8332,7 +8500,8 @@
       <event start="T454-947_" end="T456-121">more vuoz@t. </event>
       <event start="T456-121" end="T456-792_">Aha. </event>
       <event start="T457-937" end="T458-429">Pa </event>
-      <event start="T458-429" end="T461-977">kaj ml@t šofer je taku ku pr nas, do enaindvajstha leta, al kaku je tm? </event>
+      <event start="T458-429" end="T461-977">kaj ml@t šofer je taku ku pr nas, do
+                enaindvajstha leta, al kaku je tm? </event>
       <event start="T462-979_" end="T464-033_">Aha, ja. </event>
       <event start="T464-978_" end="T466-06_">Je pa dražje? </event>
       <event start="T468-39" end="T469-373">Zakaj? </event>
@@ -8368,17 +8537,22 @@
       <event start="T576-847" end="T578-424">Ma je hnoja, kukr češ. </event>
       <event start="T578-424" end="T578-94">Sam pridi </event>
       <event start="T578-94" end="T580-098">in si ha naluoži. </event>
-      <event start="T583-439" end="T587-335">Ja, tu pa ja. No, in lepu boš pohnojila, pokopala, </event>
+      <event start="T583-439" end="T587-335">Ja, tu pa ja. No, in lepu boš pohnojila,
+                pokopala, </event>
       <event start="T587-335" end="T592-19">in lohku seješ k@šno zjele, cvetačo, korjenček. </event>
       <event start="T592-19" end="T593-965">Lohku kup@š že ... </event>
       <event start="T594-497" end="T595-436_">Ne, za krompir </event>
-      <event start="T595-436_" end="T601-518">je še malu zgudi. Lohku k@šna sadikca solate kup@š, jemaju že use, sem vidla tm u trgovini. </event>
-      <event start="T601-518" end="T606-742">In malu pohrneš s k@šno kopreno al pa morda k@šne loke daš, k@š@n najlon čjez. </event>
+      <event start="T595-436_" end="T601-518">je še malu zgudi. Lohku k@šna sadikca solate
+                kup@š, jemaju že use, sem vidla tm u trgovini. </event>
+      <event start="T601-518" end="T606-742">In malu pohrneš s k@šno kopreno al pa morda k@šne
+                loke daš, k@š@n najlon čjez. </event>
       <event start="T608-232" end="T611-222">Eee tudi jahode loh že daš, ja. </event>
       <event start="T611-222" end="T614-067">Sam če majo že sadike, ne vem, tu pa nisem šla za </event>
       <event start="T614-067" end="T615-255">tm, če so žje. </event>
-      <event start="T618-497" end="T623-092">Aja, no, pol pa l@hku daš, pa mal buš s kopreno pohrnla, če bo še kej mraz. </event>
-      <event start="T623-092" end="T627-986">Pa fajn zaliješ, če ne bo d@žja, in tu je tu. K jahode rabijo polno vuode. </event>
+      <event start="T618-497" end="T623-092">Aja, no, pol pa l@hku daš, pa mal buš s kopreno
+                pohrnla, če bo še kej mraz. </event>
+      <event start="T623-092" end="T627-986">Pa fajn zaliješ, če ne bo d@žja, in tu je tu. K
+                jahode rabijo polno vuode. </event>
       <event start="T631-349_" end="T632-395">Ma seveda, treba </event>
       <event start="T632-395" end="T635-141">stare veje vse ven tiste suhe </event>
       <event start="T635-141" end="T637-103">in une malo prkrajšat. </event>
@@ -8386,21 +8560,26 @@
       <event start="T639-068" end="T640-828">Eee tudi, ja. </event>
       <event start="T640-828" end="T643-008_">Ja, p@stiš tri do štjiri tiste </event>
       <event start="T643-008_" end="T644-322_">stare pohanke </event>
-      <event start="T644-322_" end="T647-218_">in druhu ven. Unu suhu, staru vse ven in une malu </event>
+      <event start="T644-322_" end="T647-218_">in druhu ven. Unu suhu, staru vse ven in une
+                malu </event>
       <event start="T647-218_" end="T648-177">skrajšaš druho. </event>
-      <event start="T649-675" end="T656-709">Malu hnuoja in lohku k@šno zastirko daš, eee k@šno kopreno uno črno pa k@šno slamo al pa travo pokuošeno. </event>
+      <event start="T649-675" end="T656-709">Malu hnuoja in lohku k@šno zastirko daš, eee
+                k@šno kopreno uno črno pa k@šno slamo al pa travo pokuošeno. </event>
       <event start="T658-004_" end="T658-749_">Ja. </event>
       <event start="T658-749_" end="T661-02">[glas] </event>
       <event start="T661-02" end="T662-813_">Tu hre tudi čjez, ja. </event>
       <event start="T667-363_" end="T668-3">Forzicija? </event>
       <event start="T668-3" end="T669-949_">Tistu, ku zej cvete? </event>
       <event start="T670-507" end="T671-233">Ja. </event>
-      <event start="T671-82" end="T674-606">Seveda, sej s verjetnu s kupla jo v lončki z zemlo? </event>
+      <event start="T671-82" end="T674-606">Seveda, sej s verjetnu s kupla jo v lončki z
+                zemlo? </event>
       <event start="T675-035" end="T676-681">Ja, sej tistu ne bu zmrznlu. </event>
       <event start="T677-045" end="T677-61">Ne. </event>
       <event start="T677-61" end="T678-874_">In se bo lepu </event>
-      <event start="T678-874_" end="T682-017_">razrastlo, bo ratal lep hrm, in kar bo odcvelo, lepu </event>
-      <event start="T682-017_" end="T684-984_">poreži, da bo ratalu puol, da boš mela lepu obliko grma. </event>
+      <event start="T678-874_" end="T682-017_">razrastlo, bo ratal lep hrm, in kar bo odcvelo,
+                lepu </event>
+      <event start="T682-017_" end="T684-984_">poreži, da bo ratalu puol, da boš mela lepu
+                obliko grma. </event>
       <event start="T686-303" end="T686-862">No. </event>
       <event start="T689-843" end="T690-355">No, no, </event>
       <event start="T690-355" end="T691-24">tu bo druh tjeden </event>
@@ -8410,7 +8589,8 @@
       <event start="T694-061" end="T697-022">Pa sem vidla, majo tudi mimozo, j hudu ljepa. </event>
       <event start="T697-749" end="T700-79">Ja, sam tle pr nas ne vem, če b preživela v@ni. </event>
       <event start="T702-393" end="T704-687">Ja, sam verjetnu bi ... </event>
-      <event start="T705-910" end="T709-603">Premr@z je, pozimi bi jo treba v luonc pa nuot@r d@t polej. </event>
+      <event start="T705-910" end="T709-603">Premr@z je, pozimi bi jo treba v luonc pa nuot@r
+                d@t polej. </event>
       <event start="T709-603" end="T711-734">Verjetno bi pomrznla, no. </event>
       <event start="T715-26" end="T716-727">Kaj misl@š zelenjavo </event>
       <event start="T716-727" end="T717-92_">ali kej takha? </event>
@@ -8423,7 +8603,8 @@
       <event start="T728-937" end="T729-999">Ja. </event>
       <event start="T730-911" end="T731-398">Se mi zdi, da </event>
       <event start="T731-398" end="T732-434">sem ha vidla. </event>
-      <event start="T735-002" end="T738-513">Ja, ne vem, kaš@n, ka js vem. Tisti škatli tku je pakiran. </event>
+      <event start="T735-002" end="T738-513">Ja, ne vem, kaš@n, ka js vem. Tisti škatli tku je
+                pakiran. </event>
       <event start="T740-286" end="T741-533">Ja, sej je na sliki, </event>
       <event start="T741-533" end="T743-199_">bel, vijulčast pa rozast menda </event>
       <event start="T743-199_" end="T744-328_">pride, ne? </event>
@@ -8432,7 +8613,8 @@
       <event start="T746-934" end="T749-613">Druhu pa ne vem, sej je še k@š@n tak drev. </event>
       <event start="T749-613" end="T752-848">Tak, ku mamo mi tle pred hišo, katalpa, ku </event>
       <event start="T752-848" end="T754-204_">cvete belu. </event>
-      <event start="T754-204_" end="T760-616">Katalpa, ciharovec. Ko ma velike tis() take srčaste liste, pol nardi cvjete ku ena trobjenta. </event>
+      <event start="T754-204_" end="T760-616">Katalpa, ciharovec. Ko ma velike tis() take
+                srčaste liste, pol nardi cvjete ku ena trobjenta. </event>
       <event start="T764-440" end="T765-986">Zakaj? Ne. </event>
       <event start="T765-986" end="T766-645">Če t() n() </event>
       <event start="T766-645" end="T767-631">mi mamo pr nas </event>
@@ -8453,31 +8635,40 @@
       <event start="T794-351_" end="T794-943">tistu. </event>
       <event start="T799-483" end="T800-145_">No, no, bo </event>
       <event start="T800-145_" end="T802-176_">bo pohnalu. P@sti, p@sti še </event>
-      <event start="T802-176_" end="T806-06">v luonci in ku bu mau pohnalu, čez buš puol posadila </event>
+      <event start="T802-176_" end="T806-06">v luonci in ku bu mau pohnalu, čez buš puol
+                posadila </event>
       <event start="T806-06" end="T807-348">ven nekam. </event>
       <event start="T807-348" end="T808-124">Ja itak. </event>
       <event start="T808-124" end="T809-647_">Je še zgudej. </event>
       <event start="T811-276_" end="T811-936_">Ja, je še </event>
-      <event start="T811-936_" end="T815-297">zhudej. Tu bo kumej zdej začelu udhanjat, ku bu bl tuoplu. </event>
+      <event start="T811-936_" end="T815-297">zhudej. Tu bo kumej zdej začelu udhanjat, ku bu
+                bl tuoplu. </event>
       <event start="T816-096" end="T817-3">Ja. </event>
       <event start="T817-3" end="T818-965">Druhu, kaj še kej taga bi </event>
       <event start="T818-965" end="T819-559">vsadila? </event>
       <event start="T820-554" end="T823-915">Ja pa tm ... aprila enkrat </event>
       <event start="T827-454" end="T830-328">Arov je zgudnja suorta, </event>
       <event start="T830-328" end="T831-719">pa ... Vrjetno, </event>
-      <event start="T831-719" end="T838-191">pejdi pohljedat, ne vem, jaz nisem hledla t@ku. Mi smo krompir naročili, so ha domu prpelali, ne vem, morš pohljed@t. </event>
-      <event start="T838-781" end="T842-321">Pa ti bojo morda tm še kej svetovali, kaš@n krompir. </event>
-      <event start="T843-819" end="T849-367">Če ne pa daš k@šneha drusha, da je bl puozn, ku se bu tut bl bulše skladišči. </event>
+      <event start="T831-719" end="T838-191">pejdi pohljedat, ne vem, jaz nisem hledla t@ku.
+                Mi smo krompir naročili, so ha domu prpelali, ne vem, morš pohljed@t. </event>
+      <event start="T838-781" end="T842-321">Pa ti bojo morda tm še kej svetovali, kaš@n
+                krompir. </event>
+      <event start="T843-819" end="T849-367">Če ne pa daš k@šneha drusha, da je bl puozn, ku
+                se bu tut bl bulše skladišči. </event>
       <event start="T850-03" end="T851-213">Ja. </event>
-      <event start="T851-213" end="T857-814">K@šno suorto, k majo tudi majnša pakiranja, ne sam une velike vreče po petindvajst kil, majo tudi majhna pakiranja. </event>
+      <event start="T851-213" end="T857-814">K@šno suorto, k majo tudi majnša pakiranja, ne
+                sam une velike vreče po petindvajst kil, majo tudi majhna pakiranja. </event>
       <event start="T858-697" end="T859-368">Ja. </event>
       <event start="T859-368" end="T861-279">Ja, menda pu deset kil. </event>
       <event start="T865-811" end="T866-624">Ja. </event>
-      <event start="T866-624" end="T871-881">Taku da ... odvisnu, kulk maš prostuora, no, kašne maš tiste hredice, njivo, ne vem. </event>
-      <event start="T873-514" end="T877-667">Druhu pa ne vem, kaj boš še sadila, za bučke, tistu je pa še vse prezhudej. </event>
+      <event start="T866-624" end="T871-881">Taku da ... odvisnu, kulk maš prostuora, no,
+                kašne maš tiste hredice, njivo, ne vem. </event>
+      <event start="T873-514" end="T877-667">Druhu pa ne vem, kaj boš še sadila, za bučke,
+                tistu je pa še vse prezhudej. </event>
       <event start="T878-754" end="T879-547">Ja. </event>
       <event start="T879-919" end="T880-329">Zej bi </event>
-      <event start="T880-329" end="T885-507">lohku to cvetaču, zjele bi loh dala, ku cvetača ti poleti, če je prevroče, neče delat. </event>
+      <event start="T880-329" end="T885-507">lohku to cvetaču, zjele bi loh dala, ku cvetača
+                ti poleti, če je prevroče, neče delat. </event>
       <event start="T886-859" end="T887-822">Imajo. </event>
       <event start="T887-822" end="T889-063">Cvetača, zjele, </event>
       <event start="T889-063" end="T889-553">eee </event>
@@ -8500,98 +8691,121 @@
       <event start="T918-752" end="T919-574_">Ja. </event>
       <event start="T919-574_" end="T923-271">Drhač pa lohk še korjenček seješ, k@šno blitvo. </event>
       <event start="T924-346" end="T926-602">Tu, redkvica. </event>
-      <event start="T926-602" end="T932-743">Eee sem vila ma tudi r() sadike puora pa rdeče pese, tku da maš za naprej, ne. </event>
+      <event start="T926-602" end="T932-743">Eee sem vila ma tudi r() sadike puora pa rdeče
+                pese, tku da maš za naprej, ne. </event>
       <event start="T934-459_" end="T934-833">Edinu </event>
       <event start="T934-833" end="T935-590">korjen ...</event>
       <event start="T935-590" end="T938-404">taku, edinu korjenček sadike nisu v rjedi. </event>
-      <event start="T938-861" end="T944-074_">Ne, ku pride korjenček razvejan, ni tak lep ravn, ku bi mohu bt. </event>
-      <event start="T946-008_" end="T950-597">Ja, taku, ja, pride kar neki. Ku naleti na eno oviro, rata vse se </event>
+      <event start="T938-861" end="T944-074_">Ne, ku pride korjenček razvejan, ni tak lep
+                ravn, ku bi mohu bt. </event>
+      <event start="T946-008_" end="T950-597">Ja, taku, ja, pride kar neki. Ku naleti na eno
+                oviro, rata vse se </event>
       <event start="T951-135" end="T952-448">deformira tku. </event>
       <event start="T956-439" end="T957-422">Tudi, ja. </event>
-      <event start="T957-422" end="T963-2">Ja, sej korenček rabi bl tako ž() zemlo, peščjenu taku, ne, da bo uon, da bo lep. </event>
+      <event start="T957-422" end="T963-2">Ja, sej korenček rabi bl tako ž() zemlo, peščjenu
+                taku, ne, da bo uon, da bo lep. </event>
       <event start="T963-2" end="T965-491">Ku če je trdu, nema it km, </event>
       <event start="T965-491" end="T966-216_">ne. </event>
       <event start="T966-862_" end="T968-523">Ja, taku, taku, ja. </event>
-      <event start="T969-11_" end="T972-55">Taku. Lih taku ku puor, ku ha morš huor malu zahrjeb@t, </event>
+      <event start="T969-11_" end="T972-55">Taku. Lih taku ku puor, ku ha morš huor malu
+                zahrjeb@t, </event>
       <event start="T972-55" end="T973-775">eee da ma ...</event>
       <event start="T973-775" end="T975-927_">taku, ja, da ma čim več beuha dela, </event>
       <event start="T975-927_" end="T977-782">ja. Tisteha uporabneha, </event>
       <event start="T977-782" end="T978-864">ja, taku. </event>
-      <event start="T978-864" end="T983-472_">Druhu pa ne vem. Rukola bi bla zdej, še bi lohku, je duobra. </event>
-      <event start="T986-524" end="T991-362">Lohku, ku daš loke pa daš kopreno uno, mahar zej zimsko, če jo j@maš. </event>
+      <event start="T978-864" end="T983-472_">Druhu pa ne vem. Rukola bi bla zdej, še bi
+                lohku, je duobra. </event>
+      <event start="T986-524" end="T991-362">Lohku, ku daš loke pa daš kopreno uno, mahar zej
+                zimsko, če jo j@maš. </event>
       <event start="T992-66" end="T993-332_">Ja, je bl </event>
       <event start="T993-332_" end="T996-483">guosta, ja, letna koprena je pa bl t@nka. </event>
       <event start="T996-483" end="T997-347">Al pa </event>
       <event start="T997-347" end="T1001-328">daš najlon še, ne vem, pa čjez kopreno al neki. </event>
-      <event start="T1002-45" end="T1009-463">Ja, ku skuz najlon pol zna sunce tudi z() tu vse zapal@t, k@dr fajn pali, zej če te ni tm, da nisi bliz@k. </event>
+      <event start="T1002-45" end="T1009-463">Ja, ku skuz najlon pol zna sunce tudi z() tu vse
+                zapal@t, k@dr fajn pali, zej če te ni tm, da nisi bliz@k. </event>
       <event start="T1009-463" end="T1011-278_">Eee da bi tu čez dan ... </event>
       <event start="T1011-278_" end="T1014-352">Ja, da lohk čez dan tu kej odgrneš, ne. </event>
       <event start="T1015-008_" end="T1016-763">[glas] </event>
-      <event start="T1016-763" end="T1023-575">No, ku ne vem, v r() tle mi, ku mamo v rastlinjaki, so je nuot@r pride savna. Morš čez dan uopr@t, če ne, je vse skuhanu. </event>
+      <event start="T1016-763" end="T1023-575">No, ku ne vem, v r() tle mi, ku mamo v
+                rastlinjaki, so je nuot@r pride savna. Morš čez dan uopr@t, če ne, je vse skuhanu. </event>
       <event start="T1023-575" end="T1024-237">Zdej, k </event>
       <event start="T1024-237" end="T1024-587">je blu </event>
       <event start="T1024-587" end="T1025-231_">vro() tu je ... </event>
       <event start="T1026-746" end="T1027-531">Ja. </event>
-      <event start="T1027-531" end="T1033-475">Edinu če je bo napovedan k@š@n b@l mraz, ne vem, daš, če maš, en kuos najlona, ne. </event>
+      <event start="T1027-531" end="T1033-475">Edinu če je bo napovedan k@š@n b@l mraz, ne
+                vem, daš, če maš, en kuos najlona, ne. </event>
       <event start="T1033-475" end="T1035-701">Pokriješ, taku da ... </event>
-      <event start="T1036-387" end="T1040-346">Tu je tu, no. Druhu pa ne vem. Kaj bi še k@šno drevje okrasno sadila? </event>
+      <event start="T1036-387" end="T1040-346">Tu je tu, no. Druhu pa ne vem. Kaj bi še k@šno
+                drevje okrasno sadila? </event>
       <event start="T1042-498" end="T1043-376">Aha. </event>
       <event start="T1047-132" end="T1048-036">Mal ... </event>
       <event start="T1048-391" end="T1049-275">Okrasno al </event>
       <event start="T1049-275" end="T1050-741">češnjo ta pravo? </event>
       <event start="T1051-523" end="T1052-914">Da bo sadež, aha. </event>
       <event start="T1052-914" end="T1053-437">No no. </event>
-      <event start="T1054-576" end="T1058-975">Aja, tut pr ns jo j@, pa jo vsaku leto sam ptiči pojejo. </event>
+      <event start="T1054-576" end="T1058-975">Aja, tut pr ns jo j@, pa jo vsaku leto sam
+                ptiči pojejo. </event>
       <event start="T1060-405" end="T1061-829">Ja. Ma ja, </event>
-      <event start="T1061-829" end="T1066-01">se da, ja, d@t mrežo, ma zrase visuoko in pol ne morš do njeh, </event>
+      <event start="T1061-829" end="T1066-01">se da, ja, d@t mrežo, ma zrase visuoko in pol ne
+                morš do njeh, </event>
       <event start="T1066-01" end="T1066-875_">ne. </event>
       <event start="T1066-875_" end="T1069-947">In pol grješ, se kuopleš po k@šn@h lujtr@h. </event>
       <event start="T1069-947" end="T1072-362">Nej vredno, ku loh še padeš duol. </event>
       <event start="T1073-684_" end="T1075-227">Mreže pa obstajajo, </event>
-      <event start="T1075-227" end="T1082-506">ja, da vržeš čes kruošnjo, ne, zej če pa rata preveliku drevu, je pa pol tu vse sk@p veliku, visuoku. </event>
+      <event start="T1075-227" end="T1082-506">ja, da vržeš čes kruošnjo, ne, zej če pa rata
+                preveliku drevu, je pa pol tu vse sk@p veliku, visuoku. </event>
       <event start="T1089-06" end="T1089-833_">Ne, tistu </event>
       <event start="T1089-833_" end="T1091-826_">se da k@d@r krompir, zatu ku maju tisti </event>
       <event start="T1091-826_" end="T1093-459_">homolji ... Ko krompir, </event>
       <event start="T1093-459_" end="T1096-471">ja. Sam v jeseni mor@š tistu skuop@t vn, </event>
       <event start="T1096-471" end="T1101-266">vse med homolji očist@š eee tisto eee zjemlo. </event>
-      <event start="T1101-266" end="T1108-441">In lepu posprav@š v eno kljet in spomladi spet sadiš in pol daš še na pol, ker tu rata homol pol še enkr@t vječi. </event>
+      <event start="T1101-266" end="T1108-441">In lepu posprav@š v eno kljet in spomladi spet
+                sadiš in pol daš še na pol, ker tu rata homol pol še enkr@t vječi. </event>
       <event start="T1108-441" end="T1109-045">In se j() ... </event>
       <event start="T1109-665" end="T1110-248_">Taku </event>
-      <event start="T1110-248_" end="T1112-954">ja, se jih namno() j@maš pol za z() naprej, ja. </event>
+      <event start="T1110-248_" end="T1112-954">ja, se jih namno() j@maš pol za z() naprej,
+                ja. </event>
       <event start="T1112-954" end="T1114-96">Taku, ja. </event>
       <event start="T1119-706" end="T1120-77">Za rezanu. </event>
       <event start="T1122-088" end="T1124-56">Pa cinije bi lohku sjala pa astre </event>
       <event start="T1124-56" end="T1125-221">pa k@šne ... </event>
-      <event start="T1125-678" end="T1135-658">Ja, kup@š seme. Lohku kup@š sunč@ncu, jo daš k@m. Zej če je previsuoka, jo daš ob k@š@n ruob pa ti lepu, se lepu ona obrača proti sunci. </event>
-      <event start="T1135-658" end="T1139-661">In pol da j@maš seme, tut ptiči pol pojejo tisto seme. </event>
+      <event start="T1125-678" end="T1135-658">Ja, kup@š seme. Lohku kup@š sunč@ncu, jo daš
+                k@m. Zej če je previsuoka, jo daš ob k@š@n ruob pa ti lepu, se lepu ona obrača proti
+                sunci. </event>
+      <event start="T1135-658" end="T1139-661">In pol da j@maš seme, tut ptiči pol pojejo
+                tisto seme. </event>
       <event start="T1139-661" end="T1141-038">Taku da ... </event>
       <event start="T1141-038" end="T1141-921">tu. </event>
-      <event start="T1141-921" end="T1149-351">Sej je pounu tm, tak, vse suort je ruož, sam pride nuot@r v vrečki lih ene tri semena pa d@stkrat tut ven nč ne pride. </event>
+      <event start="T1141-921" end="T1149-351">Sej je pounu tm, tak, vse suort je ruož, sam
+                pride nuot@r v vrečki lih ene tri semena pa d@stkrat tut ven nč ne pride. </event>
       <event start="T1150-423" end="T1151-681_">Ja, taku slabu </event>
       <event start="T1151-681_" end="T1152-432">je, ja. </event>
       <event start="T1152-432" end="T1152-907">Pa ... </event>
       <event start="T1153-958" end="T1156-657_">Pa veš, kaj je tudi lepu? K@š@n ohnič. </event>
-      <event start="T1156-657_" end="T1163-394">Da daš na njivo med [glas] malu sadik, ga lih tako lohk poseješ, pa vuon se tudi puol kr vseje za naprej. </event>
-      <event start="T1163-763" end="T1167-669">Pa je lepu vid@t med zelenjavo pa odhanja neke škodljivce, ne vem. </event>
+      <event start="T1156-657_" end="T1163-394">Da daš na njivo med [glas] malu sadik, ga lih
+                tako lohk poseješ, pa vuon se tudi puol kr vseje za naprej. </event>
+      <event start="T1163-763" end="T1167-669">Pa je lepu vid@t med zelenjavo pa odhanja neke
+                škodljivce, ne vem. </event>
       <event start="T1167-669" end="T1168-578">Al pa </event>
       <event start="T1168-578" end="T1171-491">te eem ti turški nahlčki. </event>
       <event start="T1172-073" end="T1172-462">Tistu </event>
       <event start="T1172-462" end="T1173-274">lih taku kup@š </event>
       <event start="T1173-274" end="T1174-523">seme pa ... </event>
-      <event start="T1174-523" end="T1179-177">Eee turški, pa pobjereš pol seme pa j@maš za naprej pa si posej@š. </event>
-      <event start="T1179-177" end="T1184-416">Pa lih taku odhanja neke škodljivce, pa tu pa lepo ... </event>
-      <event start="T1184-416" end="T1188-294">Pa lepu je vid@t ob hredicah malu, da cv@te med k@šno zelenjavo, </event>
+      <event start="T1174-523" end="T1179-177">Eee turški, pa pobjereš pol seme pa j@maš za
+                naprej pa si posej@š. </event>
+      <event start="T1179-177" end="T1184-416">Pa lih taku odhanja neke škodljivce, pa tu pa
+                lepo ... </event>
+      <event start="T1184-416" end="T1188-294">Pa lepu je vid@t ob hredicah malu, da cv@te med
+                k@šno zelenjavo, </event>
       <event start="T1188-294" end="T1189-681_">daš k@š@n cvet, ja. </event>
       <event start="T1190-514" end="T1191-584_">Ja, taku. Da je </event>
       <event start="T1191-584_" end="T1194-160">lepu urejeno. </event>
     </tier>
     <tier id="TIE_NN" category="nn" type="d" display-name="[nn]">
+      <ud-tier-information><ud-information attribute-name="exmaralda:hidden">true</ud-information></ud-tier-information>
       <event start="T0" end="T0-555">[premor] </event>
       <event start="T322-023" end="T324-765">[premor] </event>
       <event start="T523-452" end="T525-294">[premor] </event>
     </tier>
   </basic-body>
-  <tierformat-table>
-    <timeline-item-format show-every-nth-numbering="1" show-every-nth-absolute="1" absolute-time-format="time" miliseconds-digits="1"/>
-  </tierformat-table>
 </basic-transcription>

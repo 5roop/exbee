@@ -10,7 +10,9 @@ class EXB:
         self.timeline = self.get_timeline()
         self.speakers = self.find_speakers_from_tier_attrib_speaker()
         self.wavfile_raw = Path(self.doc.find(".//referenced-file").attrib["url"])
-        self.wavfile_abs = (self.path.absolute().resolve().parent / self.wavfile_raw).absolute()
+        self.wavfile_abs = (
+            self.path.absolute().resolve().parent / self.wavfile_raw
+        ).absolute()
 
     def get_tier_names(self):
         tiers = self.doc.findall(".//tier")
@@ -43,7 +45,13 @@ class EXB:
         return list(dict.fromkeys(speakers))
 
     def remove_unused_attributes(self) -> None:
-        for attribute in ["AutoSave", "Dialect", "Accent", "Check", "Scope"]:
+        for attribute in [
+            "AutoSave",
+            "Dialect",
+            "Accent",
+            "Check",
+            "Scope",
+        ]:
             logger.trace(f"Removing redundant metadata: {attribute}")
             for i in self.doc.findall(
                 f'.//ud-information[@attribute-name="{attribute}"]'
@@ -52,6 +60,18 @@ class EXB:
         logger.trace("Removing tier-format elements")
         for i in self.doc.findall(".//tier-format"):
             i.getparent().remove(i)
+        for i in self.doc.findall(".//tierformat-table"):
+            i.getparent().remove(i)
+        for attribute in [
+            "exmaralda:hidden",
+        ]:
+            logger.trace(f"Removing redundant metadata: {attribute}")
+            for i in self.doc.findall(
+                f'.//ud-information[@attribute-name="{attribute}"]'
+            ):
+                parent = i.getparent()
+                parent.remove(i)
+                parent.getparent().remove(parent)
 
     def save(self, file: str | Path) -> None:
         """Saves the doc with Unicode formatting with pretty

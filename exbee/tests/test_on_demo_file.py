@@ -45,3 +45,23 @@ def test_tier_name_getter():
         "ROG-dialog-0008 [colloqSeg]",
         "[nn]",
     ]
+
+
+def test_unhiding_tiers():
+    tiers = [
+        t
+        for t in exb.doc.findall(".//tier")
+        if t.find(f".//ud-information[@attribute-name='exmaralda:hidden']") is not None
+    ]
+    assert len(tiers) == 1
+    exb.remove_unused_attributes()
+    tiers = [
+        t
+        for t in exb.doc.findall(".//tier")
+        if t.find(f".//ud-information[@attribute-name='exmaralda:hidden']") is not None
+    ]
+    assert len(tiers) == 0
+    2 + 2
+
+
+test_unhiding_tiers()
