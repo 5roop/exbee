@@ -80,7 +80,7 @@ class EXB:
         :param str | Path file: Path into which the result will be saved.
         """
         self.remove_duplicated_tlis()
-
+        self.sort_tlis()
         self.remove_unused_attributes()
 
         Path(file).parent.mkdir(exist_ok=True, parents=True)
@@ -122,3 +122,16 @@ class EXB:
         import copy
 
         return copy.deepcopy(self)
+
+    def add_trailing_spaces(self):
+        """Strip all events with text and then append a trailing space."""
+        for event in self.doc.findall(".//event"):
+            if event.text:
+                event.text = event.text.strip() + " "
+
+    @staticmethod
+    def add_trailing_spaces_to_tier(tier):
+        """Within the tier, strip all events with text and then append a trailing space."""
+        for event in tier.findall(".//event"):
+            if event.text:
+                event.text = event.text.strip() + " "

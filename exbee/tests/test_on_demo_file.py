@@ -12,10 +12,12 @@ def test_loading():
 
 
 def test_finding_speakers():
+    exb = EXB(demo_file)
     assert exb.speakers == ["ROG-dialog-0007", "ROG-dialog-0008"]
 
 
 def test_finding_timeline():
+    exb = EXB(demo_file)
     assert len(exb.timeline) == 1148
 
 
@@ -26,6 +28,7 @@ def test_pruning_timeline():
 
 
 def test_tier_name_getter():
+    exb = EXB(demo_file)
     assert exb.get_tier_names() == [
         "ROG-dialog-0007 [colloq]",
         "ROG-dialog-0007 [norm]",
@@ -48,6 +51,7 @@ def test_tier_name_getter():
 
 
 def test_unhiding_tiers():
+    exb = EXB(demo_file)
     tiers = [
         t
         for t in exb.doc.findall(".//tier")
@@ -62,3 +66,30 @@ def test_unhiding_tiers():
     ]
     assert len(tiers) == 0
     2 + 2
+
+
+def test_global_trailing_space_addition():
+    exb = EXB(demo_file)
+    original_len = sum([len(i.text.split()) for i in exb.doc.findall(".//event")])
+    exb.add_trailing_spaces()
+    text_after_one_pass = "".join([i.text for i in exb.doc.findall(".//event")])
+    exb.add_trailing_spaces()
+    text_after_second_pass = "".join([i.text for i in exb.doc.findall(".//event")])
+    assert text_after_one_pass == text_after_second_pass
+    assert original_len == len(text_after_one_pass.split())
+    assert original_len == len(text_after_second_pass.split())
+
+
+def test_single_tier_trailing_space_addition():
+    exb = EXB(demo_file)
+    tier_name = exb.get_tier_names()[0]
+    tier = exb.doc.find(f".//tier[@display-name='{tier_name}']")
+    original_text = [i.text for i in tier.findall(".//event")]
+    exb.add_trailing_spaces_to_tier(tier)
+    tier = exb.doc.find(f".//tier[@display-name='{tier_name}']")
+    new_text = [i.text for i in tier.findall(".//event")]
+
+    assert len(original_text) == len(new_text)
+    for o, n in zip(original_text, new_text):
+        assert o.strip() == n.strip()
+        assert n.endswith(" ")
