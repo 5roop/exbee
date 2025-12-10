@@ -139,8 +139,15 @@ class EXB:
     def add_to_timeline(self, timestamp_seconds: float) -> str:
         timeline = self.doc.find(".//common-timeline")
         L = len(list(timeline.findall(".//tli"))) + 1
+        while True:
+            proposed_id = f"T{L}"
+            if proposed_id in self.timeline.keys():
+                L += 1
+            else:
+                break
         tli = etree.Element("tli")
-        tli.attrib["id"] = f"T{L}"
+        tli.attrib["id"] = proposed_id
         tli.attrib["time"] = str(round(timestamp_seconds, 3))
         timeline.append(tli)
-        return tli.attrib["id"]
+        self.sort_tlis()
+        return proposed_id
