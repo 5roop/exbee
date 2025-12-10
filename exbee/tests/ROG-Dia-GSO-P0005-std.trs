@@ -1,0 +1,3100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Tjaa" audio_filename="../WAV/ROG-Dia-GSO-P0005.wav" version="32" version_date="250603">
+<Speakers>
+<Speaker id="spk1" name="ROG-dialog-0007" check="no" dialect="native" accent="" scope="local" />
+<Speaker id="spk2" name="ROG-dialog-0008" check="no" dialect="native" accent="" scope="local" />
+<Speaker id="spk3" name="Glas" check="no" dialect="native" accent="" scope="local" />
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="1194.160">
+<Turn startTime="0" endTime="0.555">
+<Sync time="0" />
+
+<Event desc="premor" type="noise" extent="instantaneous" />
+
+</Turn>
+<Turn speaker="spk1" startTime="0.555" endTime="3.017">
+<Sync time="0.555" />
+Kaj zdaj, si kupila karte za na Sardinijo?
+</Turn>
+<Turn speaker="spk2" startTime="3.017" endTime="5.403">
+<Sync time="3.017" />
+Ne, ko ne znam. Mi boš mogla pokazati.
+</Turn>
+<Turn speaker="spk1" startTime="5.403" endTime="12.533">
+<Sync time="5.403" />
+Ja, pa saj je čisto enostavno. Tam greš na ono spletno stran od Ryanaira, pogledaš datume, pogledaš cene in pol si izbereš.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="12.533" endTime="16.579">
+<Sync time="12.533" />
+
+<Who nb="1" />
+Koliko cajta ... koliko cajta bi bila tam?
+<Who nb="2" />
+Aja? Ne vem. Ma ...
+</Turn>
+<Turn speaker="spk1" startTime="16.579" endTime="18.133">
+<Sync time="16.579" />
+Več cajta ko si, bolj poceni je.
+</Turn>
+<Turn speaker="spk2" startTime="18.133" endTime="20.669">
+<Sync time="18.133" />
+Aja? Ni to zame za iskati, ne znam.
+</Turn>
+<Turn speaker="spk1" startTime="20.669" endTime="23.316">
+<Sync time="20.669" />
+Ja, ti bi rada samo, da ti drugi zrihtajo pa da ti greš.
+</Turn>
+<Turn speaker="spk2" startTime="23.316" endTime="26.411">
+<Sync time="23.316" />
+Ja, itak, kaj pa? Najlepše je tako.
+</Turn>
+<Turn speaker="spk1" startTime="26.411" endTime="32.282">
+<Sync time="26.411" />
+No, ma tam si naloži tisto aplikacijo od Ryanair in se prijaviš in pol izbereš karto.
+<Event desc="zvok" type="noise" extent="instantaneous" />
+</Turn>
+<Turn speaker="spk2" startTime="32.282" endTime="34.931">
+<Sync time="32.282" />
+Aja, prav aplikacijo moraš imeti? Kaj ne greš kar tako na Google
+<Event desc="zvok" type="noise" extent="instantaneous" />
+</Turn>
+<Turn speaker="spk2 spk1" startTime="34.931" endTime="35.679">
+<Sync time="34.931" />
+
+<Who nb="1" />
+pa najdeš?
+<Who nb="2" />
+Ne,
+</Turn>
+<Turn speaker="spk1" startTime="35.679" endTime="36.904">
+<Sync time="35.679" />
+moraš imeti aplikacijo.
+</Turn>
+<Turn speaker="spk2" startTime="36.904" endTime="37.794">
+<Sync time="36.904" />
+Aja, to pa nimam.
+</Turn>
+<Turn speaker="spk1" startTime="37.794" endTime="40.45">
+<Sync time="37.794" />
+Ja, ker pol imaš shranjene te karte v aplikaciji.
+</Turn>
+<Turn speaker="spk2" startTime="40.45" endTime="42.701">
+<Sync time="40.45" />
+Aja, kaj ni boljše, da si jih natisneš?
+</Turn>
+<Turn speaker="spk1" startTime="42.701" endTime="44.195">
+<Sync time="42.701" />
+Ja, pol si jih pa še natisneš, č()
+</Turn>
+<Turn speaker="spk1 spk2" startTime="44.195" endTime="46.755">
+<Sync time="44.195" />
+
+<Who nb="1" />
+če ti slučajno telefon crkne. Ja.
+<Who nb="2" />
+Ne, ko prideš tja, pa nič ne najdeš.
+</Turn>
+<Turn speaker="spk2" startTime="46.755" endTime="48.336">
+<Sync time="46.755" />
+Aja, ja.
+</Turn>
+<Turn speaker="spk1" startTime="48.336" endTime="56.595">
+<Sync time="48.336" />
+Tam izbereš, pol se prijaviš, prijaviš tiste osebe, ko grejo.
+<Sync time="53.776" />
+Pa mora biti prav napisano. Morajo biti vse črke prav.
+</Turn>
+<Turn speaker="spk2" startTime="56.595" endTime="58.838">
+<Sync time="56.595" />
+In če pol tista ena oseba ne gre?
+</Turn>
+<Turn speaker="spk1" startTime="58.838" endTime="65.334">
+<Sync time="58.838" />
+Lahko eee z doplačilom, mislim, da je deset evrov, da zamenjaš eee naslov eee naslovnika
+</Turn>
+<Turn speaker="spk1 spk2" startTime="65.334" endTime="66.083">
+<Sync time="65.334" />
+
+<Who nb="1" />
+karte.
+<Who nb="2" />
+Aja,
+</Turn>
+<Turn speaker="spk2" startTime="66.083" endTime="66.93">
+<Sync time="66.083" />
+tako.
+</Turn>
+<Turn speaker="spk1" startTime="66.93" endTime="68.851">
+<Sync time="66.93" />
+Ja, in pol s kartico plačaš.
+</Turn>
+<Turn speaker="spk2" startTime="68.851" endTime="69.978">
+<Sync time="68.851" />
+Ne vem.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="69.978" endTime="72.147">
+<Sync time="69.978" />
+
+<Who nb="1" />
+Kartico imaš za plačati?
+<Who nb="2" />
+Nisem še nikoli ...
+</Turn>
+<Turn speaker="spk2" startTime="72.147" endTime="72.636">
+<Sync time="72.147" />
+Ja.
+</Turn>
+<Turn speaker="spk1" startTime="72.636" endTime="73.12">
+<Sync time="72.636" />
+Bančno?
+</Turn>
+<Turn speaker="spk2" startTime="73.12" endTime="73.508">
+<Sync time="73.12" />
+Ja.
+</Turn>
+<Turn speaker="spk1" startTime="73.508" endTime="73.944">
+<Sync time="73.508" />
+A imaš?
+</Turn>
+<Turn speaker="spk2" startTime="73.944" endTime="75.105">
+<Sync time="73.944" />
+Ja, imam to eno.
+</Turn>
+<Turn speaker="spk1" startTime="75.105" endTime="75.957">
+<Sync time="75.105" />
+A no, tisto imaš.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="75.957" endTime="78.046">
+<Sync time="75.957" />
+
+<Who nb="1" />
+No, in pol ko plačaš ...
+<Who nb="2" />
+Ja.
+</Turn>
+<Turn speaker="spk1" startTime="78.046" endTime="81.743">
+<Sync time="78.046" />
+pol pa greš nazaj v aplikacijo in narediš tisti check in.
+</Turn>
+<Turn speaker="spk2" startTime="81.743" endTime="82.496">
+<Sync time="81.743" />
+Aha.
+</Turn>
+<Turn speaker="spk1" startTime="82.496" endTime="88.976">
+<Sync time="82.496" />
+Ne? In tam ti piše pol, ob koliki uri greš in kdaj pristaneš. In številko leta.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="88.976" endTime="90.502">
+<Sync time="88.976" />
+
+<Who nb="1" />
+Pa za ...
+<Who nb="2" />
+
+<Event desc="glas" type="noise" extent="instantaneous" />
+Boš rajši
+</Turn>
+<Turn speaker="spk2" startTime="90.502" endTime="92.364">
+<Sync time="90.502" />
+ti to naredila, ko veš, kako gre.
+</Turn>
+<Turn speaker="spk1" startTime="92.364" endTime="95.011">
+<Sync time="92.364" />
+Ja, no, pa saj sss čem ti povedati pa te navaditi.
+</Turn>
+<Turn speaker="spk2" startTime="95.011" endTime="95.487">
+<Sync time="95.011" />
+Mah.
+</Turn>
+<Turn speaker="spk1" startTime="95.487" endTime="97.797">
+<Sync time="95.487" />
+Pa kaj b() kje boste pa parkirali?
+</Turn>
+<Turn speaker="spk2" startTime="97.797" endTime="98.887">
+<Sync time="97.797" />
+Koga?
+</Turn>
+<Turn speaker="spk1" startTime="98.887" endTime="100.809">
+<Sync time="98.887" />
+Ja, avto na letališču?
+</Turn>
+<Turn speaker="spk2" startTime="100.809" endTime="102.91">
+<Sync time="100.809" />
+Pa ne vem, verjetno nas bo kakšen peljal.
+</Turn>
+<Turn speaker="spk1" startTime="102.91" endTime="106.139">
+<Sync time="102.91" />
+Ma na, pa spet.
+<Sync time="105.010" />
+Pa tam rezervirajte
+</Turn>
+<Turn speaker="spk1 spk2" startTime="106.139" endTime="106.675">
+<Sync time="106.139" />
+
+<Who nb="1" />
+tisto.
+<Who nb="2" />
+Kaj, pri()
+</Turn>
+<Turn speaker="spk2" startTime="106.675" endTime="107.182">
+<Sync time="106.675" />
+parking?
+</Turn>
+<Turn speaker="spk1" startTime="107.182" endTime="116.436">
+<Sync time="107.182" />
+Ja, samo moraš imeti eee tablico, registracijo
+<Sync time="112.081" />
+in pol tam daš od kdaj do kdaj, kateri datum in uro.
+</Turn>
+<Turn speaker="spk2" startTime="116.436" endTime="117.061">
+<Sync time="116.436" />
+Aja, tako?
+</Turn>
+<Turn speaker="spk1" startTime="117.061" endTime="120.101">
+<Sync time="117.061" />
+In pol tam pustiš in te že senzor zazna tablico,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="120.101" endTime="121.687">
+<Sync time="120.101" />
+
+<Who nb="1" />
+ja.
+<Who nb="2" />
+Aja, ja.
+<Sync time="120.7" />
+
+<Who nb="1" />
+Ja, in nič ne rabiš.
+<Who nb="2" />
+Aja, to
+</Turn>
+<Turn speaker="spk2" startTime="121.687" endTime="122.951">
+<Sync time="121.687" />
+sem videla zadnjikrat, ja.
+</Turn>
+<Turn speaker="spk1" startTime="122.951" endTime="125.123">
+<Sync time="122.951" />
+No, in ti je čisto enostavno tja priti.
+</Turn>
+<Turn speaker="spk2" startTime="125.123" endTime="126.027">
+<Sync time="125.123" />
+Ja, to vem.
+</Turn>
+<Turn speaker="spk1" startTime="126.027" endTime="127.573">
+<Sync time="126.027" />
+A no, saj smo šle zadnjič.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="127.573" endTime="129.229">
+<Sync time="127.573" />
+
+<Who nb="1" />
+Na pregled.
+<Who nb="2" />
+Ja, pa ne vem.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="129.229" endTime="130.94">
+<Sync time="129.229" />
+
+<Who nb="1" />
+No,
+<Who nb="2" />
+No, no.
+</Turn>
+<Turn speaker="spk1" startTime="130.94" endTime="133.509">
+<Sync time="130.94" />
+in ko boste prišle nazaj, se usedeš v avto in
+</Turn>
+<Turn speaker="spk1 spk2" startTime="133.509" endTime="134.639">
+<Sync time="133.509" />
+
+<Who nb="1" />
+greš domov.
+<Who nb="2" />
+
+</Turn>
+<Turn speaker="spk2" startTime="134.639" endTime="137.504">
+<Sync time="134.639" />
+No. In če si zmatran, ko ne moreš voziti?
+</Turn>
+<Turn speaker="spk1" startTime="137.504" endTime="139.426">
+<Sync time="137.504" />
+Saj boš počivala na letalu.
+</Turn>
+<Turn speaker="spk2" startTime="139.426" endTime="139.931">
+<Sync time="139.426" />
+A.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="139.931" endTime="140.979">
+<Sync time="139.931" />
+
+<Who nb="1" />
+Kaj veš.
+<Who nb="2" />
+Koliko cajta
+</Turn>
+<Turn speaker="spk1" startTime="140.979" endTime="145.608">
+<Sync time="140.979" />
+se boste peljali? Dve uri? Koliko smo se mi peljali? Tri?
+<Sync time="143.902" />
+Dve, menda, ne vem.
+</Turn>
+<Turn speaker="spk2" startTime="145.608" endTime="147.075">
+<Sync time="145.608" />
+Nem() ne vem.
+</Turn>
+<Turn speaker="spk1" startTime="147.075" endTime="150.099">
+<Sync time="147.075" />
+Na karti bo pisalo. Kdaj je vzlet in kdaj je pristanek.
+</Turn>
+<Turn speaker="spk2" startTime="150.099" endTime="151.669">
+<Sync time="150.099" />
+Nimam še karte.
+</Turn>
+<Turn speaker="spk1" startTime="151.669" endTime="154.954">
+<Sync time="151.669" />
+Ja, saj zato si moraš naruo() naložiti tisto aplikacijo.
+</Turn>
+<Turn speaker="spk2" startTime="154.954" endTime="155.796">
+<Sync time="154.954" />
+Ne vem.
+</Turn>
+<Turn speaker="spk1" startTime="155.796" endTime="159.028">
+<Sync time="155.796" />
+Ja, kaj pa eee hotel?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="159.028" endTime="160.472">
+<Sync time="159.028" />
+
+<Who nb="1" />
+Ne bomo v hotelu.
+<Who nb="2" />
+A ne boste v hotelu?
+</Turn>
+<Turn speaker="spk1" startTime="160.472" endTime="161.106">
+<Sync time="160.472" />
+Kje pa boste?
+</Turn>
+<Turn speaker="spk2" startTime="161.106" endTime="161.998">
+<Sync time="161.106" />
+Kmečki turizem.
+</Turn>
+<Turn speaker="spk1" startTime="161.998" endTime="163.028">
+<Sync time="161.998" />
+A kmečki turizem
+</Turn>
+<Turn speaker="spk1 spk2" startTime="163.028" endTime="165.350">
+<Sync time="163.028" />
+
+<Who nb="1" />
+bo?
+<Who nb="2" />
+Ja.
+<Sync time="163.895" />
+
+<Who nb="1" />
+Kaj z zajtrkom?
+<Who nb="2" />
+Z bazenom,
+</Turn>
+<Turn speaker="spk2" startTime="165.350" endTime="166.285">
+<Sync time="165.350" />
+tako nobel.
+</Turn>
+<Turn speaker="spk1" startTime="166.285" endTime="167.803">
+<Sync time="166.285" />
+Aja? Z zajtrkom?
+</Turn>
+<Turn speaker="spk2" startTime="167.803" endTime="168.199">
+<Sync time="167.803" />
+Ja.
+</Turn>
+<Turn speaker="spk1" startTime="168.199" endTime="169.249">
+<Sync time="168.199" />
+Ma brez večerje?
+</Turn>
+<Turn speaker="spk2" startTime="169.249" endTime="170.636">
+<Sync time="169.249" />
+Če češ, tudi večerja.
+</Turn>
+<Turn speaker="spk1" startTime="170.636" endTime="173.059">
+<Sync time="170.636" />
+Aja, večerja.
+<Sync time="171.47" />
+A boste šli kam drugam?
+</Turn>
+<Turn speaker="spk2" startTime="173.059" endTime="175.607">
+<Sync time="173.059" />
+Ne vem. To bomo sproti se zmenili.
+</Turn>
+<Turn speaker="spk1" startTime="175.607" endTime="177.017">
+<Sync time="175.607" />
+V katerem kraju pa je?
+</Turn>
+<Turn speaker="spk2" startTime="177.017" endTime="178.395">
+<Sync time="177.017" />
+Pa ne vem.
+<Event desc="smeh" type="noise" extent="instantaneous" />
+</Turn>
+<Turn speaker="spk1" startTime="178.395" endTime="179.84">
+<Sync time="178.395" />
+
+<Event desc="smeh" type="noise" extent="instantaneous" />
+</Turn>
+<Turn speaker="spk2" startTime="179.84" endTime="181.733">
+<Sync time="179.84" />
+Ja, no, če vse drugi rezervirajo,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="181.733" endTime="182.666">
+<Sync time="181.733" />
+
+<Who nb="1" />
+Ja, super.
+<Who nb="2" />
+kako čem vedeti?
+</Turn>
+<Turn speaker="spk1" startTime="182.666" endTime="183.906">
+<Sync time="182.666" />
+Jaz bi šla tudi tako.
+</Turn>
+<Turn speaker="spk2" startTime="183.906" endTime="185.872">
+<Sync time="183.906" />
+Ja, no, kaj ni najlepše tako?
+</Turn>
+<Turn speaker="spk1" startTime="185.872" endTime="186.625">
+<Sync time="185.872" />
+Ja.
+</Turn>
+<Turn speaker="spk2" startTime="186.625" endTime="189.13">
+<Sync time="186.625" />
+Da ti ni treba nič. Samo plačaš in greš.
+</Turn>
+<Turn speaker="spk1" startTime="189.13" endTime="189.841">
+<Sync time="189.13" />
+Ja, no,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="189.841" endTime="190.257">
+<Sync time="189.841" />
+
+<Who nb="1" />
+ma saj tudi
+<Who nb="2" />
+Ja.
+</Turn>
+<Turn speaker="spk1" startTime="190.257" endTime="192.035">
+<Sync time="190.257" />
+tu preko Bookinga greš lahko, ne?
+</Turn>
+<Turn speaker="spk2" startTime="192.035" endTime="192.462">
+<Sync time="192.035" />
+Ne vem.
+</Turn>
+<Turn speaker="spk1" startTime="192.462" endTime="195.428">
+<Sync time="192.462" />
+Tudi tu moraš imeti aplikacijo pa se registrirati.
+</Turn>
+<Turn speaker="spk2" startTime="195.428" endTime="196.431">
+<Sync time="195.428" />
+Ja, no.
+</Turn>
+<Turn speaker="spk1" startTime="196.431" endTime="197.702">
+<Sync time="196.431" />
+Ne, pa si izbereš,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="197.702" endTime="198.341">
+<Sync time="197.702" />
+
+<Who nb="1" />
+kar češ.
+<Who nb="2" />
+Ne vem, kako
+</Turn>
+<Turn speaker="spk2" startTime="198.341" endTime="201.508">
+<Sync time="198.341" />
+so r() eee to rezervirali, nnn ne vem.
+</Turn>
+<Turn speaker="spk1" startTime="201.508" endTime="209.453">
+<Sync time="201.508" />
+Moraš imeti aplikacijo pa si rezerviraš Booking, pa saj tam imaš gor tudi apartmaje in bungalove menda in hotelov, kmečke turizme, menda je vse gor.
+</Turn>
+<Turn speaker="spk2" startTime="209.453" endTime="212.783">
+<Sync time="209.453" />
+Baje da je vse rezervirano. So direktno poklicali.
+</Turn>
+<Turn speaker="spk1" startTime="212.783" endTime="214.062">
+<Sync time="212.783" />
+
+<Event desc="glas" type="noise" extent="instantaneous" />
+Ja.
+</Turn>
+<Turn speaker="spk2" startTime="214.062" endTime="216.064">
+<Sync time="214.062" />
+Tako da mi ni treba nič skrbeti.
+</Turn>
+<Turn speaker="spk1" startTime="216.064" endTime="219.393">
+<Sync time="216.064" />
+Ja, lepo. Kaj pa za potovalko?
+<Sync time="218.39" />
+Kufer?
+</Turn>
+<Turn speaker="spk2" startTime="219.393" endTime="220.038">
+<Sync time="219.393" />
+Ne rabim.
+</Turn>
+<Turn speaker="spk1" startTime="220.038" endTime="221.295">
+<Sync time="220.038" />
+Moraš pogledati one mere,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="221.295" endTime="222.237">
+<Sync time="221.295" />
+
+<Who nb="1" />
+ko gre na letalo.
+<Who nb="2" />
+Samo rukzak.
+</Turn>
+<Turn speaker="spk2" startTime="222.237" endTime="223.008">
+<Sync time="222.237" />
+Ne rabim nič
+</Turn>
+<Turn speaker="spk2 spk1" startTime="223.008" endTime="224.568">
+<Sync time="223.008" />
+
+<Who nb="1" />
+Ne boš nič vzela?
+<Who nb="2" />
+nesti s sabo.
+</Turn>
+<Turn speaker="spk2" startTime="224.568" endTime="227.374">
+<Sync time="224.568" />
+Kaj bi pa nesla s sabo?
+</Turn>
+<Turn speaker="spk1" startTime="227.374" endTime="230.536">
+<Sync time="227.374" />
+Ja.
+<Sync time="227.945" />
+Ne vem, odvisno, kdaj greš, kakšno vreme bo.
+</Turn>
+<Turn speaker="spk2" startTime="230.536" endTime="230.974">
+<Sync time="230.536" />
+Aja, s() ...
+</Turn>
+<Turn speaker="spk1" startTime="230.974" endTime="233.003">
+<Sync time="230.974" />
+Kopalke nesi, morda boš šla se kopat.
+</Turn>
+<Turn speaker="spk2" startTime="233.003" endTime="234.164">
+<Sync time="233.003" />
+Bo mraz.
+</Turn>
+<Turn speaker="spk1" startTime="234.164" endTime="234.882">
+<Sync time="234.164" />
+Ja.
+</Turn>
+<Turn speaker="spk2" startTime="234.882" endTime="236.333">
+<Sync time="234.882" />
+Morje bo mrzlo.
+</Turn>
+<Turn speaker="spk1" startTime="236.333" endTime="237.871">
+<Sync time="236.333" />
+Greste prezgodaj.
+</Turn>
+<Turn speaker="spk2" startTime="237.871" endTime="240.241">
+<Sync time="237.871" />
+Ja, pol pa ni cajta.
+</Turn>
+<Turn speaker="spk1" startTime="240.241" endTime="241.892">
+<Sync time="240.241" />
+Ja, glej.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="241.892" endTime="242.305">
+<Sync time="241.892" />
+
+<Who nb="1" />
+Pol
+<Who nb="2" />
+Pa ...
+</Turn>
+<Turn speaker="spk1" startTime="242.305" endTime="243.700">
+<Sync time="242.305" />
+boste pa raziskovali okoli
+</Turn>
+<Turn speaker="spk1 spk2" startTime="243.700" endTime="245.127">
+<Sync time="243.700" />
+
+<Who nb="1" />
+pa na izlete boste šli.
+<Who nb="2" />
+Pa koliko velik kufer
+</Turn>
+<Turn speaker="spk2" startTime="245.127" endTime="246.422">
+<Sync time="245.127" />
+lahko neseš?
+</Turn>
+<Turn speaker="spk1" startTime="246.422" endTime="252.894">
+<Sync time="246.422" />
+Mislim, da je dimenzije štiri, eee ko(), ne, rukzak je štirideset, petdeset, dvajset, ne?
+</Turn>
+<Turn speaker="spk2" startTime="252.894" endTime="253.52">
+<Sync time="252.894" />
+Mhm.
+</Turn>
+<Turn speaker="spk1" startTime="253.52" endTime="255.822">
+<Sync time="253.52" />
+Kufer je pa, piše na aplikaciji
+</Turn>
+<Turn speaker="spk1 spk2" startTime="255.822" endTime="256.795">
+<Sync time="255.822" />
+
+<Who nb="1" />
+od Ryanaira, moraš
+<Who nb="2" />
+Koliko velik?
+</Turn>
+<Turn speaker="spk1" startTime="256.795" endTime="258.191">
+<Sync time="256.795" />
+pogledati, koliko gre lahko.
+</Turn>
+<Turn speaker="spk2" startTime="258.191" endTime="258.801">
+<Sync time="258.191" />
+Ali je tudi na
+</Turn>
+<Turn speaker="spk2 spk1" startTime="258.801" endTime="259.132">
+<Sync time="258.801" />
+
+<Who nb="1" />
+kile
+<Who nb="2" />
+Ker če ...
+</Turn>
+<Turn speaker="spk2" startTime="259.132" endTime="259.92">
+<Sync time="259.132" />
+omejeno?
+</Turn>
+<Turn speaker="spk1" startTime="259.92" endTime="271.182">
+<Sync time="259.92" />
+Ja, tudi.
+<Sync time="260.941" />
+Ker če boš na prišla na letališče, moraš, tam je en tak pano,
+<Sync time="265.174" />
+pa notri je ograjeno, kakšen eee kufer gre noter. Če je pre() prevelik, lahko plačaš tudi petdeset evrov, veš?
+</Turn>
+<Turn speaker="spk2" startTime="271.182" endTime="271.725">
+<Sync time="271.182" />
+Aja?
+</Turn>
+<Turn speaker="spk1" startTime="271.725" endTime="272.324">
+<Sync time="271.725" />
+Ja, ja.
+</Turn>
+<Turn speaker="spk2" startTime="272.324" endTime="273.188">
+<Sync time="272.324" />
+Aha.
+</Turn>
+<Turn speaker="spk1" startTime="273.188" endTime="273.629">
+<Sync time="273.188" />
+Te lahko
+</Turn>
+<Turn speaker="spk1 spk2" startTime="273.629" endTime="275.063">
+<Sync time="273.629" />
+
+<Who nb="1" />
+Doplačilo.
+<Who nb="2" />
+tam kar ustavijo.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="275.063" endTime="275.692">
+<Sync time="275.063" />
+
+<Who nb="1" />
+Ja.
+<Who nb="2" />
+Aha.
+</Turn>
+<Turn speaker="spk1" startTime="275.692" endTime="279.907">
+<Sync time="275.692" />
+Zato morajo biti standardne mere. Tako kot piše tam, na aplikaciji.
+</Turn>
+<Turn speaker="spk2" startTime="279.907" endTime="283.793">
+<Sync time="279.907" />
+Pa da se kufer ne umaže, je tudi kakšna lepa oblekica za kufer tako?
+</Turn>
+<Turn speaker="spk1" startTime="283.793" endTime="284.027">
+<Sync time="283.793" />
+Ja.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="284.027" endTime="285.21">
+<Sync time="284.027" />
+
+<Who nb="1" />
+Kje v reklamah?
+<Who nb="2" />
+Pojdi pogledat.
+</Turn>
+<Turn speaker="spk1" startTime="285.21" endTime="288.868">
+<Sync time="285.21" />
+Po moje da imajo v tej eee, kaj je ona trgovina?
+</Turn>
+<Turn speaker="spk2" startTime="288.868" endTime="290.093">
+<Sync time="288.868" />
+BagsAndMore?
+</Turn>
+<Turn speaker="spk1" startTime="290.093" endTime="290.684">
+<Sync time="290.093" />
+BagsAndMore.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="290.684" endTime="291.318">
+<Sync time="290.684" />
+
+<Who nb="1" />
+In oni
+<Who nb="2" />
+Aja.
+</Turn>
+<Turn speaker="spk1" startTime="291.318" endTime="292.129">
+<Sync time="291.318" />
+napis gor.
+</Turn>
+<Turn speaker="spk2" startTime="292.129" endTime="293.437">
+<Sync time="292.129" />
+Kakšen napis?
+</Turn>
+<Turn speaker="spk1" startTime="293.437" endTime="295.442">
+<Sync time="293.437" />
+Ja, da si prilepiš gor, čigav kufer je.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="295.442" endTime="297.823">
+<Sync time="295.442" />
+
+<Who nb="1" />
+Če se izgubi, da ti ga pol pošljejo.
+<Who nb="2" />
+Aja, ja, ja. Pa saj tisto ima že
+</Turn>
+<Turn speaker="spk2" startTime="297.823" endTime="298.746">
+<Sync time="297.823" />
+kufer gor. Tisti ...
+</Turn>
+<Turn speaker="spk1" startTime="298.746" endTime="299.861">
+<Sync time="298.746" />
+Etiketo.
+</Turn>
+<Turn speaker="spk2" startTime="299.861" endTime="302.193">
+<Sync time="299.861" />
+No, no, še kaj takega?
+</Turn>
+<Turn speaker="spk1" startTime="302.193" endTime="304.443">
+<Sync time="302.193" />
+Marele ne smeš vzeti s sabo.
+</Turn>
+<Turn speaker="spk2" startTime="304.443" endTime="305.545">
+<Sync time="304.443" />
+Zakaj ne?
+</Turn>
+<Turn speaker="spk1" startTime="305.545" endTime="306.795">
+<Sync time="305.545" />
+Na l() eee na
+</Turn>
+<Turn speaker="spk1 spk2" startTime="306.795" endTime="307.802">
+<Sync time="306.795" />
+
+<Who nb="1" />
+v rukzaku ne sme
+<Who nb="2" />
+Samo v kufer?
+</Turn>
+<Turn speaker="spk1" startTime="307.802" endTime="309.99">
+<Sync time="307.802" />
+biti.
+<Sync time="308.39" />
+Samo v kufer.
+</Turn>
+<Turn speaker="spk2" startTime="309.99" endTime="310.982">
+<Sync time="309.99" />
+Aja.
+</Turn>
+<Turn speaker="spk1" startTime="310.982" endTime="312.821">
+<Sync time="310.982" />
+Pa vode tudi ne smeš nesti čez.
+</Turn>
+<Turn speaker="spk2" startTime="312.821" endTime="313.459">
+<Sync time="312.821" />
+Aja?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="313.459" endTime="314.248">
+<Sync time="313.459" />
+
+<Who nb="1" />
+Ja.
+<Who nb="2" />
+Tudi to?
+</Turn>
+<Turn speaker="spk1" startTime="314.248" endTime="316.570">
+<Sync time="314.248" />
+Samo sendviče. Tisto vodo boš pa kupila pol na
+</Turn>
+<Turn speaker="spk1 spk2" startTime="316.570" endTime="318.274">
+<Sync time="316.570" />
+
+<Who nb="1" />
+letališču, ko boš šla že
+<Who nb="2" />
+Na letališču, ja.
+</Turn>
+<Turn speaker="spk1" startTime="318.274" endTime="319.201">
+<Sync time="318.274" />
+skozi
+</Turn>
+<Turn speaker="spk1 spk2" startTime="319.201" endTime="320.407">
+<Sync time="319.201" />
+
+<Who nb="1" />
+kontrolo.
+<Who nb="2" />
+In drugo?
+</Turn>
+<Turn startTime="320.407" endTime="322.023" speaker="spk2">
+<Sync time="320.407" />
+Kaj imaš lahko še pri sebi?
+</Turn>
+<Turn startTime="322.023" endTime="324.765">
+<Sync time="322.023" />
+
+<Event desc="premor" type="noise" extent="instantaneous" />
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="324.765" endTime="326.399">
+<Sync time="324.765" />
+
+<Who nb="1" />
+Eee moraš imeti eee
+<Who nb="2" />
+V rukzak, kaj lahko ...
+</Turn>
+<Turn speaker="spk1" startTime="326.399" endTime="332.202">
+<Sync time="326.399" />
+powerbank moraš imeti pri sebi pa polnilec moraš imeti pri sebi v rukzaku.
+<Sync time="330.54" />
+To ne sme biti noter v kufru.
+</Turn>
+<Turn speaker="spk2" startTime="332.202" endTime="332.997">
+<Sync time="332.202" />
+A ne sme biti v
+</Turn>
+<Turn speaker="spk2 spk1" startTime="332.997" endTime="333.485">
+<Sync time="332.997" />
+
+<Who nb="1" />
+Ne,
+<Who nb="2" />
+kufru?
+</Turn>
+<Turn speaker="spk1" startTime="333.485" endTime="336.96">
+<Sync time="333.485" />
+to moraš imeti pri sebi, in ko boš šla skozi kontrolo, moraš to vse dati
+</Turn>
+<Turn speaker="spk1 spk2" startTime="336.96" endTime="337.61">
+<Sync time="336.96" />
+
+<Who nb="1" />
+ven.
+<Who nb="2" />
+
+</Turn>
+<Turn speaker="spk2" startTime="337.61" endTime="338.364">
+<Sync time="337.61" />
+Iz rukzaka
+</Turn>
+<Turn speaker="spk2 spk1" startTime="338.364" endTime="338.998">
+<Sync time="338.364" />
+
+<Who nb="1" />
+Na, na
+<Who nb="2" />
+zložiti.
+</Turn>
+<Turn speaker="spk1" startTime="338.998" endTime="339.91">
+<Sync time="338.998" />
+tekoči
+</Turn>
+<Turn speaker="spk1 spk2" startTime="339.91" endTime="340.535">
+<Sync time="339.91" />
+
+<Who nb="1" />
+trak.
+<Who nb="2" />
+
+</Turn>
+<Turn speaker="spk2" startTime="340.535" endTime="341.399">
+<Sync time="340.535" />
+Mhm.
+</Turn>
+<Turn speaker="spk1" startTime="341.399" endTime="343.048">
+<Sync time="341.399" />
+In pas tudi.
+</Turn>
+<Turn speaker="spk2" startTime="343.048" endTime="343.796">
+<Sync time="343.048" />
+Pas
+</Turn>
+<Turn speaker="spk2 spk1" startTime="343.796" endTime="344.368">
+<Sync time="343.796" />
+
+<Who nb="1" />
+tudi proč
+<Who nb="2" />
+Ja.
+</Turn>
+<Turn speaker="spk2" startTime="344.368" endTime="344.923">
+<Sync time="344.368" />
+od hlač.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="344.923" endTime="345.714">
+<Sync time="344.923" />
+
+<Who nb="1" />
+Ja.
+<Who nb="2" />
+Zapestnica,
+</Turn>
+<Turn speaker="spk2" startTime="345.714" endTime="347.003">
+<Sync time="345.714" />
+ura, vse to proč?
+</Turn>
+<Turn speaker="spk1" startTime="347.003" endTime="353.177">
+<Sync time="347.003" />
+Vse boš dala v tiste plastične eee gajbice.
+<Sync time="349.943" />
+K vse poprekontrolirajo, ko gre skozi rentgen.
+</Turn>
+<Turn speaker="spk2" startTime="353.177" endTime="355.804">
+<Sync time="353.177" />
+In tekočine, če imaš kaj za tuširati?
+</Turn>
+<Turn speaker="spk1" startTime="355.804" endTime="358.828">
+<Sync time="355.804" />
+Tisto je do sto mililitrov imaš lahko s sabo.
+</Turn>
+<Turn speaker="spk2" startTime="358.828" endTime="360.015">
+<Sync time="358.828" />
+Mhm. Drugo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="360.015" endTime="360.949">
+<Sync time="360.015" />
+
+<Who nb="1" />
+vje() večja gre pa
+<Who nb="2" />
+Več pa ne.
+</Turn>
+<Turn speaker="spk2" startTime="360.949" endTime="361.753">
+<Sync time="360.949" />
+lahko v kufer?
+</Turn>
+<Turn speaker="spk1" startTime="361.753" endTime="363.013">
+<Sync time="361.753" />
+Ja, večja pa v kufer, ja.
+</Turn>
+<Turn speaker="spk2" startTime="363.013" endTime="364.46">
+<Sync time="363.013" />
+Aha, tako je to.
+</Turn>
+<Turn speaker="spk1" startTime="364.46" endTime="364.967">
+<Sync time="364.46" />
+Ja.
+</Turn>
+<Turn speaker="spk2" startTime="364.967" endTime="367.86">
+<Sync time="364.967" />
+In rukzak je pol lahko tako majhen, šolski?
+</Turn>
+<Turn speaker="spk1" startTime="367.86" endTime="370.694">
+<Sync time="367.86" />
+Majhen, šolski, da bo šel pod stol od aviona.
+</Turn>
+<Turn speaker="spk2" startTime="370.694" endTime="372.469">
+<Sync time="370.694" />
+Mhm, da imaš pri sebi.
+</Turn>
+<Turn speaker="spk1" startTime="372.469" endTime="375.671">
+<Sync time="372.469" />
+Pod nuo() pri pri nogah spodaj ga boš speštala.
+</Turn>
+<Turn speaker="spk2" startTime="375.671" endTime="376.491">
+<Sync time="375.671" />
+Okej.
+</Turn>
+<Turn speaker="spk1" startTime="376.491" endTime="377.213">
+<Sync time="376.491" />
+Ja.
+</Turn>
+<Turn speaker="spk2" startTime="377.213" endTime="378.683">
+<Sync time="377.213" />
+Še kaj drugega takega
+</Turn>
+<Turn speaker="spk2 spk1" startTime="378.683" endTime="379.404">
+<Sync time="378.683" />
+
+<Who nb="1" />
+Pijačo si lahko
+<Who nb="2" />
+pomembnega?
+</Turn>
+<Turn speaker="spk1" startTime="379.404" endTime="380.775">
+<Sync time="379.404" />
+kupiš tudi na letalu,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="380.775" endTime="381.536">
+<Sync time="380.775" />
+
+<Who nb="1" />
+pa je draga.
+<Who nb="2" />
+Ja,
+</Turn>
+<Turn speaker="spk2" startTime="381.536" endTime="382.031">
+<Sync time="381.536" />
+je draga,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="382.031" endTime="382.543">
+<Sync time="382.031" />
+
+<Who nb="1" />
+Ja.
+<Who nb="2" />
+
+</Turn>
+<Turn speaker="spk1" startTime="382.543" endTime="383.645">
+<Sync time="382.543" />
+Parfume imajo gor.
+</Turn>
+<Turn speaker="spk2" startTime="383.645" endTime="384.231">
+<Sync time="383.645" />
+A tudi
+</Turn>
+<Turn speaker="spk2 spk1" startTime="384.231" endTime="385.338">
+<Sync time="384.231" />
+
+<Who nb="1" />
+parfume?
+<Who nb="2" />
+Ja, hrano imajo
+</Turn>
+<Turn speaker="spk1" startTime="385.338" endTime="389.2">
+<Sync time="385.338" />
+tudi gor, kofe.
+<Sync time="386.946" />
+Samo je kar drago.
+</Turn>
+<Turn speaker="spk2" startTime="389.2" endTime="391.297">
+<Sync time="389.2" />
+Mhm, pol je boljše, da to prej
+</Turn>
+<Turn speaker="spk2 spk1" startTime="391.297" endTime="392.1">
+<Sync time="391.297" />
+
+<Who nb="1" />
+Ja, ali
+<Who nb="2" />
+spiješ.
+</Turn>
+<Turn speaker="spk1" startTime="392.1" endTime="394.237">
+<Sync time="392.1" />
+pa pol.
+<Sync time="393.056" />
+Ko pristaneš.
+</Turn>
+<Turn speaker="spk2" startTime="394.237" endTime="399.341">
+<Sync time="394.237" />
+Aha.
+<Sync time="395.264" />
+In koliko cajta, ko pristaneš, čakaš za kufer prevzet?
+</Turn>
+<Turn speaker="spk1" startTime="399.341" endTime="404.386">
+<Sync time="399.341" />
+Ma odvisno.
+<Sync time="401.133" />
+Odvisno, koliko cajta rabijo, da razložijo letalo.
+</Turn>
+<Turn speaker="spk2" startTime="404.386" endTime="406.696">
+<Sync time="404.386" />
+Ali odvisno tudi, koliko veliko letališče je?
+</Turn>
+<Turn speaker="spk1" startTime="406.696" endTime="409.812">
+<Sync time="406.696" />
+Ja, tudi, ja.
+<Sync time="407.768" />
+Ma na Sardiniji ni tako veliko.
+</Turn>
+<Turn speaker="spk2" startTime="409.812" endTime="410.272">
+<Sync time="409.812" />
+Ne?
+</Turn>
+<Turn speaker="spk1" startTime="410.272" endTime="410.779">
+<Sync time="410.272" />
+Ne.
+</Turn>
+<Turn speaker="spk2" startTime="410.779" endTime="412.303">
+<Sync time="410.779" />
+Aja, jaz sem mislila pa, da je veliko
+</Turn>
+<Turn speaker="spk2 spk1" startTime="412.303" endTime="412.79">
+<Sync time="412.303" />
+
+<Who nb="1" />
+Bolj hitro
+<Who nb="2" />
+tam.
+</Turn>
+<Turn speaker="spk1" startTime="412.79" endTime="416.991">
+<Sync time="412.79" />
+pripeljejo tiste kufre na tekoči trak in si ga najdeš in greš
+</Turn>
+<Turn speaker="spk1 spk2" startTime="416.991" endTime="418.197">
+<Sync time="416.991" />
+
+<Who nb="1" />
+naprej.
+<Who nb="2" />
+In greš naprej.
+</Turn>
+<Turn speaker="spk1" startTime="418.197" endTime="418.407">
+<Sync time="418.197" />
+Ja.
+</Turn>
+<Turn speaker="spk2" startTime="418.407" endTime="423.202">
+<Sync time="418.407" />
+In pol kaj imaš tam naprej, kakšen taksi? Ko prideš pol v mesto?
+<Sync time="422.311" />
+Avtobus?
+</Turn>
+<Turn speaker="spk1" startTime="423.202" endTime="430.653">
+<Sync time="423.202" />
+Tam zraven, takoj zraven letališča je ful teh eee agencij, ko imajo rentakar.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="430.653" endTime="431.453">
+<Sync time="430.653" />
+
+<Who nb="1" />
+Avte.
+<Who nb="2" />
+Ena zraven
+</Turn>
+<Turn speaker="spk1" startTime="431.453" endTime="431.835">
+<Sync time="431.453" />
+druge.
+</Turn>
+<Turn speaker="spk2" startTime="431.835" endTime="432.733">
+<Sync time="431.835" />
+Aha, si lahko si
+</Turn>
+<Turn speaker="spk2 spk1" startTime="432.733" endTime="433.626">
+<Sync time="432.733" />
+
+<Who nb="1" />
+najameš avto?
+<Who nb="2" />
+In tam
+</Turn>
+<Turn speaker="spk1" startTime="433.626" endTime="434.977">
+<Sync time="433.626" />
+lahko najameš avto.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="434.977" endTime="436.121">
+<Sync time="434.977" />
+
+<Who nb="1" />
+In pol greš.
+<Who nb="2" />
+Aha.
+</Turn>
+<Turn speaker="spk2" startTime="436.121" endTime="438.505">
+<Sync time="436.121" />
+In koliko je na dan za najeti avto?
+</Turn>
+<Turn speaker="spk1" startTime="438.505" endTime="440.868">
+<Sync time="438.505" />
+Ne vem. Moraš pogledati, ko ima vsak drugače.
+</Turn>
+<Turn speaker="spk2" startTime="440.868" endTime="441.667">
+<Sync time="440.868" />
+Aha.
+</Turn>
+<Turn speaker="spk1" startTime="441.667" endTime="452.076">
+<Sync time="441.667" />
+Pa moraš plačati še neko zavarovanje, pa če je mmm če je mlad šofer, je pol problem.
+<Sync time="447.421" />
+Pa če ti rezerviraš nase, pa drug vozi, je tudi problem, ko moraš
+</Turn>
+<Turn speaker="spk1 spk2" startTime="452.076" endTime="453.37">
+<Sync time="452.076" />
+
+<Who nb="1" />
+pol popravljati to.
+<Who nb="2" />
+Aha, aha,
+</Turn>
+<Turn speaker="spk2" startTime="453.37" endTime="454.947">
+<Sync time="453.37" />
+pol tisti na tistega, ko je avto, tisti
+</Turn>
+<Turn speaker="spk2 spk1" startTime="454.947" endTime="456.792">
+<Sync time="454.947" />
+
+<Who nb="1" />
+Ti() ja.
+<Who nb="2" />
+mora voziti.
+<Sync time="456.121" />
+
+<Who nb="1" />
+Aha.
+<Who nb="2" />
+Tisti, ko
+</Turn>
+<Turn speaker="spk1" startTime="456.792" endTime="457.937">
+<Sync time="456.792" />
+rezervira, tisti mora
+</Turn>
+<Turn speaker="spk1 spk2" startTime="457.937" endTime="458.429">
+<Sync time="457.937" />
+
+<Who nb="1" />
+Pa
+<Who nb="2" />
+voziti.
+</Turn>
+<Turn speaker="spk2" startTime="458.429" endTime="461.977">
+<Sync time="458.429" />
+kaj mlad šofer je tako kot pri nas, do enaindvajstega leta, ali kako je tam?
+</Turn>
+<Turn speaker="spk1" startTime="461.977" endTime="462.979">
+<Sync time="461.977" />
+Ja, verjetno je
+</Turn>
+<Turn speaker="spk1 spk2" startTime="462.979" endTime="464.033">
+<Sync time="462.979" />
+
+<Who nb="1" />
+Aha, ja.
+<Who nb="2" />
+isto tako.
+</Turn>
+<Turn speaker="spk1" startTime="464.033" endTime="464.978">
+<Sync time="464.033" />
+Ker smo imeli
+</Turn>
+<Turn speaker="spk1 spk2" startTime="464.978" endTime="466.06">
+<Sync time="464.978" />
+
+<Who nb="1" />
+tam mi tudi
+<Who nb="2" />
+Je pa dražje?
+</Turn>
+<Turn speaker="spk1" startTime="466.06" endTime="468.39">
+<Sync time="466.06" />
+problem, k smo pol dali na Iztoka.
+</Turn>
+<Turn speaker="spk2" startTime="468.39" endTime="469.373">
+<Sync time="468.39" />
+Zakaj?
+</Turn>
+<Turn speaker="spk1" startTime="469.373" endTime="473.784">
+<Sync time="469.373" />
+Ja zato, ko nnn ne sme voziti mlad šofer ali nekako tako je bilo.
+</Turn>
+<Turn speaker="spk2" startTime="473.784" endTime="474.267">
+<Sync time="473.784" />
+Aja, ne sme
+</Turn>
+<Turn speaker="spk2 spk1" startTime="474.267" endTime="475.511">
+<Sync time="474.267" />
+
+<Who nb="1" />
+ona voziti ali kaj?
+<Who nb="2" />
+Ja, ja.
+</Turn>
+<Turn speaker="spk1" startTime="475.511" endTime="479.633">
+<Sync time="475.511" />
+Ker je nas je Gaja rezervirala in pol smo mogli prenesti na Iztoka in smo
+</Turn>
+<Turn speaker="spk1 spk2" startTime="479.633" endTime="480.704">
+<Sync time="479.633" />
+
+<Who nb="1" />
+Aha.
+<Who nb="2" />
+mogli pol doplačati.
+</Turn>
+<Turn speaker="spk2" startTime="480.704" endTime="481.824">
+<Sync time="480.704" />
+Aja, tako je to.
+</Turn>
+<Turn speaker="spk1" startTime="481.824" endTime="484.294">
+<Sync time="481.824" />
+Ja.
+<Sync time="482.499" />
+Bencin je pa bolj poceni.
+</Turn>
+<Turn speaker="spk2" startTime="484.294" endTime="484.936">
+<Sync time="484.294" />
+Bolj poceni
+</Turn>
+<Turn speaker="spk2 spk1" startTime="484.936" endTime="485.56">
+<Sync time="484.936" />
+
+<Who nb="1" />
+kot pri nas?
+<Who nb="2" />
+Ja,
+</Turn>
+<Turn speaker="spk1" startTime="485.56" endTime="488.099">
+<Sync time="485.56" />
+bolj poceni kot pri nas, tudi v trgovinah je vse bolj poceni
+</Turn>
+<Turn speaker="spk1 spk2" startTime="488.099" endTime="488.91">
+<Sync time="488.099" />
+
+<Who nb="1" />
+kot pri nas.
+<Who nb="2" />
+Aja?
+</Turn>
+<Turn speaker="spk1" startTime="488.91" endTime="489.941">
+<Sync time="488.91" />
+Ja.
+</Turn>
+<Turn speaker="spk2" startTime="489.941" endTime="493.002">
+<Sync time="489.941" />
+Ne, ko danes sem pa brala tam, da je pa drago.
+</Turn>
+<Turn speaker="spk1" startTime="493.002" endTime="494.234">
+<Sync time="493.002" />
+Nnn ne.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="494.234" endTime="495.015">
+<Sync time="494.234" />
+
+<Who nb="1" />
+Ne?
+<Who nb="2" />
+V trgovinah je
+</Turn>
+<Turn speaker="spk1" startTime="495.015" endTime="501.454">
+<Sync time="495.015" />
+cenejše.
+<Sync time="495.828" />
+Smo šli mi v Eurospin, tam neke njihove trgovine, ma je bilo vse bolj poceni.
+</Turn>
+<Turn speaker="spk2" startTime="501.454" endTime="502.4">
+<Sync time="501.454" />
+Aja?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="502.4" endTime="504.504">
+<Sync time="502.4" />
+
+<Who nb="1" />
+Ja. In Eurospin
+<Who nb="2" />
+No, k sem brala malo na ...
+</Turn>
+<Turn speaker="spk1" startTime="504.504" endTime="507.698">
+<Sync time="504.504" />
+je lepši kakor pri nas in imajo bolj založeno kot pri nas.
+</Turn>
+<Turn speaker="spk2" startTime="507.698" endTime="508.751">
+<Sync time="507.698" />
+Aja?
+</Turn>
+<Turn speaker="spk1" startTime="508.751" endTime="515.597">
+<Sync time="508.751" />
+Ja.
+<Sync time="509.272" />
+Tako da pojdite v Eurospin pa l() v Lidl pojdite
+<Sync time="512.95" />
+pa polno znamenitosti
+</Turn>
+<Turn speaker="spk1 spk2" startTime="515.597" endTime="516.261">
+<Sync time="515.597" />
+
+<Who nb="1" />
+boste
+<Who nb="2" />
+Aha.
+</Turn>
+<Turn speaker="spk1" startTime="516.261" endTime="516.629">
+<Sync time="516.261" />
+videli
+</Turn>
+<Turn speaker="spk1 spk2" startTime="516.629" endTime="518.543">
+<Sync time="516.629" />
+
+<Who nb="1" />
+pa pogledali.
+<Who nb="2" />
+Pa plaže.
+</Turn>
+<Turn speaker="spk1" startTime="518.543" endTime="521.542">
+<Sync time="518.543" />
+Okoli in okoli Sardinije greste lahko.
+</Turn>
+<Turn speaker="spk2" startTime="521.542" endTime="523.452">
+<Sync time="521.542" />
+Aja? Okoli in okoli?
+</Turn>
+<Turn startTime="523.452" endTime="525.294">
+<Sync time="523.452" />
+
+<Event desc="premor" type="noise" extent="instantaneous" />
+
+</Turn>
+<Turn speaker="spk2" startTime="525.294" endTime="527.424">
+<Sync time="525.294" />
+Pol je zanimivo, je polno za videti, ne?
+</Turn>
+<Turn speaker="spk1" startTime="527.424" endTime="527.791">
+<Sync time="527.424" />
+Polno je
+</Turn>
+<Turn speaker="spk1 spk2" startTime="527.791" endTime="528.855">
+<Sync time="527.791" />
+
+<Who nb="1" />
+za videti.
+<Who nb="2" />
+Polno plaž.
+</Turn>
+<Turn speaker="spk1" startTime="528.855" endTime="539.676">
+<Sync time="528.855" />
+Ja, pol greste lahko tudi v eno mesto Ulassai
+<Sync time="532.132" />
+in tam greste na izlet z ladjo,
+<Sync time="536.0" />
+to greš za cel dan,
+<Sync time="537.625" />
+in te peljejo od plaže do plaže
+</Turn>
+<Turn speaker="spk1 spk2" startTime="539.676" endTime="540.271">
+<Sync time="539.676" />
+
+<Who nb="1" />
+in ti povejo,
+<Who nb="2" />
+Mhm.
+</Turn>
+<Turn speaker="spk1" startTime="540.271" endTime="543.357">
+<Sync time="540.271" />
+katera plaža je, in pol greš ti dol in se lahko tam
+</Turn>
+<Turn speaker="spk1 spk2" startTime="543.357" endTime="544.446">
+<Sync time="543.357" />
+
+<Who nb="1" />
+kopaš in pol
+<Who nb="2" />
+Kopaš, aha.
+</Turn>
+<Turn speaker="spk1" startTime="544.446" endTime="550.026">
+<Sync time="544.446" />
+ti povejo, kdaj gre ladja nazaj,
+<Sync time="546.183" />
+in pol te peljejo na drugo plažo.
+<Sync time="548.166" />
+To je en velik zaliv, ko je več plaž.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="550.026" endTime="550.85">
+<Sync time="550.026" />
+
+<Who nb="1" />
+Pa moraš ...
+<Who nb="2" />
+V kakšnih
+</Turn>
+<Turn speaker="spk2" startTime="550.85" endTime="553.46">
+<Sync time="550.85" />
+v kakšnih jezikih govorijo?
+<Sync time="552.566" />
+Italijanščini ali
+</Turn>
+<Turn speaker="spk2 spk1" startTime="553.46" endTime="554.25">
+<Sync time="553.46" />
+
+<Who nb="1" />
+angleščini?
+<Who nb="2" />
+Tudi,
+</Turn>
+<Turn speaker="spk1" startTime="554.25" endTime="555.391">
+<Sync time="554.25" />
+ne, tudi v angleščini.
+</Turn>
+<Turn speaker="spk2" startTime="555.391" endTime="558.419">
+<Sync time="555.391" />
+Aha.
+<Sync time="556.148" />
+Tako ...
+<Event desc="zvok" type="noise" extent="instantaneous" />
+</Turn>
+<Turn speaker="spk1" startTime="558.419" endTime="568.03">
+<Sync time="558.419" />
+No, zdaj ko boš to ko to veš, kako to gre, zdaj pa daj mi še to povej,
+<Sync time="563.333" />
+kaj je zdaj, kaj naj zdaj na njivi sadim in sejem? Kaj čem zdaj, ko ko ne vem,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="568.03" endTime="568.953">
+<Sync time="568.03" />
+
+<Who nb="1" />
+Ja.
+<Who nb="2" />
+točno
+</Turn>
+<Turn speaker="spk1" startTime="568.953" endTime="569.867">
+<Sync time="568.953" />
+kaj se lotiti.
+</Turn>
+<Turn speaker="spk2" startTime="569.867" endTime="572.561">
+<Sync time="569.867" />
+Kaj se bi lotila? Prvo prekopaj njivo,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="572.561" endTime="573.247">
+<Sync time="572.561" />
+
+<Who nb="1" />
+kaj po()
+<Who nb="2" />
+Ja, to ...
+</Turn>
+<Turn speaker="spk2" startTime="573.247" endTime="575.745">
+<Sync time="573.247" />
+pognoji jo, da bo kaj rastlo.
+</Turn>
+<Turn speaker="spk1" startTime="575.745" endTime="576.847">
+<Sync time="575.745" />
+Pa imaš kaj gnoja?
+</Turn>
+<Turn speaker="spk2" startTime="576.847" endTime="578.424">
+<Sync time="576.847" />
+Ma je gnoja, kolikor hočeš.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="578.424" endTime="578.94">
+<Sync time="578.424" />
+
+<Who nb="1" />
+Samo pridi
+<Who nb="2" />
+No ...
+</Turn>
+<Turn speaker="spk2" startTime="578.94" endTime="580.098">
+<Sync time="578.94" />
+in si ga naloži.
+</Turn>
+<Turn speaker="spk1" startTime="580.098" endTime="583.439">
+<Sync time="580.098" />
+Prav, samo moram kakšne vreče najti, ker je eee tisto pol v avtu vse smrdi.
+</Turn>
+<Turn speaker="spk2" startTime="583.439" endTime="592.19">
+<Sync time="583.439" />
+Ja, to pa ja. No, in lepo boš pognojila, pokopala,
+<Sync time="587.335" />
+in lahko seješ kakšno zelje, cvetačo, korenček.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="592.19" endTime="593.965">
+<Sync time="592.19" />
+
+<Who nb="1" />
+Lahko kupiš že ...
+<Who nb="2" />
+Kaj pa krompir?
+</Turn>
+<Turn speaker="spk1" startTime="593.965" endTime="594.497">
+<Sync time="593.965" />
+Je že cajt
+</Turn>
+<Turn speaker="spk1 spk2" startTime="594.497" endTime="595.436">
+<Sync time="594.497" />
+
+<Who nb="1" />
+za krompir?
+<Who nb="2" />
+Ne, za krompir
+</Turn>
+<Turn speaker="spk2" startTime="595.436" endTime="606.742">
+<Sync time="595.436" />
+je še malo zgodaj. Lahko kakšna sadikica solate kupiš, imajo že vse, sem videla tam v trgovini.
+<Sync time="601.518" />
+In malo pogrneš s kakšno kopreno ali pa morda kakšne loke daš, kakšen najlon čez.
+</Turn>
+<Turn speaker="spk1" startTime="606.742" endTime="608.232">
+<Sync time="606.742" />
+Kaj pa jagode?
+</Turn>
+<Turn speaker="spk2" startTime="608.232" endTime="614.067">
+<Sync time="608.232" />
+Eee tudi jagode lahko že daš, ja.
+<Sync time="611.222" />
+Samo če imajo že sadike, ne vem, to pa nisem šla za
+</Turn>
+<Turn speaker="spk2 spk1" startTime="614.067" endTime="615.255">
+<Sync time="614.067" />
+
+<Who nb="1" />
+tam, če so že.
+<Who nb="2" />
+Sem videla včeraj
+</Turn>
+<Turn speaker="spk1" startTime="615.255" endTime="618.497">
+<Sync time="615.255" />
+v v drevesnici, da imajo sadike.
+</Turn>
+<Turn speaker="spk2" startTime="618.497" endTime="627.986">
+<Sync time="618.497" />
+Aja, no pol pa lahko daš, pa malo boš s kopreno pogrnila, če bo še kaj mraz.
+<Sync time="623.092" />
+Pa fajn zaliješ, če ne bo dežja, in to je to. K jagode rabijo polno vode.
+</Turn>
+<Turn speaker="spk1" startTime="627.986" endTime="631.349">
+<Sync time="627.986" />
+Aha. Kaj pa maline? D() eee kaj je treba kaj porezati
+</Turn>
+<Turn speaker="spk1 spk2" startTime="631.349" endTime="632.395">
+<Sync time="631.349" />
+
+<Who nb="1" />
+Ma seveda, treba
+<Who nb="2" />
+jih ali nič?
+</Turn>
+<Turn speaker="spk2" startTime="632.395" endTime="637.103">
+<Sync time="632.395" />
+stare veje vse ven tiste suhe
+<Sync time="635.141" />
+in one malo prikrajšati.
+</Turn>
+<Turn speaker="spk1" startTime="637.103" endTime="637.671">
+<Sync time="637.103" />
+Ja, ma
+</Turn>
+<Turn speaker="spk1 spk2" startTime="637.671" endTime="638.145">
+<Sync time="637.671" />
+
+<Who nb="1" />
+kaj jih
+<Who nb="2" />
+Lah ...
+</Turn>
+<Turn speaker="spk1" startTime="638.145" endTime="639.068">
+<Sync time="638.145" />
+treba tudi zredčiti?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="639.068" endTime="640.828">
+<Sync time="639.068" />
+
+<Who nb="1" />
+Eee tudi, ja.
+<Who nb="2" />
+Ker te so prav goste.
+</Turn>
+<Turn speaker="spk2" startTime="640.828" endTime="643.008">
+<Sync time="640.828" />
+Ja, pustiš tri do štiri tiste
+</Turn>
+<Turn speaker="spk2 spk1" startTime="643.008" endTime="644.322">
+<Sync time="643.008" />
+
+<Who nb="1" />
+stare poganjke
+<Who nb="2" />
+Poganjke.
+</Turn>
+<Turn speaker="spk2" startTime="644.322" endTime="647.218">
+<Sync time="644.322" />
+in drugo ven. Ono suho, staro vse ven in one malo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="647.218" endTime="648.177">
+<Sync time="647.218" />
+
+<Who nb="1" />
+skrajšaš drugo.
+<Who nb="2" />
+Ma tudi v k
+</Turn>
+<Turn speaker="spk1" startTime="648.177" endTime="649.675">
+<Sync time="648.177" />
+malinam bi lahko dala malo gnoja.
+</Turn>
+<Turn speaker="spk2" startTime="649.675" endTime="656.709">
+<Sync time="649.675" />
+Malo gnoja in lahko kakšno zastirko daš, eee kakšno kopreno ono črno pa kakšno slamo ali pa travo pokošeno.
+</Turn>
+<Turn speaker="spk1" startTime="656.709" endTime="658.004">
+<Sync time="656.709" />
+Aja, to, to, travo
+</Turn>
+<Turn speaker="spk1 spk2" startTime="658.004" endTime="661.02">
+<Sync time="658.004" />
+
+<Who nb="1" />
+bom pokosila
+<Who nb="2" />
+Ja.
+<Sync time="658.749" />
+
+<Who nb="1" />
+pa bom dala, ja. Bo v redu, ja.
+<Who nb="2" />
+
+<Event desc="glas" type="noise" extent="instantaneous" />
+</Turn>
+<Turn speaker="spk2" startTime="661.02" endTime="662.813">
+<Sync time="661.02" />
+To gre tudi čez, ja.
+</Turn>
+<Turn speaker="spk1" startTime="662.813" endTime="667.363">
+<Sync time="662.813" />
+Sem pa danes kupila eno sadikico tistega grma rumenega, kaj je forzicija ali kako se reče
+</Turn>
+<Turn speaker="spk1 spk2" startTime="667.363" endTime="669.949">
+<Sync time="667.363" />
+
+<Who nb="1" />
+Forzicija?
+<Who nb="2" />
+tistemu?
+<Sync time="668.3" />
+
+<Who nb="1" />
+Ja, ka() tisti, tisto, ko
+<Who nb="2" />
+Tisto, ko zdaj cveti?
+</Turn>
+<Turn speaker="spk1" startTime="669.949" endTime="670.507">
+<Sync time="669.949" />
+zdaj cvete,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="670.507" endTime="671.233">
+<Sync time="670.507" />
+
+<Who nb="1" />
+kaj se lahko tudi
+<Who nb="2" />
+Ja.
+</Turn>
+<Turn speaker="spk1" startTime="671.233" endTime="671.82">
+<Sync time="671.233" />
+zdaj sadi?
+</Turn>
+<Turn speaker="spk2" startTime="671.82" endTime="674.606">
+<Sync time="671.82" />
+Seveda, saj si verjetno si kupila jo v lončku z zemljo?
+</Turn>
+<Turn speaker="spk1" startTime="674.606" endTime="675.035">
+<Sync time="674.606" />
+Ja.
+</Turn>
+<Turn speaker="spk2" startTime="675.035" endTime="676.681">
+<Sync time="675.035" />
+Ja, saj tisto ne bo zmrznilo.
+</Turn>
+<Turn speaker="spk1" startTime="676.681" endTime="677.045">
+<Sync time="676.681" />
+Ne?
+</Turn>
+<Turn speaker="spk2" startTime="677.045" endTime="677.61">
+<Sync time="677.045" />
+Ne.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="677.61" endTime="678.874">
+<Sync time="677.61" />
+
+<Who nb="1" />
+No, no. To bom pa videla.
+<Who nb="2" />
+In se bo lepo
+</Turn>
+<Turn speaker="spk2" startTime="678.874" endTime="684.984">
+<Sync time="678.874" />
+razrastlo, bo ratal lep grm, in kar bo odcvelo, lepo
+<Sync time="682.017" />
+poreži, da bo ratalo pol, da boš imela lepo obliko grma.
+</Turn>
+<Turn speaker="spk1" startTime="684.984" endTime="686.303">
+<Sync time="684.984" />
+No, to bom zdaj vsadila.
+</Turn>
+<Turn speaker="spk2" startTime="686.303" endTime="686.862">
+<Sync time="686.303" />
+No.
+</Turn>
+<Turn speaker="spk1" startTime="686.862" endTime="689.843">
+<Sync time="686.862" />
+Samo čakam, da dež konča.
+</Turn>
+<Turn speaker="spk2" startTime="689.843" endTime="690.355">
+<Sync time="689.843" />
+No, no,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="690.355" endTime="691.24">
+<Sync time="690.355" />
+
+<Who nb="1" />
+to bo drug teden
+<Who nb="2" />
+Padat.
+</Turn>
+<Turn speaker="spk2" startTime="691.24" endTime="691.586">
+<Sync time="691.24" />
+bo lepo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="691.586" endTime="693.172">
+<Sync time="691.586" />
+
+<Who nb="1" />
+Zdaj je vse mokro.
+<Who nb="2" />
+vreme pa boš sadila.
+</Turn>
+<Turn speaker="spk2" startTime="693.172" endTime="697.022">
+<Sync time="693.172" />
+Ja.
+<Sync time="694.061" />
+Pa sem videla, imajo tudi mimozo, je hudo lepa.
+</Turn>
+<Turn speaker="spk1" startTime="697.022" endTime="697.749">
+<Sync time="697.022" />
+Aja?
+</Turn>
+<Turn speaker="spk2" startTime="697.749" endTime="700.79">
+<Sync time="697.749" />
+Ja, samo tule pri nas ne vem, če bi preživela veni.
+</Turn>
+<Turn speaker="spk1" startTime="700.79" endTime="702.393">
+<Sync time="700.79" />
+Ja, pa ful lepo diši.
+</Turn>
+<Turn speaker="spk2" startTime="702.393" endTime="704.687">
+<Sync time="702.393" />
+Ja, samo verjetno bi ...
+</Turn>
+<Turn speaker="spk1" startTime="704.687" endTime="705.910">
+<Sync time="704.687" />
+Morda je premraz zanj.
+</Turn>
+<Turn speaker="spk2" startTime="705.910" endTime="711.734">
+<Sync time="705.910" />
+Premraz je, pozimi bi jo treba v lonec pa noter dati pol.
+<Sync time="709.603" />
+Verjetno bi pomrznila, no.
+</Turn>
+<Turn speaker="spk1" startTime="711.734" endTime="715.26">
+<Sync time="711.734" />
+Kaj pa se splača pol še dati pri nas?
+<Sync time="714.225" />
+K je bolj mraz.
+</Turn>
+<Turn speaker="spk2" startTime="715.26" endTime="716.727">
+<Sync time="715.26" />
+Kaj misliš zelenjavo
+</Turn>
+<Turn speaker="spk2 spk1" startTime="716.727" endTime="717.92">
+<Sync time="716.727" />
+
+<Who nb="1" />
+ali kaj takega?
+<Who nb="2" />
+Ja, ne, take
+</Turn>
+<Turn speaker="spk1" startTime="717.92" endTime="718.999">
+<Sync time="717.920" />
+cvetoče rastline.
+</Turn>
+<Turn speaker="spk2" startTime="718.999" endTime="719.893">
+<Sync time="718.999" />
+Cvetoče?
+</Turn>
+<Turn speaker="spk2" startTime="719.893" endTime="721.666">
+<Sync time="719.893" />
+Ne vem. Kakšen majnik,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="721.666" endTime="722.795">
+<Sync time="721.666" />
+
+<Who nb="1" />
+ko bo zdaj cvetel.
+<Who nb="2" />
+Aaa, to mi je tudi
+</Turn>
+<Turn speaker="spk1" startTime="722.795" endTime="724.547">
+<Sync time="722.795" />
+lepo, vidiš. To mi je tudi lepo.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="724.547" endTime="726.54">
+<Sync time="724.547" />
+
+<Who nb="1" />
+Majnik. Kaj je še kaj drugega?
+<Who nb="2" />
+To bi si kupila.
+</Turn>
+<Turn speaker="spk2" startTime="726.54" endTime="727.027">
+<Sync time="726.54" />
+Kakšen tak
+</Turn>
+<Turn speaker="spk2 spk1" startTime="727.027" endTime="728.490">
+<Sync time="727.027" />
+
+<Who nb="1" />
+lep drev okrasen.
+<Who nb="2" />
+Ga je imel drevesnici
+</Turn>
+<Turn speaker="spk1" startTime="728.490" endTime="728.937">
+<Sync time="728.490" />
+tu?
+</Turn>
+<Turn speaker="spk2" startTime="728.937" endTime="729.999">
+<Sync time="728.937" />
+Ja.
+</Turn>
+<Turn speaker="spk1" startTime="729.999" endTime="730.911">
+<Sync time="729.999" />
+Ja?
+</Turn>
+<Turn speaker="spk2" startTime="730.911" endTime="731.398">
+<Sync time="730.911" />
+Se mi zdi, da
+</Turn>
+<Turn speaker="spk1 spk2" startTime="731.398" endTime="732.434">
+<Sync time="731.398" />
+
+<Who nb="1" />
+Tudi videla.
+<Who nb="2" />
+sem ga videla.
+</Turn>
+<Turn speaker="spk1" startTime="732.434" endTime="735.002">
+<Sync time="732.434" />
+A rozastega? Ora() vijol() vijoličastega?
+</Turn>
+<Turn speaker="spk2" startTime="735.002" endTime="738.513">
+<Sync time="735.002" />
+Ja, ne vem, kakšen, kaj jaz vem. Tisti škatli tako je pakiran.
+</Turn>
+<Turn speaker="spk1" startTime="738.513" endTime="740.286">
+<Sync time="738.513" />
+Aja, ko ne veš, kaj je noter, ko je lahko eden
+</Turn>
+<Turn speaker="spk1 spk2" startTime="740.286" endTime="741.533">
+<Sync time="740.286" />
+
+<Who nb="1" />
+je bel.
+<Who nb="2" />
+Ja, saj je na sliki,
+</Turn>
+<Turn speaker="spk2" startTime="741.533" endTime="743.199">
+<Sync time="741.533" />
+bel, vijoličast pa rozast menda
+</Turn>
+<Turn speaker="spk2 spk1" startTime="743.199" endTime="744.328">
+<Sync time="743.199" />
+
+<Who nb="1" />
+pride, ne?
+<Who nb="2" />
+No, vijoličast
+</Turn>
+<Turn speaker="spk1" startTime="744.328" endTime="744.934">
+<Sync time="744.328" />
+mi je lep.
+</Turn>
+<Turn speaker="spk2" startTime="744.934" endTime="745.662">
+<Sync time="744.934" />
+Tako da
+</Turn>
+<Turn speaker="spk1 spk2" startTime="745.662" endTime="746.934">
+<Sync time="745.662" />
+
+<Who nb="1" />
+Pa lepo diši tisto.
+<Who nb="2" />
+tisto ...
+</Turn>
+<Turn speaker="spk2" startTime="746.934" endTime="752.848">
+<Sync time="746.934" />
+Drugo pa ne vem, saj je še kakšen tak drev.
+<Sync time="749.613" />
+Tak, kot imamo mi tukaj pred hišo, katalpa, ko
+</Turn>
+<Turn speaker="spk2 spk1" startTime="752.848" endTime="754.204">
+<Sync time="752.848" />
+
+<Who nb="1" />
+Kaj je to?
+<Who nb="2" />
+cveti belo.
+</Turn>
+<Turn speaker="spk2" startTime="754.204" endTime="760.616">
+<Sync time="754.204" />
+Katalpa, cigarovec. Ko ima velike tis() take srčaste liste, pol naredi cvete kot ena trobenta.
+</Turn>
+<Turn speaker="spk1" startTime="760.616" endTime="764.440">
+<Sync time="760.616" />
+Ja, samo tisto bi morala dati pozimi eee biz() ... tisto bi moralo biti v loncu, da
+</Turn>
+<Turn speaker="spk1 spk2" startTime="764.440" endTime="765.986">
+<Sync time="764.440" />
+
+<Who nb="1" />
+se da pozimi noter ali ne?
+<Who nb="2" />
+Zakaj? Ne.
+</Turn>
+<Turn speaker="spk2" startTime="765.986" endTime="766.645">
+<Sync time="765.986" />
+Če t() n()
+</Turn>
+<Turn speaker="spk1 spk2" startTime="766.645" endTime="767.631">
+<Sync time="766.645" />
+
+<Who nb="1" />
+Aja?
+<Who nb="2" />
+mi imamo pri nas
+</Turn>
+<Turn speaker="spk2" startTime="767.631" endTime="768.693">
+<Sync time="767.631" />
+vsajeno.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="768.693" endTime="769.949">
+<Sync time="768.693" />
+
+<Who nb="1" />
+Aja?
+<Who nb="2" />
+Pri jungelci
+</Turn>
+<Turn speaker="spk2" startTime="769.949" endTime="772.279">
+<Sync time="769.949" />
+tisti drev velik.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="772.279" endTime="776.026">
+<Sync time="772.279" />
+
+<Who nb="1" />
+Kaj se ne reče tisti tisti javorjevi listi?
+<Who nb="2" />
+Tisto ... Kaj ti nisem, kaj ti nisem jaz
+</Turn>
+<Turn speaker="spk2" startTime="776.026" endTime="778.306">
+<Sync time="776.026" />
+tebi lani dala ena dva taka poganjka?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="778.306" endTime="778.92">
+<Sync time="778.306" />
+
+<Who nb="1" />
+Ta na, k sem
+<Who nb="2" />
+Ne.
+</Turn>
+<Turn speaker="spk2" startTime="778.92" endTime="781.003">
+<Sync time="778.92" />
+ven skopala. Ja sem ti dala, sem.
+</Turn>
+<Turn speaker="spk1" startTime="781.003" endTime="782.43">
+<Sync time="781.003" />
+Ne, tistega ne.
+</Turn>
+<Turn speaker="spk2" startTime="782.43" endTime="783.497">
+<Sync time="782.43" />
+Ja.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="783.497" endTime="785.087">
+<Sync time="783.497" />
+
+<Who nb="1" />
+Veš, kaj si mi dala?
+<Who nb="2" />
+Da vsadi v lonec,
+</Turn>
+<Turn speaker="spk2" startTime="785.087" endTime="789.094">
+<Sync time="785.087" />
+sem rekla.
+<Sync time="786.526" />
+Da moraš vse dati v lonec.
+</Turn>
+<Turn speaker="spk1" startTime="789.094" endTime="791.28">
+<Sync time="789.094" />
+A, čakaj, nekaj sem vsadila v lonec.
+</Turn>
+<Turn speaker="spk2" startTime="791.28" endTime="791.775">
+<Sync time="791.28" />
+Ja.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="791.775" endTime="792.596">
+<Sync time="791.775" />
+
+<Who nb="1" />
+Ma onega
+<Who nb="2" />
+Take ...
+</Turn>
+<Turn speaker="spk1" startTime="792.596" endTime="793.814">
+<Sync time="792.596" />
+tam, ko je tako kot drevo
+</Turn>
+<Turn speaker="spk1 spk2" startTime="793.814" endTime="794.351">
+<Sync time="793.814" />
+
+<Who nb="1" />
+veliko.
+<Who nb="2" />
+No, saj
+</Turn>
+<Turn speaker="spk2" startTime="794.351" endTime="794.943">
+<Sync time="794.351" />
+tisto.
+</Turn>
+<Turn speaker="spk1" startTime="794.943" endTime="799.483">
+<Sync time="794.943" />
+No, saj zdaj sem ga zadnjič ven prinesla iz one kočice, da vidim, če bo kaj pognalo listov.
+</Turn>
+<Turn speaker="spk2" startTime="799.483" endTime="800.145">
+<Sync time="799.483" />
+No, no, bo
+</Turn>
+<Turn speaker="spk1 spk2" startTime="800.145" endTime="802.176">
+<Sync time="800.145" />
+
+<Who nb="1" />
+Ne vem. Zdaj je samo štrcelj.
+<Who nb="2" />
+bo pognalo. Pusti, pusti še
+</Turn>
+<Turn speaker="spk2" startTime="802.176" endTime="806.06">
+<Sync time="802.176" />
+v loncu in ko bo malo pognalo, čez boš pol posadila
+</Turn>
+<Turn speaker="spk1 spk2" startTime="806.06" endTime="807.348">
+<Sync time="806.06" />
+
+<Who nb="1" />
+Zdaj je samo štrcelj.
+<Who nb="2" />
+ven nekam.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="807.348" endTime="808.124">
+<Sync time="807.348" />
+
+<Who nb="1" />
+Ja itak.
+<Who nb="2" />
+Am() ...
+</Turn>
+<Turn speaker="spk2" startTime="808.124" endTime="809.647">
+<Sync time="808.124" />
+Je še zgodaj.
+</Turn>
+<Turn speaker="spk1" startTime="809.647" endTime="811.276">
+<Sync time="809.647" />
+Aja, je še zgodaj za
+</Turn>
+<Turn speaker="spk2 spk1" startTime="811.276" endTime="811.936">
+<Sync time="811.276" />
+
+<Who nb="1" />
+Ja, je še
+<Who nb="2" />
+to?
+</Turn>
+<Turn speaker="spk2" startTime="811.936" endTime="815.297">
+<Sync time="811.936" />
+zgodaj. To bo komaj zdaj začelo odganjat, ko bo bolj toplo.
+</Turn>
+<Turn speaker="spk1" startTime="815.297" endTime="816.096">
+<Sync time="815.297" />
+Aha.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="816.096" endTime="817.3">
+<Sync time="816.096" />
+
+<Who nb="1" />
+No, no.
+<Who nb="2" />
+Ja.
+</Turn>
+<Turn speaker="spk2" startTime="817.3" endTime="818.965">
+<Sync time="817.3" />
+Drugo, kaj še kaj takega bi
+</Turn>
+<Turn speaker="spk2 spk1" startTime="818.965" endTime="819.559">
+<Sync time="818.965" />
+
+<Who nb="1" />
+vsadila?
+<Who nb="2" />
+Ja, kdaj bom pa
+</Turn>
+<Turn speaker="spk1" startTime="819.559" endTime="820.554">
+<Sync time="819.559" />
+krompir dala?
+</Turn>
+<Turn speaker="spk2" startTime="820.554" endTime="823.915">
+<Sync time="820.554" />
+Ja pa tam ... aprila enkrat
+</Turn>
+<Turn speaker="spk1" startTime="823.915" endTime="827.454">
+<Sync time="823.915" />
+Aja, pa kakšne sorte naj vsadim, da bo čim bolj zgodaj?
+<Event desc="glas" type="noise" extent="instantaneous" />
+
+</Turn>
+<Turn speaker="spk2" startTime="827.454" endTime="830.328">
+<Sync time="827.454" />
+Arov je zgodnja sorta,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="830.328" endTime="831.719">
+<Sync time="830.328" />
+
+<Who nb="1" />
+Pa
+<Event desc="nerazumljivo" type="noise" extent="instantaneous" />
+<Who nb="2" />
+pa ... Verjetno,
+</Turn>
+<Turn speaker="spk2" startTime="831.719" endTime="838.191">
+<Sync time="831.719" />
+pojdi pogledat, ne vem, jaz nisem gledala tako. Mi smo krompir naročili, so ga domov pripeljali, ne vem, moraš pogledati.
+</Turn>
+<Turn speaker="spk1" startTime="838.191" endTime="838.781">
+<Sync time="838.191" />
+Aha.
+</Turn>
+<Turn speaker="spk2" startTime="838.781" endTime="842.321">
+<Sync time="838.781" />
+Pa ti bojo morda tam še kaj svetovali, kakšen krompir.
+</Turn>
+<Turn speaker="spk1" startTime="842.321" endTime="843.819">
+<Sync time="842.321" />
+No, tega bi, ja.
+</Turn>
+<Turn speaker="spk2" startTime="843.819" endTime="849.367">
+<Sync time="843.819" />
+Če ne pa daš kakšnega drugega, da je bolj pozen, ko se bo tudi bolj boljše skladišči.
+</Turn>
+<Turn speaker="spk1" startTime="849.367" endTime="850.03">
+<Sync time="849.367" />
+Aja?
+</Turn>
+<Turn speaker="spk2" startTime="850.03" endTime="857.814">
+<Sync time="850.03" />
+Ja.
+<Sync time="851.213" />
+Kakšno sorto, ko imajo tudi manjša pakiranja, ne samo one velike vreče po petindvajset kil, imajo tudi majhna pakiranja.
+</Turn>
+<Turn speaker="spk1" startTime="857.814" endTime="858.697">
+<Sync time="857.814" />
+A majčken
+</Turn>
+<Turn speaker="spk1 spk2" startTime="858.697" endTime="859.368">
+<Sync time="858.697" />
+
+<Who nb="1" />
+Ja.
+<Who nb="2" />
+žakelj?
+</Turn>
+<Turn speaker="spk2" startTime="859.368" endTime="861.279">
+<Sync time="859.368" />
+Ja, menda po deset kil.
+</Turn>
+<Turn speaker="spk1" startTime="861.279" endTime="865.811">
+<Sync time="861.279" />
+Aja, pol bi mogla kupiti enega zgodnjega, da je čim prej?
+<Sync time="864.333" />
+Pa enega kasnega.
+</Turn>
+<Turn speaker="spk2" startTime="865.811" endTime="871.881">
+<Sync time="865.811" />
+Ja.
+<Sync time="866.624" />
+Tako da ... odvisno, koliko imaš prostora, no, kakšne imaš tiste gredice, njivo, ne vem.
+</Turn>
+<Turn speaker="spk1" startTime="871.881" endTime="873.514">
+<Sync time="871.881" />
+Ma, nekaj ga je.
+</Turn>
+<Turn speaker="spk2" startTime="873.514" endTime="877.667">
+<Sync time="873.514" />
+Drugo pa ne vem, kaj boš še sadila, za bučke, tisto je pa še vse prezgodaj.
+</Turn>
+<Turn speaker="spk1" startTime="877.667" endTime="878.754">
+<Sync time="877.667" />
+Tisto je še prezgodaj. T()
+</Turn>
+<Turn speaker="spk2 spk1" startTime="878.754" endTime="879.547">
+<Sync time="878.754" />
+
+<Who nb="1" />
+Ja.
+<Who nb="2" />
+tisto more biti
+</Turn>
+<Turn speaker="spk1" startTime="879.547" endTime="879.919">
+<Sync time="879.547" />
+toplo,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="879.919" endTime="880.329">
+<Sync time="879.919" />
+
+<Who nb="1" />
+ne?
+<Who nb="2" />
+Zdaj bi
+</Turn>
+<Turn speaker="spk2" startTime="880.329" endTime="885.507">
+<Sync time="880.329" />
+lahko to cvetačo, zelje bi lahko dala, ko cvetača ti poleti, če je prevroče, noče delati.
+</Turn>
+<Turn speaker="spk1" startTime="885.507" endTime="886.859">
+<Sync time="885.507" />
+Ja, pa imajo že sadikice
+</Turn>
+<Turn speaker="spk1 spk2" startTime="886.859" endTime="887.822">
+<Sync time="886.859" />
+
+<Who nb="1" />
+cvetače?
+<Who nb="2" />
+Imajo.
+</Turn>
+<Turn speaker="spk2" startTime="887.822" endTime="889.063">
+<Sync time="887.822" />
+Cvetača, zelje,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="889.063" endTime="889.553">
+<Sync time="889.063" />
+
+<Who nb="1" />
+eee
+<Who nb="2" />
+Aja?
+</Turn>
+<Turn speaker="spk2" startTime="889.553" endTime="892.498">
+<Sync time="889.553" />
+brstični ohrovt, solate.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="892.498" endTime="893.966">
+<Sync time="892.498" />
+
+<Who nb="1" />
+Pa kje si ti to vse videla?
+<Who nb="2" />
+To sem videla jaz vse.
+</Turn>
+<Turn speaker="spk2" startTime="893.966" endTime="895.705">
+<Sync time="893.966" />
+V vrtnariji, pri Primožu.
+</Turn>
+<Turn speaker="spk1" startTime="895.705" endTime="896.844">
+<Sync time="895.705" />
+A, pol moram iti jaz jutri
+</Turn>
+<Turn speaker="spk1 spk2" startTime="896.844" endTime="897.586">
+<Sync time="896.844" />
+
+<Who nb="1" />
+pogledat.
+<Who nb="2" />
+Tako
+</Turn>
+<Turn speaker="spk2" startTime="897.586" endTime="899.311">
+<Sync time="897.586" />
+da to bi komot lahko sadila.
+</Turn>
+<Turn speaker="spk1" startTime="899.311" endTime="900.695">
+<Sync time="899.311" />
+Bom šla čez vikend pol j()
+</Turn>
+<Turn speaker="spk1 spk2" startTime="900.695" endTime="901.68">
+<Sync time="900.695" />
+
+<Who nb="1" />
+eee, seveda če ne
+<Who nb="2" />
+Ta prve cvet() ...
+</Turn>
+<Turn speaker="spk1" startTime="901.68" endTime="902.49">
+<Sync time="901.68" />
+bo dežja.
+</Turn>
+<Turn speaker="spk2" startTime="902.49" endTime="904.84">
+<Sync time="902.49" />
+Ko ta prve cvetače so ta lepše, take ...
+</Turn>
+<Turn speaker="spk1" startTime="904.84" endTime="905.87">
+<Sync time="904.84" />
+Ja, zato ker je še mraz, ne?
+</Turn>
+<Turn speaker="spk2" startTime="905.87" endTime="908.109">
+<Sync time="905.870" />
+Ali pa pol jesenska, poleti ti ne bo,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="908.109" endTime="908.701">
+<Sync time="908.109" />
+
+<Who nb="1" />
+Ne.
+<Who nb="2" />
+
+</Turn>
+<Turn speaker="spk1" startTime="908.701" endTime="909.001">
+<Sync time="908.701" />
+Tisto
+</Turn>
+<Turn speaker="spk1 spk2" startTime="909.001" endTime="909.488">
+<Sync time="909.001" />
+
+<Who nb="1" />
+rata pol
+<Who nb="2" />
+Pa
+</Turn>
+<Turn speaker="spk1" startTime="909.488" endTime="909.616">
+<Sync time="909.488" />
+vse
+</Turn>
+<Turn speaker="spk1 spk2" startTime="909.616" endTime="910.739">
+<Sync time="909.616" />
+
+<Who nb="1" />
+pa polno
+<Who nb="2" />
+rumeno tako.
+</Turn>
+<Turn speaker="spk2" startTime="910.739" endTime="911.855">
+<Sync time="910.739" />
+treba zalivati, ne.
+</Turn>
+<Turn speaker="spk1" startTime="911.855" endTime="912.216">
+<Sync time="911.855" />
+Aja?
+</Turn>
+<Turn speaker="spk2" startTime="912.216" endTime="913.985">
+<Sync time="912.216" />
+Ja, seveda. Cvetača rabi polno
+</Turn>
+<Turn speaker="spk2 spk1" startTime="913.985" endTime="914.67">
+<Sync time="913.985" />
+
+<Who nb="1" />
+Aja?
+<Who nb="2" />
+vode.
+</Turn>
+<Turn speaker="spk1" startTime="914.67" endTime="915.022">
+<Sync time="914.67" />
+Kaj pa
+</Turn>
+<Turn speaker="spk1 spk2" startTime="915.022" endTime="915.659">
+<Sync time="915.022" />
+
+<Who nb="1" />
+brokoli?
+<Who nb="2" />
+Ja.
+</Turn>
+<Turn speaker="spk2" startTime="915.659" endTime="918.371">
+<Sync time="915.659" />
+Tudi, ker je tu(), pa zelje rabi, moraš zalivati.
+</Turn>
+<Turn speaker="spk1" startTime="918.371" endTime="918.752">
+<Sync time="918.371" />
+Aja?
+</Turn>
+<Turn speaker="spk2" startTime="918.752" endTime="923.271">
+<Sync time="918.752" />
+Ja.
+<Sync time="919.574" />
+Drugače pa lahko še korenček seješ, kakšno blitvo.
+</Turn>
+<Turn speaker="spk1" startTime="923.271" endTime="924.346">
+<Sync time="923.271" />
+Ja, tisto imamo radi.
+</Turn>
+<Turn speaker="spk2" startTime="924.346" endTime="932.743">
+<Sync time="924.346" />
+To, redkvica.
+<Sync time="926.602" />
+Eee sem videla ima tudi r() sadike pora pa rdeče pese, tako da imaš za naprej, ne.
+</Turn>
+<Turn speaker="spk1" startTime="932.743" endTime="934.459">
+<Sync time="932.743" />
+Ja, da je pol
+</Turn>
+<Turn speaker="spk2" startTime="934.459" endTime="934.833">
+<Sync time="934.459" />
+Edino
+</Turn>
+<Turn speaker="spk2 spk1" startTime="934.833" endTime="935.590">
+<Sync time="934.833" />
+
+<Who nb="1" />
+vsakega malo.
+<Who nb="2" />
+koren ...
+</Turn>
+<Turn speaker="spk2" startTime="935.590" endTime="938.404">
+<Sync time="935.590" />
+tako, edino korenček sadike niso v redu.
+</Turn>
+<Turn speaker="spk1" startTime="938.404" endTime="938.861">
+<Sync time="938.404" />
+Ne?
+</Turn>
+<Turn speaker="spk2" startTime="938.861" endTime="944.074">
+<Sync time="938.861" />
+Ne, ko pride korenček razvejan, ni tak lep, raven, kot bi moral biti.
+</Turn>
+<Turn speaker="spk1" startTime="944.074" endTime="946.008">
+<Sync time="944.074" />
+Ni samo ena korenika, jih je več.
+</Turn>
+<Turn speaker="spk2" startTime="946.008" endTime="950.597">
+<Sync time="946.008" />
+Ja, tako, ja, pride kar nekaj. Ko naleti na eno oviro, rata vse se
+</Turn>
+<Turn speaker="spk1" startTime="950.597" endTime="951.135">
+<Sync time="950.597" />
+Aja?
+</Turn>
+<Turn speaker="spk2" startTime="951.135" endTime="952.448">
+<Sync time="951.135" />
+deformira tako.
+</Turn>
+<Turn speaker="spk1" startTime="952.448" endTime="956.439">
+<Sync time="952.448" />
+Ma kaj to je res, da se da h korenčku lahko tudi mivko?
+</Turn>
+<Turn speaker="spk2" startTime="956.439" endTime="965.491">
+<Sync time="956.439" />
+Tudi, ja.
+<Sync time="957.422" />
+Ja, saj korenček rabi bolj tako z() zemljo, peščeno tako, ne, da bo on, da bo lep.
+<Sync time="963.2" />
+Ko če je trdo, nima iti kam,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="965.491" endTime="966.216">
+<Sync time="965.491" />
+
+<Who nb="1" />
+Aha, rabi biti
+<Who nb="2" />
+ne.
+</Turn>
+<Turn speaker="spk1" startTime="966.216" endTime="966.862">
+<Sync time="966.216" />
+bolj mehka
+</Turn>
+<Turn speaker="spk1 spk2" startTime="966.862" endTime="968.523">
+<Sync time="966.862" />
+
+<Who nb="1" />
+zemlja. Da lahko naredi
+<Who nb="2" />
+Ja, tako, tako, ja.
+</Turn>
+<Turn speaker="spk1" startTime="968.523" endTime="969.11">
+<Sync time="968.523" />
+koreniko.
+</Turn>
+<Turn speaker="spk2" startTime="969.11" endTime="972.55">
+<Sync time="969.11" />
+Tako. Glih tako kot por, ko ga moraš gor malo zagrebsti,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="972.55" endTime="973.775">
+<Sync time="972.55" />
+
+<Who nb="1" />
+Da je čim več belega?
+<Who nb="2" />
+eee da ima ...
+</Turn>
+<Turn speaker="spk2" startTime="973.775" endTime="975.927">
+<Sync time="973.775" />
+tako, ja, da ima čim več belega dela,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="975.927" endTime="977.782">
+<Sync time="975.927" />
+
+<Who nb="1" />
+Ja. Tisto je fino.
+<Who nb="2" />
+ja. Tistega uporabnega,
+</Turn>
+<Turn speaker="spk2" startTime="977.782" endTime="983.472">
+<Sync time="977.782" />
+ja, tako.
+<Sync time="978.864" />
+Drugo pa ne vem. Rukola bi bila zdaj, še bi lahko, je dobra.
+</Turn>
+<Turn speaker="spk1" startTime="983.472" endTime="986.524">
+<Sync time="983.472" />
+Pa kaj naj pol kupim, tudi loke pa tisto kopreno?
+</Turn>
+<Turn speaker="spk2" startTime="986.524" endTime="991.362">
+<Sync time="986.524" />
+Lahko, ko daš loke pa daš kopreno ono, magari zdaj zimsko, če jo imaš.
+</Turn>
+<Turn speaker="spk1" startTime="991.362" endTime="992.66">
+<Sync time="991.362" />
+Ja, kaj, zimska je bolj debela,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="992.66" endTime="993.332">
+<Sync time="992.66" />
+
+<Who nb="1" />
+Ja, je bolj
+<Who nb="2" />
+so različne?
+</Turn>
+<Turn speaker="spk2" startTime="993.332" endTime="996.483">
+<Sync time="993.332" />
+gosta, ja, letna koprena je pa bolj tanka.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="996.483" endTime="997.347">
+<Sync time="996.483" />
+
+<Who nb="1" />
+Ali pa
+<Who nb="2" />
+Aja, dve?
+</Turn>
+<Turn speaker="spk2" startTime="997.347" endTime="1001.328">
+<Sync time="997.347" />
+daš najlon še, ne vem, pa čez kopreno ali nekaj.
+</Turn>
+<Turn speaker="spk1" startTime="1001.328" endTime="1002.45">
+<Sync time="1001.328" />
+A različne so?
+</Turn>
+<Turn speaker="spk2" startTime="1002.45" endTime="1009.463">
+<Sync time="1002.45" />
+Ja, ko skozi najlon pol zna sonce tudi z() to vse zapalit, kadar fajn pali, zdaj če te ni tam, da nisi blizu.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1009.463" endTime="1011.278">
+<Sync time="1009.463" />
+
+<Who nb="1" />
+Eee da bi to čez dan ...
+<Who nb="2" />
+Da bi
+<Event desc="nerazumljivo" type="noise" extent="instantaneous" />
+kaj?
+</Turn>
+<Turn speaker="spk2" startTime="1011.278" endTime="1014.352">
+<Sync time="1011.278" />
+Ja, da lahko čez dan to kaj odgrneš, ne.
+</Turn>
+<Turn speaker="spk1" startTime="1014.352" endTime="1015.008">
+<Sync time="1014.352" />
+Ne, to ne
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1015.008" endTime="1016.763">
+<Sync time="1015.008" />
+
+<Who nb="1" />
+morem, ko nisem vsak dan tam.
+<Who nb="2" />
+
+<Event desc="glas" type="noise" extent="instantaneous" />
+</Turn>
+<Turn speaker="spk2" startTime="1016.763" endTime="1023.575">
+<Sync time="1016.763" />
+No, ko ne vem, v r() tule mi, ko imamo v rastlinjaku, so je noter pride savna. Moraš čez dan odpreti, če ne, je vse skuhano.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1023.575" endTime="1024.237">
+<Sync time="1023.575" />
+
+<Who nb="1" />
+Aja.
+<Who nb="2" />
+Zdaj, k
+</Turn>
+<Turn speaker="spk2" startTime="1024.237" endTime="1024.587">
+<Sync time="1024.237" />
+je bilo
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1024.587" endTime="1025.231">
+<Sync time="1024.587" />
+
+<Who nb="1" />
+Pol pa boljše, da
+<Who nb="2" />
+vro() tu je ...
+</Turn>
+<Turn speaker="spk1" startTime="1025.231" endTime="1026.746">
+<Sync time="1025.231" />
+dam kopreno, ko diha.
+</Turn>
+<Turn speaker="spk2" startTime="1026.746" endTime="1035.701">
+<Sync time="1026.746" />
+Ja.
+<Sync time="1027.531" />
+Edino če je bo napovedan kakšen bolj mraz, ne vem, daš, če imaš, en kos najlona, ne.
+<Sync time="1033.475" />
+Pokriješ, tako da ...
+</Turn>
+<Turn speaker="spk1" startTime="1035.701" endTime="1036.387">
+<Sync time="1035.701" />
+Mhm.
+</Turn>
+<Turn speaker="spk2" startTime="1036.387" endTime="1040.346">
+<Sync time="1036.387" />
+To je to, no. Drugo pa ne vem. Kaj bi še kakšno drevje okrasno sadila?
+</Turn>
+<Turn speaker="spk1" startTime="1040.346" endTime="1042.498">
+<Sync time="1040.346" />
+Ja, češplje bom sadila.
+</Turn>
+<Turn speaker="spk2" startTime="1042.498" endTime="1043.376">
+<Sync time="1042.498" />
+Aha.
+</Turn>
+<Turn speaker="spk1" startTime="1043.376" endTime="1047.132">
+<Sync time="1043.376" />
+Pa m() pa to, kaj je že, češnjo.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1047.132" endTime="1048.036">
+<Sync time="1047.132" />
+
+<Who nb="1" />
+To bi še
+<Who nb="2" />
+Malo ...
+</Turn>
+<Turn speaker="spk1" startTime="1048.036" endTime="1048.391">
+<Sync time="1048.036" />
+dala.
+</Turn>
+<Turn speaker="spk2" startTime="1048.391" endTime="1049.275">
+<Sync time="1048.391" />
+Okrasno ali
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1049.275" endTime="1050.741">
+<Sync time="1049.275" />
+
+<Who nb="1" />
+Ne, češnjo ta pravo,
+<Who nb="2" />
+češnjo ta pravo?
+</Turn>
+<Turn speaker="spk1" startTime="1050.741" endTime="1051.523">
+<Sync time="1050.741" />
+da bo sadež.
+</Turn>
+<Turn speaker="spk2" startTime="1051.523" endTime="1052.914">
+<Sync time="1051.523" />
+Da bo sadež, aha.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1052.914" endTime="1053.437">
+<Sync time="1052.914" />
+
+<Who nb="1" />
+Bom naredila kakšno
+<Who nb="2" />
+No no.
+</Turn>
+<Turn speaker="spk1" startTime="1053.437" endTime="1054.576">
+<Sync time="1053.437" />
+marmelado pol.
+</Turn>
+<Turn speaker="spk2" startTime="1054.576" endTime="1058.975">
+<Sync time="1054.576" />
+Aja, tudi pri nas jo je, pa jo vsako leto samo ptiči pojejo.
+</Turn>
+<Turn speaker="spk1" startTime="1058.975" endTime="1060.405">
+<Sync time="1058.975" />
+Aja? Pa kaj,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1060.405" endTime="1061.829">
+<Sync time="1060.405" />
+
+<Who nb="1" />
+se ne da nič zaščititi?
+<Who nb="2" />
+Ja. Ma ja,
+</Turn>
+<Turn speaker="spk2" startTime="1061.829" endTime="1066.01">
+<Sync time="1061.829" />
+se da, ja, dati mrežo, ma zrase visoko in pol ne moreš do njih,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1066.01" endTime="1066.875">
+<Sync time="1066.01" />
+
+<Who nb="1" />
+ne.
+<Who nb="2" />
+Aja.
+</Turn>
+<Turn speaker="spk2" startTime="1066.875" endTime="1072.362">
+<Sync time="1066.875" />
+In pol greš, se koplješ po kakšnih lojtrah.
+<Sync time="1069.947" />
+Ni vredno, ko lahko še padeš dol.
+</Turn>
+<Turn speaker="spk1" startTime="1072.362" endTime="1073.684">
+<Sync time="1072.362" />
+Aja, to sem imela
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1073.684" endTime="1075.227">
+<Sync time="1073.684" />
+
+<Who nb="1" />
+v planu, da bi še kupila.
+<Who nb="2" />
+Mreže pa obstajajo,
+</Turn>
+<Turn speaker="spk2" startTime="1075.227" endTime="1082.506">
+<Sync time="1075.227" />
+ja, da vržeš čez krošnjo, ne, zdaj če pa rata preveliko drevo, je pa pol to vse skup veliko, visoko.
+</Turn>
+<Turn speaker="spk1" startTime="1082.506" endTime="1089.06">
+<Sync time="1082.506" />
+Aja, kaj pa to, veš, kaj bi jaz dala v dve gredice? One dalije, rože, ko so mi lepe.
+<Sync time="1087.72" />
+Tisto tudi ni še zdaj
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1089.06" endTime="1089.833">
+<Sync time="1089.06" />
+
+<Who nb="1" />
+Ne, tisto
+<Who nb="2" />
+cajt, ne?
+</Turn>
+<Turn speaker="spk2" startTime="1089.833" endTime="1091.826">
+<Sync time="1089.833" />
+se da kadar krompir, zato ko majo tisti
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1091.826" endTime="1093.459">
+<Sync time="1091.826" />
+
+<Who nb="1" />
+gomolji ... Ko krompir,
+<Who nb="2" />
+
+<Event desc="nerazumljivo" type="noise" extent="instantaneous" />
+</Turn>
+<Turn speaker="spk2" startTime="1093.459" endTime="1108.441">
+<Sync time="1093.459" />
+ja. Samo v jeseni moraš tisto skopati ven,
+<Sync time="1096.471" />
+vse med gomolji očistiš eee tisto eee zemljo.
+<Sync time="1101.266" />
+In lepo pospraviš v eno klet in spomladi spet sadiš in pol daš še na pol, ker to rata gomolj pol še enkrat večji.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1108.441" endTime="1109.045">
+<Sync time="1108.441" />
+
+<Who nb="1" />
+In se je() ...
+<Who nb="2" />
+A pol bo
+</Turn>
+<Turn speaker="spk1" startTime="1109.045" endTime="1109.665">
+<Sync time="1109.045" />
+vsako leto jih
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1109.665" endTime="1110.248">
+<Sync time="1109.665" />
+
+<Who nb="1" />
+več?
+<Who nb="2" />
+Tako
+</Turn>
+<Turn speaker="spk2" startTime="1110.248" endTime="1112.954">
+<Sync time="1110.248" />
+ja, se jih namno() imaš pol za z() naprej, ja.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1112.954" endTime="1114.96">
+<Sync time="1112.954" />
+
+<Who nb="1" />
+Aha. No, no.
+<Who nb="2" />
+Tako, ja.
+</Turn>
+<Turn speaker="spk1" startTime="1114.96" endTime="1119.706">
+<Sync time="1114.96" />
+To bom dala, ja. Te so mi lepe.
+<Sync time="1117.456" />
+Da bom imela za dati si v vazo.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1119.706" endTime="1120.77">
+<Sync time="1119.706" />
+
+<Who nb="1" />
+Za rezano.
+<Who nb="2" />
+Ja.
+</Turn>
+<Turn speaker="spk1" startTime="1120.77" endTime="1122.088">
+<Sync time="1120.77" />
+Pa kakšne bi lahko še dala?
+</Turn>
+<Turn speaker="spk2" startTime="1122.088" endTime="1124.56">
+<Sync time="1122.088" />
+Pa cinije bi lahko sejala pa astre
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1124.56" endTime="1125.221">
+<Sync time="1124.56" />
+
+<Who nb="1" />
+pa kakšne ...
+<Who nb="2" />
+A to je seme
+</Turn>
+<Turn speaker="spk1" startTime="1125.221" endTime="1125.678">
+<Sync time="1125.221" />
+pride?
+</Turn>
+<Turn speaker="spk2" startTime="1125.678" endTime="1141.038">
+<Sync time="1125.678" />
+Ja, kupiš seme. Lahko kupiš sončnico, jo daš kam. Zdaj če je previsoka, jo daš ob kakšen rob pa ti lepo, se lepo ona obrača proti soncu.
+<Sync time="1135.658" />
+In pol da imaš seme, tudi ptiči pol pojejo tisto seme.
+<Sync time="1139.661" />
+Tako da ...
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1141.038" endTime="1141.921">
+<Sync time="1141.038" />
+
+<Who nb="1" />
+No, no.
+<Who nb="2" />
+to.
+</Turn>
+<Turn speaker="spk2" startTime="1141.921" endTime="1149.351">
+<Sync time="1141.921" />
+Saj je polno tam, tako, vse sort je rož, samo pride noter v vrečki glih ene tri semena pa dostikrat tudi ven nič ne pride.
+</Turn>
+<Turn speaker="spk1" startTime="1149.351" endTime="1150.423">
+<Sync time="1149.351" />
+Pa kaj je to seme tako
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1150.423" endTime="1151.681">
+<Sync time="1150.423" />
+
+<Who nb="1" />
+Ja, tako slabo
+<Who nb="2" />
+slabo ratalo?
+</Turn>
+<Turn speaker="spk2" startTime="1151.681" endTime="1152.432">
+<Sync time="1151.681" />
+je, ja.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1152.432" endTime="1152.907">
+<Sync time="1152.432" />
+
+<Who nb="1" />
+Pa še
+<Who nb="2" />
+Pa ...
+</Turn>
+<Turn speaker="spk1" startTime="1152.907" endTime="1153.958">
+<Sync time="1152.907" />
+malo dajo noter.
+</Turn>
+<Turn speaker="spk2" startTime="1153.958" endTime="1163.394">
+<Sync time="1153.958" />
+Pa veš, kaj je tudi lepo? Kakšen ognjič.
+<Sync time="1156.657" />
+Da daš na njivo med
+<Event desc="glas" type="noise" extent="instantaneous" />
+malo sadik, ga glih tako lahko poseješ, pa on se tudi pol kar vseje za naprej.
+</Turn>
+<Turn speaker="spk1" startTime="1163.394" endTime="1163.763">
+<Sync time="1163.394" />
+Aja?
+</Turn>
+<Turn speaker="spk2" startTime="1163.763" endTime="1167.669">
+<Sync time="1163.763" />
+Pa je lepo videti med zelenjavo pa odganja neke škodljivce, ne vem.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1167.669" endTime="1168.578">
+<Sync time="1167.669" />
+
+<Who nb="1" />
+Aja?
+<Who nb="2" />
+Ali pa
+</Turn>
+<Turn speaker="spk2" startTime="1168.578" endTime="1171.491">
+<Sync time="1168.578" />
+te eem ti turški nageljčki.
+</Turn>
+<Turn speaker="spk1" startTime="1171.491" endTime="1172.073">
+<Sync time="1171.491" />
+Ja, ja,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1172.073" endTime="1172.462">
+<Sync time="1172.073" />
+
+<Who nb="1" />
+ja.
+<Who nb="2" />
+Tisto
+</Turn>
+<Turn speaker="spk2" startTime="1172.462" endTime="1173.274">
+<Sync time="1172.462" />
+glih tako kupiš
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1173.274" endTime="1174.523">
+<Sync time="1173.274" />
+
+<Who nb="1" />
+Pa tudi odganja?
+<Who nb="2" />
+seme pa ...
+</Turn>
+<Turn speaker="spk2" startTime="1174.523" endTime="1188.294">
+<Sync time="1174.523" />
+Eee turški, pa pobereš pol seme pa imaš za naprej pa si poseješ.
+<Sync time="1179.177" />
+Pa glih tako odganja neke škodljivce, pa to pa lepo ...
+<Sync time="1184.416" />
+Pa lepo je videti ob gredicah malo, da cveti med kakšno zelenjavo,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1188.294" endTime="1189.681">
+<Sync time="1188.294" />
+
+<Who nb="1" />
+Ja, da je pol, da da je
+<Who nb="2" />
+daš kakšen cvet, ja.
+</Turn>
+<Turn speaker="spk1" startTime="1189.681" endTime="1190.514">
+<Sync time="1189.681" />
+pol lep vrt.
+</Turn>
+<Turn speaker="spk2" startTime="1190.514" endTime="1191.584">
+<Sync time="1190.514" />
+Ja, tako. Da je
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1191.584" endTime="1194.160">
+<Sync time="1191.584" />
+
+<Who nb="1" />
+No.
+<Who nb="2" />
+lepo urejeno.
+</Turn>
+</Section>
+</Episode>
+</Trans>
