@@ -33,6 +33,8 @@ class TRS:
                 continue
             if i == 0:
                 continue
+            if contents[i].get("content", "").strip() == "":
+                continue
             content = contents[i]["content"]
             xmin = contents[i]["xmin"]
             xmax = contents[i]["xmax"]
