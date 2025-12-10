@@ -135,3 +135,12 @@ class EXB:
         for event in tier.findall(".//event"):
             if event.text:
                 event.text = event.text.strip() + " "
+
+    def add_to_timeline(self, timestamp_seconds: float) -> str:
+        timeline = self.doc.find(".//common-timeline")
+        L = len(list(timeline.findall(".//tli"))) + 1
+        tli = etree.Element("tli")
+        tli.attrib["id"] = f"T{L}"
+        tli.attrib["time"] = str(round(timestamp_seconds, 3))
+        timeline.append(tli)
+        return tli.attrib["id"]

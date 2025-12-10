@@ -93,3 +93,11 @@ def test_single_tier_trailing_space_addition():
     for o, n in zip(original_text, new_text):
         assert o.strip() == n.strip()
         assert n.endswith(" ")
+
+
+def test_adding_timeline_elements():
+    exb = EXB(demo_file)
+    id = exb.add_to_timeline(0.222)
+    exb.sort_tlis()
+    assert list(exb.timeline.keys())[1] == id
+    assert exb.timeline[id] == 0.222
