@@ -106,9 +106,16 @@ class EXB:
     def remove_duplicated_tlis(self) -> None:
         """Performs exact deduplication on TLI elements in place."""
         self.sort_tlis()
-        previous = None
+        previous = dict(id=None, time=None)
         for tli in self.doc.findall(".//tli"):
-            if tli.attrib == previous:
+            if tli.attrib["time"] == previous["time"]:
+                id = tli.attrib["id"]
+                for what in ["start", "stop"]:
+                    for event in self.doc.findall(f".//event[@{what}='{id}']"):
+                        event.attrib[what] = previous["id"]
+                logger.trace(
+                    f"Removing tli with id {tli.attrib['id']} and time {tli.attrib['time']}, duplicate of {previous['id']} at {previous['time']}"
+                )
                 tli.getparent().remove(tli)
             else:
                 previous = tli.attrib
