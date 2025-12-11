@@ -144,8 +144,14 @@ class EXB:
                 event.text = event.text.strip() + " "
 
     def add_to_timeline(self, timestamp_seconds: float) -> str:
-        timeline = self.doc.find(".//common-timeline")
-        L = len(list(timeline.findall(".//tli"))) + 1
+        # self.update_timeline()
+        timeline = self.timeline
+
+        if round(timestamp_seconds, 3) in [round(i, 3) for i in timeline.values()]:
+            for id, time in timeline.items():
+                if round(timestamp_seconds, 3) == round(time, 3):
+                    return id
+        L = len(timeline) + 1
         while True:
             proposed_id = f"T{L}"
             if proposed_id in self.timeline.keys():
@@ -155,6 +161,6 @@ class EXB:
         tli = etree.Element("tli")
         tli.attrib["id"] = proposed_id
         tli.attrib["time"] = str(round(timestamp_seconds, 3))
-        timeline.append(tli)
-        self.sort_tlis()
+        self.doc.find(".//common-timeline").append(tli)
+        self.remove_duplicated_tlis()
         return proposed_id
