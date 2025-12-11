@@ -19,5 +19,6 @@ def test_sample_instances():
         == "Koliko cajta ... koliko cajta bi bila tam?"
     )
 
-
-test_loading()
+    assert trs.contents["ROG-dialog-0007"] == sorted(
+        trs.contents["ROG-dialog-0007"], key=lambda d: d["xmin"]
+    )
