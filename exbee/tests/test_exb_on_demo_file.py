@@ -1,5 +1,9 @@
 from pathlib import Path
+from loguru import logger
+import sys
 
+logger.remove()
+logger.add(sys.stdout, level="TRACE")
 demo_file = list(Path(".").glob("**/ROG-Dia-GSO-P0005.exb"))[0]
 
 from exbee import EXB
@@ -24,7 +28,10 @@ def test_finding_timeline():
 def test_pruning_timeline():
     new_exb = exb.copy()
     new_exb.remove_duplicated_tlis()
-    assert exb.timeline == new_exb.timeline
+    assert new_exb.doc.find(".//tli[@id='T717-920_']") is None
+    assert new_exb.doc.find(".//tli[@id='T905-870_']") is None
+    assert len(exb.timeline) == 1148
+    assert len(new_exb.timeline) == 1146
 
 
 def test_tier_name_getter():
