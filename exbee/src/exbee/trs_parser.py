@@ -66,6 +66,9 @@ class TRS:
                 ]
         old_speakers = list(result.keys())
         for o in old_speakers:
-            result[self.speaker_table[o]] = result[o]
+            result[self.speaker_table[o]] = sorted(
+                result[o], key=lambda d: float(d["xmin"])
+            )
+
             del result[o]
         return result
