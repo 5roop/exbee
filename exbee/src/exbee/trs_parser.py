@@ -42,6 +42,11 @@ class TRS:
             if not content:
                 continue
             if "<" in content:
+                speakers = contents[i]["speaker"]
+                if len(speakers.split()) != len(set(speakers.split())):
+                    logger.critical(
+                        f"Duplicate speakers appearing! Issue: '{speakers}'. Will proced with garbage data."
+                    )
                 d = etree.fromstring("<doc>" + content + "</doc>")
                 for who in d.findall(".//Who"):
                     j = int(who.attrib["nb"])
