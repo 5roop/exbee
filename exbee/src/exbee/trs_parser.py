@@ -19,7 +19,7 @@ class TRS:
         turns = self.doc.findall(".//Turn")
         turns = [t for t in turns if "speaker" in t.attrib]
         speakers = [t.attrib["speaker"] for t in turns]
-        speakers = [s for s in speakers if " " not in s]
+        speakers = [i for s in speakers for i in s.split()]
         speakers = list(dict.fromkeys(speakers))
         return speakers
 
