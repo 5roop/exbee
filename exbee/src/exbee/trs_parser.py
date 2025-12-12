@@ -16,6 +16,10 @@ class TRS:
         self.speakers = [self.speaker_table[s] for s in self.speakers_raw]
 
     def find_speakers_from_turns(self) -> list[str]:
+        """Extracts speakers from tier speaker attribute
+
+        :return list[str]: List of speakers, deduplicated, in order of appearance.
+        """
         turns = self.doc.findall(".//Turn")
         turns = [t for t in turns if "speaker" in t.attrib]
         speakers = [t.attrib["speaker"] for t in turns]
@@ -24,6 +28,10 @@ class TRS:
         return speakers
 
     def get_contents(self):
+        """Read trs data and return it in a dictionary
+        :return dict: each speaker its own key, values are lists
+            of {xmin:, xmax:, content:, speaker:}
+        """
         result = dict()
         for speaker in self.speakers_raw:
             result[speaker] = []

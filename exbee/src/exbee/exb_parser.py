@@ -29,6 +29,7 @@ class EXB:
         }
 
     def update_timeline(self) -> None:
+        """Refreshes timeline attribute"""
         self.timeline = self.get_timeline()
 
     def find_speakers_from_tier_attrib_speaker(self) -> list[str]:
@@ -45,6 +46,17 @@ class EXB:
         return list(dict.fromkeys(speakers))
 
     def remove_unused_attributes(self) -> None:
+        """Removes redundant elements in EXB:
+        * AutoSave ud-information
+        * Dialect ud-information
+        * Accent ud-information
+        * Check ud-information
+        * Scope ud-information
+        * Tier format
+        * Tier format table
+        * hidden tier tags
+
+        """
         for attribute in [
             "AutoSave",
             "Dialect",
@@ -104,7 +116,10 @@ class EXB:
         self.update_timeline()
 
     def remove_duplicated_tlis(self) -> None:
-        """Performs exact deduplication on TLI elements in place."""
+        """Performs exact deduplication on TLI elements in place. If duplicates
+        are found, they  will be removed and their references in events will be
+        changed to the non-duplicated ones."""
+
         self.sort_tlis()
         previous = dict(id=None, time=None)
         for tli in self.doc.findall(".//tli"):
@@ -144,6 +159,12 @@ class EXB:
                 event.text = event.text.strip() + " "
 
     def add_to_timeline(self, timestamp_seconds: float) -> str:
+        """Returns the id of tli at timestamp_seconds. If there was one already,
+        it will be recycled, else a new one will be created. Time resolution: 1ms
+
+        :param float timestamp_seconds: Time at which to create the tli
+        :return str: the id of the tli at timestamp_seconds
+        """
         # self.update_timeline()
         timeline = self.timeline
 
