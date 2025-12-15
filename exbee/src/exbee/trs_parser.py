@@ -2,6 +2,21 @@ from pathlib import Path
 from lxml import etree  # pyright: ignore[reportAttributeAccessIssue]
 from loguru import logger
 from trsproc.parser import TRSParser
+from pydantic import BaseModel, Field, field_validator
+
+
+class Segment(BaseModel):
+    xmin: float
+    xmax: float
+    speaker: str
+    content: str
+
+    @field_validator("xmax")
+    @classmethod
+    def validate_xmax(cls, v, info):
+        if v <= info.data["xmin"]:
+            raise ValueError("xmax must be greater than xmin")
+        return v
 
 
 class TRS:
@@ -14,6 +29,7 @@ class TRS:
         }
         self.contents = self.get_contents()
         self.speakers = [self.speaker_table[s] for s in self.speakers_raw]
+        self.nn = self.get_nn()
 
     def find_speakers_from_turns(self) -> list[str]:
         """Extracts speakers from tier speaker attribute
@@ -60,6 +76,8 @@ class TRS:
                     j = int(who.attrib["nb"])
                     speaker = contents[i]["speaker"].split()[j - 1]
                     text = who.tail
+                    if not text:
+                        continue
                     result[speaker] = result[speaker] + [
                         dict(xmin=xmin, xmax=xmax, speaker=speaker, content=text)
                     ]
@@ -77,6 +95,29 @@ class TRS:
             result[self.speaker_table[o]] = sorted(
                 result[o], key=lambda d: float(d["xmin"])
             )
-
+            # Validate:
+            for i in result[self.speaker_table[o]]:
+                Segment(**i)
             del result[o]
         return result
+
+    def get_nn(self):
+        nns = []
+        for event in self.doc.findall(".//Event"):
+            what = event.attrib["desc"]
+            start_s = round(
+                float(event.xpath("preceding::Sync[1]")[0].attrib["time"]), 3
+            )
+            end_s = round(float(event.xpath("following::Sync[1]")[0].attrib["time"]), 3)
+            nns.append(
+                dict(
+                    xmin=start_s,
+                    xmax=end_s,
+                    speaker="nn",
+                    content=what,
+                )
+            )
+        # Validate:
+        for nn in nns:
+            Segment(**nn)
+        return nns
