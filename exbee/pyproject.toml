@@ -1,6 +1,6 @@
 [project]
 name = "exbee"
-version = "2025.12.16"
+version = "2025.12.16.1"
 description = "A small utility for wrangling EXB data"
 readme = "README.md"
 authors = [{ name = "Peter Rupnik", email = "peter.rupnik@ijs.si" }]
@@ -9,7 +9,6 @@ dependencies = [
     "loguru>=0.5.1",
     "lxml>=4.0.0",
     "pytest>=5.0.0",
-    "trsproc>=2.0.0",
     "pydantic>=1.0",
 ]
 
@@ -36,7 +35,7 @@ build-backend = "uv_build"
 
 
 [tool.bumpver]
-current_version = "2025.12.16"
+current_version = "2025.12.16.1"
 version_pattern = "YYYY.MM.DD[.INC0]"
 commit_message = "bump version {old_version} -> {new_version}"
 tag_message = "{new_version}"

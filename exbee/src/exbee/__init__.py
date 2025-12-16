@@ -1,8 +1,10 @@
 from exbee.exb_parser import EXB
 from exbee.trs_parser import TRS
 
-__version__ = "2025.12.16"
+__version__ = "2025.12.16.1"
 
 
 def main() -> None:
-    print("Hello from exbee!")
+    trs = TRS("/home/peter/exbee/exbee/tests/ROG-Dia-GSO-P0005-std.trs")
+    for i in trs.contents_dump:
+        print(i)

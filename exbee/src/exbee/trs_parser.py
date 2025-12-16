@@ -27,7 +27,8 @@ class TRS:
         self.speaker_table = {
             s.attrib["id"]: s.attrib["name"] for s in self.doc.findall(".//Speaker")
         }
-        self.contents = self.parse_into_contents()
+        self.contents_dump = self.parse_into_contents()
+        self.contents = self.postprocess_dump()
         self.speakers = [self.speaker_table[s] for s in self.speakers_raw]
 
     def find_speakers_from_turns(self) -> list[str]:
@@ -102,9 +103,11 @@ class TRS:
                     contents = ""
                     for i in frag.iter():
                         if i.tag == "Event":
-                            contents += f" [{i.get('desc')}]"
+                            contents += f" [{i.get('desc')}] {i.text if i.text else ''} {i.tail if i.tail else ''}".strip()
                         else:
-                            contents += f" {i.text} {i.tail}".replace("None", "")
+                            contents += f" {i.text} {i.tail}".replace(
+                                "None", ""
+                            ).strip()
                     contents = contents.strip()
                     2 + 2
                     nb = int(frag.find(".//Who").get("nb"))
@@ -153,6 +156,15 @@ class TRS:
                     2 + 2
                 results.extend(segments)
         results = sorted(results, key=lambda d: d["xmin"])
+        for i, r in enumerate(results):
+            text = r["content"].replace("\n", " ")
+            while "  " in text:
+                text = text.replace("  ", " ")
+            results[i]["content"] = text
+        return results
+
+    def postprocess_dump(self):
+        results = self.contents_dump
         for i in results:
             Segment(**i)
         speakers = set(d["speaker"] for d in results)
@@ -171,7 +183,3 @@ class TRS:
             )
             del new_results[o]
         return new_results
-
-
-# trs = TRS("/home/peter/exbee/exbee/tests/ROG-Dia-GSO-P0005-std.trs")
-# 2 + 2
