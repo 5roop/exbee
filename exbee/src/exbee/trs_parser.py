@@ -103,11 +103,9 @@ class TRS:
                     contents = ""
                     for i in frag.iter():
                         if i.tag == "Event":
-                            contents += f" [{i.get('desc')}] {i.text if i.text else ''} {i.tail if i.tail else ''}".strip()
+                            contents += f" [{i.get('desc')}] {i.text if i.text else ''} {i.tail if i.tail else ''}"
                         else:
-                            contents += f" {i.text} {i.tail}".replace(
-                                "None", ""
-                            ).strip()
+                            contents += f" {i.text} {i.tail}".replace("None", "")
                     contents = contents.strip()
                     2 + 2
                     nb = int(frag.find(".//Who").get("nb"))
