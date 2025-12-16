@@ -27,9 +27,8 @@ class TRS:
         self.speaker_table = {
             s.attrib["id"]: s.attrib["name"] for s in self.doc.findall(".//Speaker")
         }
-        self.contents = self.get_contents()
+        self.contents = self.parse_into_contents()
         self.speakers = [self.speaker_table[s] for s in self.speakers_raw]
-        self.nn = self.get_nn()
 
     def find_speakers_from_turns(self) -> list[str]:
         """Extracts speakers from tier speaker attribute
@@ -40,84 +39,139 @@ class TRS:
         turns = [t for t in turns if "speaker" in t.attrib]
         speakers = [t.attrib["speaker"] for t in turns]
         speakers = [i for s in speakers for i in s.split()]
+        # speakers = [s for s in speakers if self.doc.find(f".//Turn[@speaker='{s}']")]
         speakers = list(dict.fromkeys(speakers))
         return speakers
 
-    def get_contents(self):
-        """Read trs data and return it in a dictionary
-        :return dict: each speaker its own key, values are lists
-            of {xmin:, xmax:, content:, speaker:}
-        """
-        result = dict()
-        for speaker in self.speakers_raw:
-            result[speaker] = []
-        contents = TRSParser(self.path).contents
-        for i in list(contents):
-            if not contents[i]:
-                continue
-            if i == 0:
-                continue
-            if contents[i].get("content", "").strip() == "":
-                continue
-            content = contents[i]["content"]
-            xmin = contents[i]["xmin"]
-            xmax = contents[i]["xmax"]
-            speaker = contents[i]["speaker"]
-            if not content:
-                continue
-            if "<" in content:
-                speakers = contents[i]["speaker"]
-                if len(speakers.split()) != len(set(speakers.split())):
-                    logger.critical(
-                        f"Duplicate speakers appearing! Issue: '{speakers}'. Will proced with garbage data."
-                    )
-                d = etree.fromstring("<doc>" + content + "</doc>")
-                for who in d.findall(".//Who"):
-                    j = int(who.attrib["nb"])
-                    speaker = contents[i]["speaker"].split()[j - 1]
-                    text = who.tail
-                    if not text:
-                        continue
-                    result[speaker] = result[speaker] + [
-                        dict(xmin=xmin, xmax=xmax, speaker=speaker, content=text)
-                    ]
-            else:
-                result[speaker] = result[speaker] + [
-                    dict(
-                        xmin=xmin,
-                        xmax=xmax,
-                        speaker=speaker,
-                        content=content,
-                    )
-                ]
-        old_speakers = list(result.keys())
-        for o in old_speakers:
-            result[self.speaker_table[o]] = sorted(
-                result[o], key=lambda d: float(d["xmin"])
-            )
-            # Validate:
-            for i in result[self.speaker_table[o]]:
-                Segment(**i)
-            del result[o]
-        return result
+    @staticmethod
+    def fragment_whos(doc):
+        who_elements = doc.findall(".//Who")
+        results = []
 
-    def get_nn(self):
-        nns = []
-        for event in self.doc.findall(".//Event"):
-            what = event.attrib["desc"]
-            start_s = round(
-                float(event.xpath("preceding::Sync[1]")[0].attrib["time"]), 3
+        parts = []
+        current_part = []
+
+        for node in doc.iter():
+            if node == doc:  # Skip root element
+                continue
+
+            if node.tag == "Who":
+                if current_part:
+                    parts.append("\n".join(current_part).strip())
+                    current_part = []
+
+            current_part.append(
+                etree.tostring(node, encoding="unicode", with_tail=True).strip()
             )
-            end_s = round(float(event.xpath("following::Sync[1]")[0].attrib["time"]), 3)
-            nns.append(
-                dict(
-                    xmin=start_s,
-                    xmax=end_s,
-                    speaker="nn",
-                    content=what,
-                )
+
+        if current_part:
+            parts.append("\n".join(current_part).strip())
+
+        parts = [p for p in parts if p.strip()]
+        return parts
+
+    def parse_into_contents(self):
+        doc = self.doc
+        results = []
+        turns = doc.findall(".//Turn")
+        events = doc.findall(".//Event")
+        for e in events:
+            assert e.getparent().tag == "Turn"
+        for turn in turns:
+            speakers = turn.get("speaker", "").split()
+            turn_start = float(turn.get("startTime"))
+            turn_end = float(turn.get("endTime"))
+            if not "".join(turn.itertext()).strip():
+                # It's an empty turn. Check for events:
+                for e in turn.findall(".//Event"):
+                    results.append(
+                        {
+                            "xmin": turn_start,
+                            "xmax": turn_end,
+                            "speaker": speakers[0] if speakers else "nn",
+                            "content": f"[{e.get('desc')}]",
+                        }
+                    )
+                continue
+            if whos := list(turn.findall(".//Who")):
+                frags = self.fragment_whos(turn)
+                frags = [i for i in frags if "<Who" in i]
+
+                for frag in frags:
+                    frag = etree.fromstring(f"<frag>{frag}</frag>")
+                    contents = ""
+                    for i in frag.iter():
+                        if i.tag == "Event":
+                            contents += f" [{i.get('desc')}]"
+                        else:
+                            contents += f" {i.text} {i.tail}".replace("None", "")
+                    contents = contents.strip()
+                    2 + 2
+                    nb = int(frag.find(".//Who").get("nb"))
+                    speaker = speakers[nb - 1]
+                    results.append(
+                        {
+                            "xmin": turn_start,
+                            "xmax": turn_end,
+                            "speaker": speaker,
+                            "content": contents,
+                        }
+                    )
+            else:
+                start = turn_start
+                end = start
+                segments = []
+                current = None
+                for s in turn.iter():
+                    if s.tag == "Turn":
+                        continue
+                    if s.tag == "Sync":
+                        if current:
+                            current["content"] = contents.strip()
+                            current["xmax"] = float(s.get("time"))
+                            segments.append(current)
+                        contents = f" {s.text} {s.tail}".replace("None", "")
+                        start = float(s.get("time"))
+                    elif s.tag == "Event":
+                        contents += (
+                            f" [{s.get('desc')}] {s.text} {s.tail}".strip().replace(
+                                "None", ""
+                            )
+                        )
+                    else:
+                        1 / 0
+                    current = {
+                        "xmin": start,
+                        "xmax": end,
+                        "speaker": speakers[0],
+                        "content": contents.strip(),
+                    }
+                current["xmax"] = turn_end
+                if current["content"].strip():
+                    segments.append(current)
+                else:
+                    2 + 2
+                results.extend(segments)
+        results = sorted(results, key=lambda d: d["xmin"])
+        for i in results:
+            Segment(**i)
+        speakers = set(d["speaker"] for d in results)
+        new_results = dict()
+        for i in results:
+            new_results[i["speaker"]] = new_results.get(i["speaker"], []) + [i]
+        if "nn" in new_results:
+            self.nn = new_results["nn"]
+        else:
+            self.nn = []
+        # return new_results
+        old_speakers = list(new_results.keys())
+        for o in old_speakers:
+            new_results[self.speaker_table.get(o, o)] = sorted(
+                new_results[o], key=lambda d: float(d["xmin"])
             )
-        # Validate:
-        for nn in nns:
-            Segment(**nn)
-        return nns
+            del new_results[o]
+        return new_results
+
+
+# trs = TRS("/home/peter/exbee/exbee/tests/ROG-Dia-GSO-P0005-std.trs")
+# 2 + 2
