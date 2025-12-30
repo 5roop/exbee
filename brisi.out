@@ -1,0 +1,799 @@
+{'xmin': 0.0, 'xmax': 0.555, 'speaker': 'nn', 'content': '[premor]'}
+{'xmin': 0.555, 'xmax': 3.017, 'speaker': 'spk1', 'content': 'Kaj zdaj, si kupila karte za na Sardinijo?'}
+{'xmin': 3.017, 'xmax': 5.403, 'speaker': 'spk2', 'content': 'Ne, ko ne znam. Mi boš mogla pokazati.'}
+{'xmin': 5.403, 'xmax': 12.533, 'speaker': 'spk1', 'content': 'Ja, pa saj je čisto enostavno. Tam greš na ono spletno stran od Ryanaira, pogledaš datume, pogledaš cene in pol si izbereš.'}
+{'xmin': 12.533, 'xmax': 16.579, 'speaker': 'spk1', 'content': 'Koliko cajta ... koliko cajta bi bila tam?'}
+{'xmin': 12.533, 'xmax': 16.579, 'speaker': 'spk2', 'content': 'Aja? Ne vem. Ma ...'}
+{'xmin': 16.579, 'xmax': 18.133, 'speaker': 'spk1', 'content': 'Več cajta ko si, bolj poceni je.'}
+{'xmin': 18.133, 'xmax': 20.669, 'speaker': 'spk2', 'content': 'Aja? Ni to zame za iskati, ne znam.'}
+{'xmin': 20.669, 'xmax': 23.316, 'speaker': 'spk1', 'content': 'Ja, ti bi rada samo, da ti drugi zrihtajo pa da ti greš.'}
+{'xmin': 23.316, 'xmax': 26.411, 'speaker': 'spk2', 'content': 'Ja, itak, kaj pa? Najlepše je tako.'}
+{'xmin': 26.411, 'xmax': 32.282, 'speaker': 'spk1', 'content': 'No, ma tam si naloži tisto aplikacijo od Ryanair in se prijaviš in pol izbereš karto. [zvok]'}
+{'xmin': 32.282, 'xmax': 34.931, 'speaker': 'spk2', 'content': 'Aja, prav aplikacijo moraš imeti? Kaj ne greš kar tako na Google [zvok]'}
+{'xmin': 34.931, 'xmax': 35.679, 'speaker': 'spk2', 'content': 'pa najdeš?'}
+{'xmin': 34.931, 'xmax': 35.679, 'speaker': 'spk1', 'content': 'Ne,'}
+{'xmin': 35.679, 'xmax': 36.904, 'speaker': 'spk1', 'content': 'moraš imeti aplikacijo.'}
+{'xmin': 36.904, 'xmax': 37.794, 'speaker': 'spk2', 'content': 'Aja, to pa nimam.'}
+{'xmin': 37.794, 'xmax': 40.45, 'speaker': 'spk1', 'content': 'Ja, ker pol imaš shranjene te karte v aplikaciji.'}
+{'xmin': 40.45, 'xmax': 42.701, 'speaker': 'spk2', 'content': 'Aja, kaj ni boljše, da si jih natisneš?'}
+{'xmin': 42.701, 'xmax': 44.195, 'speaker': 'spk1', 'content': 'Ja, pol si jih pa še natisneš, č()'}
+{'xmin': 44.195, 'xmax': 46.755, 'speaker': 'spk1', 'content': 'če ti slučajno telefon crkne. Ja.'}
+{'xmin': 44.195, 'xmax': 46.755, 'speaker': 'spk2', 'content': 'Ne, ko prideš tja, pa nič ne najdeš.'}
+{'xmin': 46.755, 'xmax': 48.336, 'speaker': 'spk2', 'content': 'Aja, ja.'}
+{'xmin': 48.336, 'xmax': 53.776, 'speaker': 'spk1', 'content': 'Tam izbereš, pol se prijaviš, prijaviš tiste osebe, ko grejo.'}
+{'xmin': 53.776, 'xmax': 56.595, 'speaker': 'spk1', 'content': 'Pa mora biti prav napisano. Morajo biti vse črke prav.'}
+{'xmin': 56.595, 'xmax': 58.838, 'speaker': 'spk2', 'content': 'In če pol tista ena oseba ne gre?'}
+{'xmin': 58.838, 'xmax': 65.334, 'speaker': 'spk1', 'content': 'Lahko eee z doplačilom, mislim, da je deset evrov, da zamenjaš eee naslov eee naslovnika'}
+{'xmin': 65.334, 'xmax': 66.083, 'speaker': 'spk1', 'content': 'karte.'}
+{'xmin': 65.334, 'xmax': 66.083, 'speaker': 'spk2', 'content': 'Aja,'}
+{'xmin': 66.083, 'xmax': 66.93, 'speaker': 'spk2', 'content': 'tako.'}
+{'xmin': 66.93, 'xmax': 68.851, 'speaker': 'spk1', 'content': 'Ja, in pol s kartico plačaš.'}
+{'xmin': 68.851, 'xmax': 69.978, 'speaker': 'spk2', 'content': 'Ne vem.'}
+{'xmin': 69.978, 'xmax': 72.147, 'speaker': 'spk1', 'content': 'Kartico imaš za plačati?'}
+{'xmin': 69.978, 'xmax': 72.147, 'speaker': 'spk2', 'content': 'Nisem še nikoli ...'}
+{'xmin': 72.147, 'xmax': 72.636, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 72.636, 'xmax': 73.12, 'speaker': 'spk1', 'content': 'Bančno?'}
+{'xmin': 73.12, 'xmax': 73.508, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 73.508, 'xmax': 73.944, 'speaker': 'spk1', 'content': 'A imaš?'}
+{'xmin': 73.944, 'xmax': 75.105, 'speaker': 'spk2', 'content': 'Ja, imam to eno.'}
+{'xmin': 75.105, 'xmax': 75.957, 'speaker': 'spk1', 'content': 'A no, tisto imaš.'}
+{'xmin': 75.957, 'xmax': 78.046, 'speaker': 'spk1', 'content': 'No, in pol ko plačaš ...'}
+{'xmin': 75.957, 'xmax': 78.046, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 78.046, 'xmax': 81.743, 'speaker': 'spk1', 'content': 'pol pa greš nazaj v aplikacijo in narediš tisti check in.'}
+{'xmin': 81.743, 'xmax': 82.496, 'speaker': 'spk2', 'content': 'Aha.'}
+{'xmin': 82.496, 'xmax': 88.976, 'speaker': 'spk1', 'content': 'Ne? In tam ti piše pol, ob koliki uri greš in kdaj pristaneš. In številko leta.'}
+{'xmin': 88.976, 'xmax': 90.502, 'speaker': 'spk1', 'content': 'Pa za ...'}
+{'xmin': 88.976, 'xmax': 90.502, 'speaker': 'spk2', 'content': '[glas] Boš rajši'}
+{'xmin': 90.502, 'xmax': 92.364, 'speaker': 'spk2', 'content': 'ti to naredila, ko veš, kako gre.'}
+{'xmin': 92.364, 'xmax': 95.011, 'speaker': 'spk1', 'content': 'Ja, no, pa saj sss čem ti povedati pa te navaditi.'}
+{'xmin': 95.011, 'xmax': 95.487, 'speaker': 'spk2', 'content': 'Mah.'}
+{'xmin': 95.487, 'xmax': 97.797, 'speaker': 'spk1', 'content': 'Pa kaj b() kje boste pa parkirali?'}
+{'xmin': 97.797, 'xmax': 98.887, 'speaker': 'spk2', 'content': 'Koga?'}
+{'xmin': 98.887, 'xmax': 100.809, 'speaker': 'spk1', 'content': 'Ja, avto na letališču?'}
+{'xmin': 100.809, 'xmax': 102.91, 'speaker': 'spk2', 'content': 'Pa ne vem, verjetno nas bo kakšen peljal.'}
+{'xmin': 102.91, 'xmax': 105.01, 'speaker': 'spk1', 'content': 'Ma na, pa spet.'}
+{'xmin': 105.01, 'xmax': 106.139, 'speaker': 'spk1', 'content': 'Pa tam rezervirajte'}
+{'xmin': 106.139, 'xmax': 106.675, 'speaker': 'spk1', 'content': 'tisto.'}
+{'xmin': 106.139, 'xmax': 106.675, 'speaker': 'spk2', 'content': 'Kaj, pri()'}
+{'xmin': 106.675, 'xmax': 107.182, 'speaker': 'spk2', 'content': 'parking?'}
+{'xmin': 107.182, 'xmax': 112.081, 'speaker': 'spk1', 'content': 'Ja, samo moraš imeti eee tablico, registracijo'}
+{'xmin': 112.081, 'xmax': 116.436, 'speaker': 'spk1', 'content': 'in pol tam daš od kdaj do kdaj, kateri datum in uro.'}
+{'xmin': 116.436, 'xmax': 117.061, 'speaker': 'spk2', 'content': 'Aja, tako?'}
+{'xmin': 117.061, 'xmax': 120.101, 'speaker': 'spk1', 'content': 'In pol tam pustiš in te že senzor zazna tablico,'}
+{'xmin': 120.101, 'xmax': 121.687, 'speaker': 'spk1', 'content': 'ja.'}
+{'xmin': 120.101, 'xmax': 121.687, 'speaker': 'spk2', 'content': 'Aja, ja.'}
+{'xmin': 120.101, 'xmax': 121.687, 'speaker': 'spk1', 'content': 'Ja, in nič ne rabiš.'}
+{'xmin': 120.101, 'xmax': 121.687, 'speaker': 'spk2', 'content': 'Aja, to'}
+{'xmin': 121.687, 'xmax': 122.951, 'speaker': 'spk2', 'content': 'sem videla zadnjikrat, ja.'}
+{'xmin': 122.951, 'xmax': 125.123, 'speaker': 'spk1', 'content': 'No, in ti je čisto enostavno tja priti.'}
+{'xmin': 125.123, 'xmax': 126.027, 'speaker': 'spk2', 'content': 'Ja, to vem.'}
+{'xmin': 126.027, 'xmax': 127.573, 'speaker': 'spk1', 'content': 'A no, saj smo šle zadnjič.'}
+{'xmin': 127.573, 'xmax': 129.229, 'speaker': 'spk1', 'content': 'Na pregled.'}
+{'xmin': 127.573, 'xmax': 129.229, 'speaker': 'spk2', 'content': 'Ja, pa ne vem.'}
+{'xmin': 129.229, 'xmax': 130.94, 'speaker': 'spk2', 'content': 'No,'}
+{'xmin': 129.229, 'xmax': 130.94, 'speaker': 'spk1', 'content': 'No, no.'}
+{'xmin': 130.94, 'xmax': 133.509, 'speaker': 'spk1', 'content': 'in ko boste prišle nazaj, se usedeš v avto in'}
+{'xmin': 133.509, 'xmax': 134.639, 'speaker': 'spk1', 'content': 'greš domov.'}
+{'xmin': 133.509, 'xmax': 134.639, 'speaker': 'spk2', 'content': ''}
+{'xmin': 134.639, 'xmax': 137.504, 'speaker': 'spk2', 'content': 'No. In če si zmatran, ko ne moreš voziti?'}
+{'xmin': 137.504, 'xmax': 139.426, 'speaker': 'spk1', 'content': 'Saj boš počivala na letalu.'}
+{'xmin': 139.426, 'xmax': 139.931, 'speaker': 'spk2', 'content': 'A.'}
+{'xmin': 139.931, 'xmax': 140.979, 'speaker': 'spk2', 'content': 'Kaj veš.'}
+{'xmin': 139.931, 'xmax': 140.979, 'speaker': 'spk1', 'content': 'Koliko cajta'}
+{'xmin': 140.979, 'xmax': 143.902, 'speaker': 'spk1', 'content': 'se boste peljali? Dve uri? Koliko smo se mi peljali? Tri?'}
+{'xmin': 143.902, 'xmax': 145.608, 'speaker': 'spk1', 'content': 'Dve, menda, ne vem.'}
+{'xmin': 145.608, 'xmax': 147.075, 'speaker': 'spk2', 'content': 'Nem() ne vem.'}
+{'xmin': 147.075, 'xmax': 150.099, 'speaker': 'spk1', 'content': 'Na karti bo pisalo. Kdaj je vzlet in kdaj je pristanek.'}
+{'xmin': 150.099, 'xmax': 151.669, 'speaker': 'spk2', 'content': 'Nimam še karte.'}
+{'xmin': 151.669, 'xmax': 154.954, 'speaker': 'spk1', 'content': 'Ja, saj zato si moraš naruo() naložiti tisto aplikacijo.'}
+{'xmin': 154.954, 'xmax': 155.796, 'speaker': 'spk2', 'content': 'Ne vem.'}
+{'xmin': 155.796, 'xmax': 159.028, 'speaker': 'spk1', 'content': 'Ja, kaj pa eee hotel?'}
+{'xmin': 159.028, 'xmax': 160.472, 'speaker': 'spk2', 'content': 'Ne bomo v hotelu.'}
+{'xmin': 159.028, 'xmax': 160.472, 'speaker': 'spk1', 'content': 'A ne boste v hotelu?'}
+{'xmin': 160.472, 'xmax': 161.106, 'speaker': 'spk1', 'content': 'Kje pa boste?'}
+{'xmin': 161.106, 'xmax': 161.998, 'speaker': 'spk2', 'content': 'Kmečki turizem.'}
+{'xmin': 161.998, 'xmax': 163.028, 'speaker': 'spk1', 'content': 'A kmečki turizem'}
+{'xmin': 163.028, 'xmax': 165.35, 'speaker': 'spk1', 'content': 'bo?'}
+{'xmin': 163.028, 'xmax': 165.35, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 163.028, 'xmax': 165.35, 'speaker': 'spk1', 'content': 'Kaj z zajtrkom?'}
+{'xmin': 163.028, 'xmax': 165.35, 'speaker': 'spk2', 'content': 'Z bazenom,'}
+{'xmin': 165.35, 'xmax': 166.285, 'speaker': 'spk2', 'content': 'tako nobel.'}
+{'xmin': 166.285, 'xmax': 167.803, 'speaker': 'spk1', 'content': 'Aja? Z zajtrkom?'}
+{'xmin': 167.803, 'xmax': 168.199, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 168.199, 'xmax': 169.249, 'speaker': 'spk1', 'content': 'Ma brez večerje?'}
+{'xmin': 169.249, 'xmax': 170.636, 'speaker': 'spk2', 'content': 'Če češ, tudi večerja.'}
+{'xmin': 170.636, 'xmax': 171.47, 'speaker': 'spk1', 'content': 'Aja, večerja.'}
+{'xmin': 171.47, 'xmax': 173.059, 'speaker': 'spk1', 'content': 'A boste šli kam drugam?'}
+{'xmin': 173.059, 'xmax': 175.607, 'speaker': 'spk2', 'content': 'Ne vem. To bomo sproti se zmenili.'}
+{'xmin': 175.607, 'xmax': 177.017, 'speaker': 'spk1', 'content': 'V katerem kraju pa je?'}
+{'xmin': 177.017, 'xmax': 178.395, 'speaker': 'spk2', 'content': 'Pa ne vem. [smeh]'}
+{'xmin': 178.395, 'xmax': 179.84, 'speaker': 'spk1', 'content': '[smeh]'}
+{'xmin': 179.84, 'xmax': 181.733, 'speaker': 'spk2', 'content': 'Ja, no, če vse drugi rezervirajo,'}
+{'xmin': 181.733, 'xmax': 182.666, 'speaker': 'spk1', 'content': 'Ja, super.'}
+{'xmin': 181.733, 'xmax': 182.666, 'speaker': 'spk2', 'content': 'kako čem vedeti?'}
+{'xmin': 182.666, 'xmax': 183.906, 'speaker': 'spk1', 'content': 'Jaz bi šla tudi tako.'}
+{'xmin': 183.906, 'xmax': 185.872, 'speaker': 'spk2', 'content': 'Ja, no, kaj ni najlepše tako?'}
+{'xmin': 185.872, 'xmax': 186.625, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 186.625, 'xmax': 189.13, 'speaker': 'spk2', 'content': 'Da ti ni treba nič. Samo plačaš in greš.'}
+{'xmin': 189.13, 'xmax': 189.841, 'speaker': 'spk1', 'content': 'Ja, no,'}
+{'xmin': 189.841, 'xmax': 190.257, 'speaker': 'spk1', 'content': 'ma saj tudi'}
+{'xmin': 189.841, 'xmax': 190.257, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 190.257, 'xmax': 192.035, 'speaker': 'spk1', 'content': 'tu preko Bookinga greš lahko, ne?'}
+{'xmin': 192.035, 'xmax': 192.462, 'speaker': 'spk2', 'content': 'Ne vem.'}
+{'xmin': 192.462, 'xmax': 195.428, 'speaker': 'spk1', 'content': 'Tudi tu moraš imeti aplikacijo pa se registrirati.'}
+{'xmin': 195.428, 'xmax': 196.431, 'speaker': 'spk2', 'content': 'Ja, no.'}
+{'xmin': 196.431, 'xmax': 197.702, 'speaker': 'spk1', 'content': 'Ne, pa si izbereš,'}
+{'xmin': 197.702, 'xmax': 198.341, 'speaker': 'spk1', 'content': 'kar češ.'}
+{'xmin': 197.702, 'xmax': 198.341, 'speaker': 'spk2', 'content': 'Ne vem, kako'}
+{'xmin': 198.341, 'xmax': 201.508, 'speaker': 'spk2', 'content': 'so r() eee to rezervirali, nnn ne vem.'}
+{'xmin': 201.508, 'xmax': 209.453, 'speaker': 'spk1', 'content': 'Moraš imeti aplikacijo pa si rezerviraš Booking, pa saj tam imaš gor tudi apartmaje in bungalove menda in hotelov, kmečke turizme, menda je vse gor.'}
+{'xmin': 209.453, 'xmax': 212.783, 'speaker': 'spk2', 'content': 'Baje da je vse rezervirano. So direktno poklicali.'}
+{'xmin': 212.783, 'xmax': 214.062, 'speaker': 'spk1', 'content': '[glas] Ja.'}
+{'xmin': 214.062, 'xmax': 216.064, 'speaker': 'spk2', 'content': 'Tako da mi ni treba nič skrbeti.'}
+{'xmin': 216.064, 'xmax': 218.39, 'speaker': 'spk1', 'content': 'Ja, lepo. Kaj pa za potovalko?'}
+{'xmin': 218.39, 'xmax': 219.393, 'speaker': 'spk1', 'content': 'Kufer?'}
+{'xmin': 219.393, 'xmax': 220.038, 'speaker': 'spk2', 'content': 'Ne rabim.'}
+{'xmin': 220.038, 'xmax': 221.295, 'speaker': 'spk1', 'content': 'Moraš pogledati one mere,'}
+{'xmin': 221.295, 'xmax': 222.237, 'speaker': 'spk1', 'content': 'ko gre na letalo.'}
+{'xmin': 221.295, 'xmax': 222.237, 'speaker': 'spk2', 'content': 'Samo rukzak.'}
+{'xmin': 222.237, 'xmax': 223.008, 'speaker': 'spk2', 'content': 'Ne rabim nič'}
+{'xmin': 223.008, 'xmax': 224.568, 'speaker': 'spk2', 'content': 'Ne boš nič vzela?'}
+{'xmin': 223.008, 'xmax': 224.568, 'speaker': 'spk1', 'content': 'nesti s sabo.'}
+{'xmin': 224.568, 'xmax': 227.374, 'speaker': 'spk2', 'content': 'Kaj bi pa nesla s sabo?'}
+{'xmin': 227.374, 'xmax': 227.945, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 227.945, 'xmax': 230.536, 'speaker': 'spk1', 'content': 'Ne vem, odvisno, kdaj greš, kakšno vreme bo.'}
+{'xmin': 230.536, 'xmax': 230.974, 'speaker': 'spk2', 'content': 'Aja, s() ...'}
+{'xmin': 230.974, 'xmax': 233.003, 'speaker': 'spk1', 'content': 'Kopalke nesi, morda boš šla se kopat.'}
+{'xmin': 233.003, 'xmax': 234.164, 'speaker': 'spk2', 'content': 'Bo mraz.'}
+{'xmin': 234.164, 'xmax': 234.882, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 234.882, 'xmax': 236.333, 'speaker': 'spk2', 'content': 'Morje bo mrzlo.'}
+{'xmin': 236.333, 'xmax': 237.871, 'speaker': 'spk1', 'content': 'Greste prezgodaj.'}
+{'xmin': 237.871, 'xmax': 240.241, 'speaker': 'spk2', 'content': 'Ja, pol pa ni cajta.'}
+{'xmin': 240.241, 'xmax': 241.892, 'speaker': 'spk1', 'content': 'Ja, glej.'}
+{'xmin': 241.892, 'xmax': 242.305, 'speaker': 'spk1', 'content': 'Pol'}
+{'xmin': 241.892, 'xmax': 242.305, 'speaker': 'spk2', 'content': 'Pa ...'}
+{'xmin': 242.305, 'xmax': 243.7, 'speaker': 'spk1', 'content': 'boste pa raziskovali okoli'}
+{'xmin': 243.7, 'xmax': 245.127, 'speaker': 'spk1', 'content': 'pa na izlete boste šli.'}
+{'xmin': 243.7, 'xmax': 245.127, 'speaker': 'spk2', 'content': 'Pa koliko velik kufer'}
+{'xmin': 245.127, 'xmax': 246.422, 'speaker': 'spk2', 'content': 'lahko neseš?'}
+{'xmin': 246.422, 'xmax': 252.894, 'speaker': 'spk1', 'content': 'Mislim, da je dimenzije štiri, eee ko(), ne, rukzak je štirideset, petdeset, dvajset, ne?'}
+{'xmin': 252.894, 'xmax': 253.52, 'speaker': 'spk2', 'content': 'Mhm.'}
+{'xmin': 253.52, 'xmax': 255.822, 'speaker': 'spk1', 'content': 'Kufer je pa, piše na aplikaciji'}
+{'xmin': 255.822, 'xmax': 256.795, 'speaker': 'spk1', 'content': 'od Ryanaira, moraš'}
+{'xmin': 255.822, 'xmax': 256.795, 'speaker': 'spk2', 'content': 'Koliko velik?'}
+{'xmin': 256.795, 'xmax': 258.191, 'speaker': 'spk1', 'content': 'pogledati, koliko gre lahko.'}
+{'xmin': 258.191, 'xmax': 258.801, 'speaker': 'spk2', 'content': 'Ali je tudi na'}
+{'xmin': 258.801, 'xmax': 259.132, 'speaker': 'spk2', 'content': 'kile'}
+{'xmin': 258.801, 'xmax': 259.132, 'speaker': 'spk1', 'content': 'Ker če ...'}
+{'xmin': 259.132, 'xmax': 259.92, 'speaker': 'spk2', 'content': 'omejeno?'}
+{'xmin': 259.92, 'xmax': 260.941, 'speaker': 'spk1', 'content': 'Ja, tudi.'}
+{'xmin': 260.941, 'xmax': 265.174, 'speaker': 'spk1', 'content': 'Ker če boš na prišla na letališče, moraš, tam je en tak pano,'}
+{'xmin': 265.174, 'xmax': 271.182, 'speaker': 'spk1', 'content': 'pa notri je ograjeno, kakšen eee kufer gre noter. Če je pre() prevelik, lahko plačaš tudi petdeset evrov, veš?'}
+{'xmin': 271.182, 'xmax': 271.725, 'speaker': 'spk2', 'content': 'Aja?'}
+{'xmin': 271.725, 'xmax': 272.324, 'speaker': 'spk1', 'content': 'Ja, ja.'}
+{'xmin': 272.324, 'xmax': 273.188, 'speaker': 'spk2', 'content': 'Aha.'}
+{'xmin': 273.188, 'xmax': 273.629, 'speaker': 'spk1', 'content': 'Te lahko'}
+{'xmin': 273.629, 'xmax': 275.063, 'speaker': 'spk1', 'content': 'Doplačilo.'}
+{'xmin': 273.629, 'xmax': 275.063, 'speaker': 'spk2', 'content': 'tam kar ustavijo.'}
+{'xmin': 275.063, 'xmax': 275.692, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 275.063, 'xmax': 275.692, 'speaker': 'spk2', 'content': 'Aha.'}
+{'xmin': 275.692, 'xmax': 279.907, 'speaker': 'spk1', 'content': 'Zato morajo biti standardne mere. Tako kot piše tam, na aplikaciji.'}
+{'xmin': 279.907, 'xmax': 283.793, 'speaker': 'spk2', 'content': 'Pa da se kufer ne umaže, je tudi kakšna lepa oblekica za kufer tako?'}
+{'xmin': 283.793, 'xmax': 284.027, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 284.027, 'xmax': 285.21, 'speaker': 'spk1', 'content': 'Kje v reklamah?'}
+{'xmin': 284.027, 'xmax': 285.21, 'speaker': 'spk2', 'content': 'Pojdi pogledat.'}
+{'xmin': 285.21, 'xmax': 288.868, 'speaker': 'spk1', 'content': 'Po moje da imajo v tej eee, kaj je ona trgovina?'}
+{'xmin': 288.868, 'xmax': 290.093, 'speaker': 'spk2', 'content': 'BagsAndMore?'}
+{'xmin': 290.093, 'xmax': 290.684, 'speaker': 'spk1', 'content': 'BagsAndMore.'}
+{'xmin': 290.684, 'xmax': 291.318, 'speaker': 'spk1', 'content': 'In oni'}
+{'xmin': 290.684, 'xmax': 291.318, 'speaker': 'spk2', 'content': 'Aja.'}
+{'xmin': 291.318, 'xmax': 292.129, 'speaker': 'spk1', 'content': 'napis gor.'}
+{'xmin': 292.129, 'xmax': 293.437, 'speaker': 'spk2', 'content': 'Kakšen napis?'}
+{'xmin': 293.437, 'xmax': 295.442, 'speaker': 'spk1', 'content': 'Ja, da si prilepiš gor, čigav kufer je.'}
+{'xmin': 295.442, 'xmax': 297.823, 'speaker': 'spk1', 'content': 'Če se izgubi, da ti ga pol pošljejo.'}
+{'xmin': 295.442, 'xmax': 297.823, 'speaker': 'spk2', 'content': 'Aja, ja, ja. Pa saj tisto ima že'}
+{'xmin': 297.823, 'xmax': 298.746, 'speaker': 'spk2', 'content': 'kufer gor. Tisti ...'}
+{'xmin': 298.746, 'xmax': 299.861, 'speaker': 'spk1', 'content': 'Etiketo.'}
+{'xmin': 299.861, 'xmax': 302.193, 'speaker': 'spk2', 'content': 'No, no, še kaj takega?'}
+{'xmin': 302.193, 'xmax': 304.443, 'speaker': 'spk1', 'content': 'Marele ne smeš vzeti s sabo.'}
+{'xmin': 304.443, 'xmax': 305.545, 'speaker': 'spk2', 'content': 'Zakaj ne?'}
+{'xmin': 305.545, 'xmax': 306.795, 'speaker': 'spk1', 'content': 'Na l() eee na'}
+{'xmin': 306.795, 'xmax': 307.802, 'speaker': 'spk1', 'content': 'v rukzaku ne sme'}
+{'xmin': 306.795, 'xmax': 307.802, 'speaker': 'spk2', 'content': 'Samo v kufer?'}
+{'xmin': 307.802, 'xmax': 308.39, 'speaker': 'spk1', 'content': 'biti.'}
+{'xmin': 308.39, 'xmax': 309.99, 'speaker': 'spk1', 'content': 'Samo v kufer.'}
+{'xmin': 309.99, 'xmax': 310.982, 'speaker': 'spk2', 'content': 'Aja.'}
+{'xmin': 310.982, 'xmax': 312.821, 'speaker': 'spk1', 'content': 'Pa vode tudi ne smeš nesti čez.'}
+{'xmin': 312.821, 'xmax': 313.459, 'speaker': 'spk2', 'content': 'Aja?'}
+{'xmin': 313.459, 'xmax': 314.248, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 313.459, 'xmax': 314.248, 'speaker': 'spk1', 'content': 'Tudi to?'}
+{'xmin': 314.248, 'xmax': 316.57, 'speaker': 'spk1', 'content': 'Samo sendviče. Tisto vodo boš pa kupila pol na'}
+{'xmin': 316.57, 'xmax': 318.274, 'speaker': 'spk1', 'content': 'letališču, ko boš šla že'}
+{'xmin': 316.57, 'xmax': 318.274, 'speaker': 'spk2', 'content': 'Na letališču, ja.'}
+{'xmin': 318.274, 'xmax': 319.201, 'speaker': 'spk1', 'content': 'skozi'}
+{'xmin': 319.201, 'xmax': 320.407, 'speaker': 'spk1', 'content': 'kontrolo.'}
+{'xmin': 319.201, 'xmax': 320.407, 'speaker': 'spk2', 'content': 'In drugo?'}
+{'xmin': 320.407, 'xmax': 322.023, 'speaker': 'spk2', 'content': 'Kaj imaš lahko še pri sebi?'}
+{'xmin': 322.023, 'xmax': 324.765, 'speaker': 'nn', 'content': '[premor]'}
+{'xmin': 324.765, 'xmax': 326.399, 'speaker': 'spk1', 'content': 'Eee moraš imeti eee'}
+{'xmin': 324.765, 'xmax': 326.399, 'speaker': 'spk2', 'content': 'V rukzak, kaj lahko ...'}
+{'xmin': 326.399, 'xmax': 330.54, 'speaker': 'spk1', 'content': 'powerbank moraš imeti pri sebi pa polnilec moraš imeti pri sebi v rukzaku.'}
+{'xmin': 330.54, 'xmax': 332.202, 'speaker': 'spk1', 'content': 'To ne sme biti noter v kufru.'}
+{'xmin': 332.202, 'xmax': 332.997, 'speaker': 'spk2', 'content': 'A ne sme biti v'}
+{'xmin': 332.997, 'xmax': 333.485, 'speaker': 'spk2', 'content': 'Ne,'}
+{'xmin': 332.997, 'xmax': 333.485, 'speaker': 'spk1', 'content': 'kufru?'}
+{'xmin': 333.485, 'xmax': 336.96, 'speaker': 'spk1', 'content': 'to moraš imeti pri sebi, in ko boš šla skozi kontrolo, moraš to vse dati'}
+{'xmin': 336.96, 'xmax': 337.61, 'speaker': 'spk1', 'content': 'ven.'}
+{'xmin': 336.96, 'xmax': 337.61, 'speaker': 'spk2', 'content': ''}
+{'xmin': 337.61, 'xmax': 338.364, 'speaker': 'spk2', 'content': 'Iz rukzaka'}
+{'xmin': 338.364, 'xmax': 338.998, 'speaker': 'spk2', 'content': 'Na, na'}
+{'xmin': 338.364, 'xmax': 338.998, 'speaker': 'spk1', 'content': 'zložiti.'}
+{'xmin': 338.998, 'xmax': 339.91, 'speaker': 'spk1', 'content': 'tekoči'}
+{'xmin': 339.91, 'xmax': 340.535, 'speaker': 'spk1', 'content': 'trak.'}
+{'xmin': 339.91, 'xmax': 340.535, 'speaker': 'spk2', 'content': ''}
+{'xmin': 340.535, 'xmax': 341.399, 'speaker': 'spk2', 'content': 'Mhm.'}
+{'xmin': 341.399, 'xmax': 343.048, 'speaker': 'spk1', 'content': 'In pas tudi.'}
+{'xmin': 343.048, 'xmax': 343.796, 'speaker': 'spk2', 'content': 'Pas'}
+{'xmin': 343.796, 'xmax': 344.368, 'speaker': 'spk2', 'content': 'tudi proč'}
+{'xmin': 343.796, 'xmax': 344.368, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 344.368, 'xmax': 344.923, 'speaker': 'spk2', 'content': 'od hlač.'}
+{'xmin': 344.923, 'xmax': 345.714, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 344.923, 'xmax': 345.714, 'speaker': 'spk1', 'content': 'Zapestnica,'}
+{'xmin': 345.714, 'xmax': 347.003, 'speaker': 'spk2', 'content': 'ura, vse to proč?'}
+{'xmin': 347.003, 'xmax': 349.943, 'speaker': 'spk1', 'content': 'Vse boš dala v tiste plastične eee gajbice.'}
+{'xmin': 349.943, 'xmax': 353.177, 'speaker': 'spk1', 'content': 'K vse poprekontrolirajo, ko gre skozi rentgen.'}
+{'xmin': 353.177, 'xmax': 355.804, 'speaker': 'spk2', 'content': 'In tekočine, če imaš kaj za tuširati?'}
+{'xmin': 355.804, 'xmax': 358.828, 'speaker': 'spk1', 'content': 'Tisto je do sto mililitrov imaš lahko s sabo.'}
+{'xmin': 358.828, 'xmax': 360.015, 'speaker': 'spk2', 'content': 'Mhm. Drugo'}
+{'xmin': 360.015, 'xmax': 360.949, 'speaker': 'spk2', 'content': 'vje() večja gre pa'}
+{'xmin': 360.015, 'xmax': 360.949, 'speaker': 'spk1', 'content': 'Več pa ne.'}
+{'xmin': 360.949, 'xmax': 361.753, 'speaker': 'spk2', 'content': 'lahko v kufer?'}
+{'xmin': 361.753, 'xmax': 363.013, 'speaker': 'spk1', 'content': 'Ja, večja pa v kufer, ja.'}
+{'xmin': 363.013, 'xmax': 364.46, 'speaker': 'spk2', 'content': 'Aha, tako je to.'}
+{'xmin': 364.46, 'xmax': 364.967, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 364.967, 'xmax': 367.86, 'speaker': 'spk2', 'content': 'In rukzak je pol lahko tako majhen, šolski?'}
+{'xmin': 367.86, 'xmax': 370.694, 'speaker': 'spk1', 'content': 'Majhen, šolski, da bo šel pod stol od aviona.'}
+{'xmin': 370.694, 'xmax': 372.469, 'speaker': 'spk2', 'content': 'Mhm, da imaš pri sebi.'}
+{'xmin': 372.469, 'xmax': 375.671, 'speaker': 'spk1', 'content': 'Pod nuo() pri pri nogah spodaj ga boš speštala.'}
+{'xmin': 375.671, 'xmax': 376.491, 'speaker': 'spk2', 'content': 'Okej.'}
+{'xmin': 376.491, 'xmax': 377.213, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 377.213, 'xmax': 378.683, 'speaker': 'spk2', 'content': 'Še kaj drugega takega'}
+{'xmin': 378.683, 'xmax': 379.404, 'speaker': 'spk2', 'content': 'Pijačo si lahko'}
+{'xmin': 378.683, 'xmax': 379.404, 'speaker': 'spk1', 'content': 'pomembnega?'}
+{'xmin': 379.404, 'xmax': 380.775, 'speaker': 'spk1', 'content': 'kupiš tudi na letalu,'}
+{'xmin': 380.775, 'xmax': 381.536, 'speaker': 'spk1', 'content': 'pa je draga.'}
+{'xmin': 380.775, 'xmax': 381.536, 'speaker': 'spk2', 'content': 'Ja,'}
+{'xmin': 381.536, 'xmax': 382.031, 'speaker': 'spk2', 'content': 'je draga,'}
+{'xmin': 382.031, 'xmax': 382.543, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 382.031, 'xmax': 382.543, 'speaker': 'spk1', 'content': ''}
+{'xmin': 382.543, 'xmax': 383.645, 'speaker': 'spk1', 'content': 'Parfume imajo gor.'}
+{'xmin': 383.645, 'xmax': 384.231, 'speaker': 'spk2', 'content': 'A tudi'}
+{'xmin': 384.231, 'xmax': 385.338, 'speaker': 'spk2', 'content': 'parfume?'}
+{'xmin': 384.231, 'xmax': 385.338, 'speaker': 'spk1', 'content': 'Ja, hrano imajo'}
+{'xmin': 385.338, 'xmax': 386.946, 'speaker': 'spk1', 'content': 'tudi gor, kofe.'}
+{'xmin': 386.946, 'xmax': 389.2, 'speaker': 'spk1', 'content': 'Samo je kar drago.'}
+{'xmin': 389.2, 'xmax': 391.297, 'speaker': 'spk2', 'content': 'Mhm, pol je boljše, da to prej'}
+{'xmin': 391.297, 'xmax': 392.1, 'speaker': 'spk2', 'content': 'Ja, ali'}
+{'xmin': 391.297, 'xmax': 392.1, 'speaker': 'spk1', 'content': 'spiješ.'}
+{'xmin': 392.1, 'xmax': 393.056, 'speaker': 'spk1', 'content': 'pa pol.'}
+{'xmin': 393.056, 'xmax': 394.237, 'speaker': 'spk1', 'content': 'Ko pristaneš.'}
+{'xmin': 394.237, 'xmax': 395.264, 'speaker': 'spk2', 'content': 'Aha.'}
+{'xmin': 395.264, 'xmax': 399.341, 'speaker': 'spk2', 'content': 'In koliko cajta, ko pristaneš, čakaš za kufer prevzet?'}
+{'xmin': 399.341, 'xmax': 401.133, 'speaker': 'spk1', 'content': 'Ma odvisno.'}
+{'xmin': 401.133, 'xmax': 404.386, 'speaker': 'spk1', 'content': 'Odvisno, koliko cajta rabijo, da razložijo letalo.'}
+{'xmin': 404.386, 'xmax': 406.696, 'speaker': 'spk2', 'content': 'Ali odvisno tudi, koliko veliko letališče je?'}
+{'xmin': 406.696, 'xmax': 407.768, 'speaker': 'spk1', 'content': 'Ja, tudi, ja.'}
+{'xmin': 407.768, 'xmax': 409.812, 'speaker': 'spk1', 'content': 'Ma na Sardiniji ni tako veliko.'}
+{'xmin': 409.812, 'xmax': 410.272, 'speaker': 'spk2', 'content': 'Ne?'}
+{'xmin': 410.272, 'xmax': 410.779, 'speaker': 'spk1', 'content': 'Ne.'}
+{'xmin': 410.779, 'xmax': 412.303, 'speaker': 'spk2', 'content': 'Aja, jaz sem mislila pa, da je veliko'}
+{'xmin': 412.303, 'xmax': 412.79, 'speaker': 'spk2', 'content': 'Bolj hitro'}
+{'xmin': 412.303, 'xmax': 412.79, 'speaker': 'spk1', 'content': 'tam.'}
+{'xmin': 412.79, 'xmax': 416.991, 'speaker': 'spk1', 'content': 'pripeljejo tiste kufre na tekoči trak in si ga najdeš in greš'}
+{'xmin': 416.991, 'xmax': 418.197, 'speaker': 'spk1', 'content': 'naprej.'}
+{'xmin': 416.991, 'xmax': 418.197, 'speaker': 'spk2', 'content': 'In greš naprej.'}
+{'xmin': 418.197, 'xmax': 418.407, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 418.407, 'xmax': 422.311, 'speaker': 'spk2', 'content': 'In pol kaj imaš tam naprej, kakšen taksi? Ko prideš pol v mesto?'}
+{'xmin': 422.311, 'xmax': 423.202, 'speaker': 'spk2', 'content': 'Avtobus?'}
+{'xmin': 423.202, 'xmax': 430.653, 'speaker': 'spk1', 'content': 'Tam zraven, takoj zraven letališča je ful teh eee agencij, ko imajo rentakar.'}
+{'xmin': 430.653, 'xmax': 431.453, 'speaker': 'spk2', 'content': 'Avte.'}
+{'xmin': 430.653, 'xmax': 431.453, 'speaker': 'spk1', 'content': 'Ena zraven'}
+{'xmin': 431.453, 'xmax': 431.835, 'speaker': 'spk1', 'content': 'druge.'}
+{'xmin': 431.835, 'xmax': 432.733, 'speaker': 'spk2', 'content': 'Aha, si lahko si'}
+{'xmin': 432.733, 'xmax': 433.626, 'speaker': 'spk2', 'content': 'najameš avto?'}
+{'xmin': 432.733, 'xmax': 433.626, 'speaker': 'spk1', 'content': 'In tam'}
+{'xmin': 433.626, 'xmax': 434.977, 'speaker': 'spk1', 'content': 'lahko najameš avto.'}
+{'xmin': 434.977, 'xmax': 436.121, 'speaker': 'spk1', 'content': 'In pol greš.'}
+{'xmin': 434.977, 'xmax': 436.121, 'speaker': 'spk2', 'content': 'Aha.'}
+{'xmin': 436.121, 'xmax': 438.505, 'speaker': 'spk2', 'content': 'In koliko je na dan za najeti avto?'}
+{'xmin': 438.505, 'xmax': 440.868, 'speaker': 'spk1', 'content': 'Ne vem. Moraš pogledati, ko ima vsak drugače.'}
+{'xmin': 440.868, 'xmax': 441.667, 'speaker': 'spk2', 'content': 'Aha.'}
+{'xmin': 441.667, 'xmax': 447.421, 'speaker': 'spk1', 'content': 'Pa moraš plačati še neko zavarovanje, pa če je mmm če je mlad šofer, je pol problem.'}
+{'xmin': 447.421, 'xmax': 452.076, 'speaker': 'spk1', 'content': 'Pa če ti rezerviraš nase, pa drug vozi, je tudi problem, ko moraš'}
+{'xmin': 452.076, 'xmax': 453.37, 'speaker': 'spk1', 'content': 'pol popravljati to.'}
+{'xmin': 452.076, 'xmax': 453.37, 'speaker': 'spk2', 'content': 'Aha, aha,'}
+{'xmin': 453.37, 'xmax': 454.947, 'speaker': 'spk2', 'content': 'pol tisti na tistega, ko je avto, tisti'}
+{'xmin': 454.947, 'xmax': 456.792, 'speaker': 'spk2', 'content': 'Ti() ja.'}
+{'xmin': 454.947, 'xmax': 456.792, 'speaker': 'spk1', 'content': 'mora voziti.'}
+{'xmin': 454.947, 'xmax': 456.792, 'speaker': 'spk2', 'content': 'Aha.'}
+{'xmin': 454.947, 'xmax': 456.792, 'speaker': 'spk1', 'content': 'Tisti, ko'}
+{'xmin': 456.792, 'xmax': 457.937, 'speaker': 'spk1', 'content': 'rezervira, tisti mora'}
+{'xmin': 457.937, 'xmax': 458.429, 'speaker': 'spk1', 'content': 'Pa'}
+{'xmin': 457.937, 'xmax': 458.429, 'speaker': 'spk2', 'content': 'voziti.'}
+{'xmin': 458.429, 'xmax': 461.977, 'speaker': 'spk2', 'content': 'kaj mlad šofer je tako kot pri nas, do enaindvajstega leta, ali kako je tam?'}
+{'xmin': 461.977, 'xmax': 462.979, 'speaker': 'spk1', 'content': 'Ja, verjetno je'}
+{'xmin': 462.979, 'xmax': 464.033, 'speaker': 'spk1', 'content': 'Aha, ja.'}
+{'xmin': 462.979, 'xmax': 464.033, 'speaker': 'spk2', 'content': 'isto tako.'}
+{'xmin': 464.033, 'xmax': 464.978, 'speaker': 'spk1', 'content': 'Ker smo imeli'}
+{'xmin': 464.978, 'xmax': 466.06, 'speaker': 'spk1', 'content': 'tam mi tudi'}
+{'xmin': 464.978, 'xmax': 466.06, 'speaker': 'spk2', 'content': 'Je pa dražje?'}
+{'xmin': 466.06, 'xmax': 468.39, 'speaker': 'spk1', 'content': 'problem, k smo pol dali na Iztoka.'}
+{'xmin': 468.39, 'xmax': 469.373, 'speaker': 'spk2', 'content': 'Zakaj?'}
+{'xmin': 469.373, 'xmax': 473.784, 'speaker': 'spk1', 'content': 'Ja zato, ko nnn ne sme voziti mlad šofer ali nekako tako je bilo.'}
+{'xmin': 473.784, 'xmax': 474.267, 'speaker': 'spk2', 'content': 'Aja, ne sme'}
+{'xmin': 474.267, 'xmax': 475.511, 'speaker': 'spk2', 'content': 'ona voziti ali kaj?'}
+{'xmin': 474.267, 'xmax': 475.511, 'speaker': 'spk1', 'content': 'Ja, ja.'}
+{'xmin': 475.511, 'xmax': 479.633, 'speaker': 'spk1', 'content': 'Ker je nas je Gaja rezervirala in pol smo mogli prenesti na Iztoka in smo'}
+{'xmin': 479.633, 'xmax': 480.704, 'speaker': 'spk1', 'content': 'Aha.'}
+{'xmin': 479.633, 'xmax': 480.704, 'speaker': 'spk2', 'content': 'mogli pol doplačati.'}
+{'xmin': 480.704, 'xmax': 481.824, 'speaker': 'spk2', 'content': 'Aja, tako je to.'}
+{'xmin': 481.824, 'xmax': 482.499, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 482.499, 'xmax': 484.294, 'speaker': 'spk1', 'content': 'Bencin je pa bolj poceni.'}
+{'xmin': 484.294, 'xmax': 484.936, 'speaker': 'spk2', 'content': 'Bolj poceni'}
+{'xmin': 484.936, 'xmax': 485.56, 'speaker': 'spk2', 'content': 'kot pri nas?'}
+{'xmin': 484.936, 'xmax': 485.56, 'speaker': 'spk1', 'content': 'Ja,'}
+{'xmin': 485.56, 'xmax': 488.099, 'speaker': 'spk1', 'content': 'bolj poceni kot pri nas, tudi v trgovinah je vse bolj poceni'}
+{'xmin': 488.099, 'xmax': 488.91, 'speaker': 'spk1', 'content': 'kot pri nas.'}
+{'xmin': 488.099, 'xmax': 488.91, 'speaker': 'spk2', 'content': 'Aja?'}
+{'xmin': 488.91, 'xmax': 489.941, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 489.941, 'xmax': 493.002, 'speaker': 'spk2', 'content': 'Ne, ko danes sem pa brala tam, da je pa drago.'}
+{'xmin': 493.002, 'xmax': 494.234, 'speaker': 'spk1', 'content': 'Nnn ne.'}
+{'xmin': 494.234, 'xmax': 495.015, 'speaker': 'spk2', 'content': 'Ne?'}
+{'xmin': 494.234, 'xmax': 495.015, 'speaker': 'spk1', 'content': 'V trgovinah je'}
+{'xmin': 495.015, 'xmax': 495.828, 'speaker': 'spk1', 'content': 'cenejše.'}
+{'xmin': 495.828, 'xmax': 501.454, 'speaker': 'spk1', 'content': 'Smo šli mi v Eurospin, tam neke njihove trgovine, ma je bilo vse bolj poceni.'}
+{'xmin': 501.454, 'xmax': 502.4, 'speaker': 'spk2', 'content': 'Aja?'}
+{'xmin': 502.4, 'xmax': 504.504, 'speaker': 'spk1', 'content': 'Ja. In Eurospin'}
+{'xmin': 502.4, 'xmax': 504.504, 'speaker': 'spk2', 'content': 'No, k sem brala malo na ...'}
+{'xmin': 504.504, 'xmax': 507.698, 'speaker': 'spk1', 'content': 'je lepši kakor pri nas in imajo bolj založeno kot pri nas.'}
+{'xmin': 507.698, 'xmax': 508.751, 'speaker': 'spk2', 'content': 'Aja?'}
+{'xmin': 508.751, 'xmax': 509.272, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 509.272, 'xmax': 512.95, 'speaker': 'spk1', 'content': 'Tako da pojdite v Eurospin pa l() v Lidl pojdite'}
+{'xmin': 512.95, 'xmax': 515.597, 'speaker': 'spk1', 'content': 'pa polno znamenitosti'}
+{'xmin': 515.597, 'xmax': 516.261, 'speaker': 'spk1', 'content': 'boste'}
+{'xmin': 515.597, 'xmax': 516.261, 'speaker': 'spk2', 'content': 'Aha.'}
+{'xmin': 516.261, 'xmax': 516.629, 'speaker': 'spk1', 'content': 'videli'}
+{'xmin': 516.629, 'xmax': 518.543, 'speaker': 'spk1', 'content': 'pa pogledali.'}
+{'xmin': 516.629, 'xmax': 518.543, 'speaker': 'spk2', 'content': 'Pa plaže.'}
+{'xmin': 518.543, 'xmax': 521.542, 'speaker': 'spk1', 'content': 'Okoli in okoli Sardinije greste lahko.'}
+{'xmin': 521.542, 'xmax': 523.452, 'speaker': 'spk2', 'content': 'Aja? Okoli in okoli?'}
+{'xmin': 523.452, 'xmax': 525.294, 'speaker': 'nn', 'content': '[premor]'}
+{'xmin': 525.294, 'xmax': 527.424, 'speaker': 'spk2', 'content': 'Pol je zanimivo, je polno za videti, ne?'}
+{'xmin': 527.424, 'xmax': 527.791, 'speaker': 'spk1', 'content': 'Polno je'}
+{'xmin': 527.791, 'xmax': 528.855, 'speaker': 'spk1', 'content': 'za videti.'}
+{'xmin': 527.791, 'xmax': 528.855, 'speaker': 'spk2', 'content': 'Polno plaž.'}
+{'xmin': 528.855, 'xmax': 532.132, 'speaker': 'spk1', 'content': 'Ja, pol greste lahko tudi v eno mesto Ulassai'}
+{'xmin': 532.132, 'xmax': 536.0, 'speaker': 'spk1', 'content': 'in tam greste na izlet z ladjo,'}
+{'xmin': 536.0, 'xmax': 537.625, 'speaker': 'spk1', 'content': 'to greš za cel dan,'}
+{'xmin': 537.625, 'xmax': 539.676, 'speaker': 'spk1', 'content': 'in te peljejo od plaže do plaže'}
+{'xmin': 539.676, 'xmax': 540.271, 'speaker': 'spk1', 'content': 'in ti povejo,'}
+{'xmin': 539.676, 'xmax': 540.271, 'speaker': 'spk2', 'content': 'Mhm.'}
+{'xmin': 540.271, 'xmax': 543.357, 'speaker': 'spk1', 'content': 'katera plaža je, in pol greš ti dol in se lahko tam'}
+{'xmin': 543.357, 'xmax': 544.446, 'speaker': 'spk1', 'content': 'kopaš in pol'}
+{'xmin': 543.357, 'xmax': 544.446, 'speaker': 'spk2', 'content': 'Kopaš, aha.'}
+{'xmin': 544.446, 'xmax': 546.183, 'speaker': 'spk1', 'content': 'ti povejo, kdaj gre ladja nazaj,'}
+{'xmin': 546.183, 'xmax': 548.166, 'speaker': 'spk1', 'content': 'in pol te peljejo na drugo plažo.'}
+{'xmin': 548.166, 'xmax': 550.026, 'speaker': 'spk1', 'content': 'To je en velik zaliv, ko je več plaž.'}
+{'xmin': 550.026, 'xmax': 550.85, 'speaker': 'spk1', 'content': 'Pa moraš ...'}
+{'xmin': 550.026, 'xmax': 550.85, 'speaker': 'spk2', 'content': 'V kakšnih'}
+{'xmin': 550.85, 'xmax': 552.566, 'speaker': 'spk2', 'content': 'v kakšnih jezikih govorijo?'}
+{'xmin': 552.566, 'xmax': 553.46, 'speaker': 'spk2', 'content': 'Italijanščini ali'}
+{'xmin': 553.46, 'xmax': 554.25, 'speaker': 'spk2', 'content': 'angleščini?'}
+{'xmin': 553.46, 'xmax': 554.25, 'speaker': 'spk1', 'content': 'Tudi,'}
+{'xmin': 554.25, 'xmax': 555.391, 'speaker': 'spk1', 'content': 'ne, tudi v angleščini.'}
+{'xmin': 555.391, 'xmax': 556.148, 'speaker': 'spk2', 'content': 'Aha.'}
+{'xmin': 556.148, 'xmax': 558.419, 'speaker': 'spk2', 'content': 'Tako ... [zvok]'}
+{'xmin': 558.419, 'xmax': 563.333, 'speaker': 'spk1', 'content': 'No, zdaj ko boš to ko to veš, kako to gre, zdaj pa daj mi še to povej,'}
+{'xmin': 563.333, 'xmax': 568.03, 'speaker': 'spk1', 'content': 'kaj je zdaj, kaj naj zdaj na njivi sadim in sejem? Kaj čem zdaj, ko ko ne vem,'}
+{'xmin': 568.03, 'xmax': 568.953, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 568.03, 'xmax': 568.953, 'speaker': 'spk1', 'content': 'točno'}
+{'xmin': 568.953, 'xmax': 569.867, 'speaker': 'spk1', 'content': 'kaj se lotiti.'}
+{'xmin': 569.867, 'xmax': 572.561, 'speaker': 'spk2', 'content': 'Kaj se bi lotila? Prvo prekopaj njivo,'}
+{'xmin': 572.561, 'xmax': 573.247, 'speaker': 'spk2', 'content': 'kaj po()'}
+{'xmin': 572.561, 'xmax': 573.247, 'speaker': 'spk1', 'content': 'Ja, to ...'}
+{'xmin': 573.247, 'xmax': 575.745, 'speaker': 'spk2', 'content': 'pognoji jo, da bo kaj rastlo.'}
+{'xmin': 575.745, 'xmax': 576.847, 'speaker': 'spk1', 'content': 'Pa imaš kaj gnoja?'}
+{'xmin': 576.847, 'xmax': 578.424, 'speaker': 'spk2', 'content': 'Ma je gnoja, kolikor hočeš.'}
+{'xmin': 578.424, 'xmax': 578.94, 'speaker': 'spk2', 'content': 'Samo pridi'}
+{'xmin': 578.424, 'xmax': 578.94, 'speaker': 'spk1', 'content': 'No ...'}
+{'xmin': 578.94, 'xmax': 580.098, 'speaker': 'spk2', 'content': 'in si ga naloži.'}
+{'xmin': 580.098, 'xmax': 583.439, 'speaker': 'spk1', 'content': 'Prav, samo moram kakšne vreče najti, ker je eee tisto pol v avtu vse smrdi.'}
+{'xmin': 583.439, 'xmax': 587.335, 'speaker': 'spk2', 'content': 'Ja, to pa ja. No, in lepo boš pognojila, pokopala,'}
+{'xmin': 587.335, 'xmax': 592.19, 'speaker': 'spk2', 'content': 'in lahko seješ kakšno zelje, cvetačo, korenček.'}
+{'xmin': 592.19, 'xmax': 593.965, 'speaker': 'spk2', 'content': 'Lahko kupiš že ...'}
+{'xmin': 592.19, 'xmax': 593.965, 'speaker': 'spk1', 'content': 'Kaj pa krompir?'}
+{'xmin': 593.965, 'xmax': 594.497, 'speaker': 'spk1', 'content': 'Je že cajt'}
+{'xmin': 594.497, 'xmax': 595.436, 'speaker': 'spk1', 'content': 'za krompir?'}
+{'xmin': 594.497, 'xmax': 595.436, 'speaker': 'spk2', 'content': 'Ne, za krompir'}
+{'xmin': 595.436, 'xmax': 601.518, 'speaker': 'spk2', 'content': 'je še malo zgodaj. Lahko kakšna sadikica solate kupiš, imajo že vse, sem videla tam v trgovini.'}
+{'xmin': 601.518, 'xmax': 606.742, 'speaker': 'spk2', 'content': 'In malo pogrneš s kakšno kopreno ali pa morda kakšne loke daš, kakšen najlon čez.'}
+{'xmin': 606.742, 'xmax': 608.232, 'speaker': 'spk1', 'content': 'Kaj pa jagode?'}
+{'xmin': 608.232, 'xmax': 611.222, 'speaker': 'spk2', 'content': 'Eee tudi jagode lahko že daš, ja.'}
+{'xmin': 611.222, 'xmax': 614.067, 'speaker': 'spk2', 'content': 'Samo če imajo že sadike, ne vem, to pa nisem šla za'}
+{'xmin': 614.067, 'xmax': 615.255, 'speaker': 'spk2', 'content': 'tam, če so že.'}
+{'xmin': 614.067, 'xmax': 615.255, 'speaker': 'spk1', 'content': 'Sem videla včeraj'}
+{'xmin': 615.255, 'xmax': 618.497, 'speaker': 'spk1', 'content': 'v v drevesnici, da imajo sadike.'}
+{'xmin': 618.497, 'xmax': 623.092, 'speaker': 'spk2', 'content': 'Aja, no pol pa lahko daš, pa malo boš s kopreno pogrnila, če bo še kaj mraz.'}
+{'xmin': 623.092, 'xmax': 627.986, 'speaker': 'spk2', 'content': 'Pa fajn zaliješ, če ne bo dežja, in to je to. K jagode rabijo polno vode.'}
+{'xmin': 627.986, 'xmax': 631.349, 'speaker': 'spk1', 'content': 'Aha. Kaj pa maline? D() eee kaj je treba kaj porezati'}
+{'xmin': 631.349, 'xmax': 632.395, 'speaker': 'spk1', 'content': 'Ma seveda, treba'}
+{'xmin': 631.349, 'xmax': 632.395, 'speaker': 'spk2', 'content': 'jih ali nič?'}
+{'xmin': 632.395, 'xmax': 635.141, 'speaker': 'spk2', 'content': 'stare veje vse ven tiste suhe'}
+{'xmin': 635.141, 'xmax': 637.103, 'speaker': 'spk2', 'content': 'in one malo prikrajšati.'}
+{'xmin': 637.103, 'xmax': 637.671, 'speaker': 'spk1', 'content': 'Ja, ma'}
+{'xmin': 637.671, 'xmax': 638.145, 'speaker': 'spk1', 'content': 'kaj jih'}
+{'xmin': 637.671, 'xmax': 638.145, 'speaker': 'spk2', 'content': 'Lah ...'}
+{'xmin': 638.145, 'xmax': 639.068, 'speaker': 'spk1', 'content': 'treba tudi zredčiti?'}
+{'xmin': 639.068, 'xmax': 640.828, 'speaker': 'spk2', 'content': 'Eee tudi, ja.'}
+{'xmin': 639.068, 'xmax': 640.828, 'speaker': 'spk1', 'content': 'Ker te so prav goste.'}
+{'xmin': 640.828, 'xmax': 643.008, 'speaker': 'spk2', 'content': 'Ja, pustiš tri do štiri tiste'}
+{'xmin': 643.008, 'xmax': 644.322, 'speaker': 'spk2', 'content': 'stare poganjke'}
+{'xmin': 643.008, 'xmax': 644.322, 'speaker': 'spk1', 'content': 'Poganjke.'}
+{'xmin': 644.322, 'xmax': 647.218, 'speaker': 'spk2', 'content': 'in drugo ven. Ono suho, staro vse ven in one malo'}
+{'xmin': 647.218, 'xmax': 648.177, 'speaker': 'spk2', 'content': 'skrajšaš drugo.'}
+{'xmin': 647.218, 'xmax': 648.177, 'speaker': 'spk1', 'content': 'Ma tudi v k'}
+{'xmin': 648.177, 'xmax': 649.675, 'speaker': 'spk1', 'content': 'malinam bi lahko dala malo gnoja.'}
+{'xmin': 649.675, 'xmax': 656.709, 'speaker': 'spk2', 'content': 'Malo gnoja in lahko kakšno zastirko daš, eee kakšno kopreno ono črno pa kakšno slamo ali pa travo pokošeno.'}
+{'xmin': 656.709, 'xmax': 658.004, 'speaker': 'spk1', 'content': 'Aja, to, to, travo'}
+{'xmin': 658.004, 'xmax': 661.02, 'speaker': 'spk1', 'content': 'bom pokosila'}
+{'xmin': 658.004, 'xmax': 661.02, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 658.004, 'xmax': 661.02, 'speaker': 'spk1', 'content': 'pa bom dala, ja. Bo v redu, ja.'}
+{'xmin': 658.004, 'xmax': 661.02, 'speaker': 'spk2', 'content': '[glas]'}
+{'xmin': 661.02, 'xmax': 662.813, 'speaker': 'spk2', 'content': 'To gre tudi čez, ja.'}
+{'xmin': 662.813, 'xmax': 667.363, 'speaker': 'spk1', 'content': 'Sem pa danes kupila eno sadikico tistega grma rumenega, kaj je forzicija ali kako se reče'}
+{'xmin': 667.363, 'xmax': 669.949, 'speaker': 'spk1', 'content': 'Forzicija?'}
+{'xmin': 667.363, 'xmax': 669.949, 'speaker': 'spk2', 'content': 'tistemu?'}
+{'xmin': 667.363, 'xmax': 669.949, 'speaker': 'spk1', 'content': 'Ja, ka() tisti, tisto, ko'}
+{'xmin': 667.363, 'xmax': 669.949, 'speaker': 'spk2', 'content': 'Tisto, ko zdaj cveti?'}
+{'xmin': 669.949, 'xmax': 670.507, 'speaker': 'spk1', 'content': 'zdaj cvete,'}
+{'xmin': 670.507, 'xmax': 671.233, 'speaker': 'spk1', 'content': 'kaj se lahko tudi'}
+{'xmin': 670.507, 'xmax': 671.233, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 671.233, 'xmax': 671.82, 'speaker': 'spk1', 'content': 'zdaj sadi?'}
+{'xmin': 671.82, 'xmax': 674.606, 'speaker': 'spk2', 'content': 'Seveda, saj si verjetno si kupila jo v lončku z zemljo?'}
+{'xmin': 674.606, 'xmax': 675.035, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 675.035, 'xmax': 676.681, 'speaker': 'spk2', 'content': 'Ja, saj tisto ne bo zmrznilo.'}
+{'xmin': 676.681, 'xmax': 677.045, 'speaker': 'spk1', 'content': 'Ne?'}
+{'xmin': 677.045, 'xmax': 677.61, 'speaker': 'spk2', 'content': 'Ne.'}
+{'xmin': 677.61, 'xmax': 678.874, 'speaker': 'spk1', 'content': 'No, no. To bom pa videla.'}
+{'xmin': 677.61, 'xmax': 678.874, 'speaker': 'spk2', 'content': 'In se bo lepo'}
+{'xmin': 678.874, 'xmax': 682.017, 'speaker': 'spk2', 'content': 'razrastlo, bo ratal lep grm, in kar bo odcvelo, lepo'}
+{'xmin': 682.017, 'xmax': 684.984, 'speaker': 'spk2', 'content': 'poreži, da bo ratalo pol, da boš imela lepo obliko grma.'}
+{'xmin': 684.984, 'xmax': 686.303, 'speaker': 'spk1', 'content': 'No, to bom zdaj vsadila.'}
+{'xmin': 686.303, 'xmax': 686.862, 'speaker': 'spk2', 'content': 'No.'}
+{'xmin': 686.862, 'xmax': 689.843, 'speaker': 'spk1', 'content': 'Samo čakam, da dež konča.'}
+{'xmin': 689.843, 'xmax': 690.355, 'speaker': 'spk2', 'content': 'No, no,'}
+{'xmin': 690.355, 'xmax': 691.24, 'speaker': 'spk2', 'content': 'to bo drug teden'}
+{'xmin': 690.355, 'xmax': 691.24, 'speaker': 'spk1', 'content': 'Padat.'}
+{'xmin': 691.24, 'xmax': 691.586, 'speaker': 'spk2', 'content': 'bo lepo'}
+{'xmin': 691.586, 'xmax': 693.172, 'speaker': 'spk2', 'content': 'Zdaj je vse mokro.'}
+{'xmin': 691.586, 'xmax': 693.172, 'speaker': 'spk1', 'content': 'vreme pa boš sadila.'}
+{'xmin': 693.172, 'xmax': 694.061, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 694.061, 'xmax': 697.022, 'speaker': 'spk2', 'content': 'Pa sem videla, imajo tudi mimozo, je hudo lepa.'}
+{'xmin': 697.022, 'xmax': 697.749, 'speaker': 'spk1', 'content': 'Aja?'}
+{'xmin': 697.749, 'xmax': 700.79, 'speaker': 'spk2', 'content': 'Ja, samo tule pri nas ne vem, če bi preživela veni.'}
+{'xmin': 700.79, 'xmax': 702.393, 'speaker': 'spk1', 'content': 'Ja, pa ful lepo diši.'}
+{'xmin': 702.393, 'xmax': 704.687, 'speaker': 'spk2', 'content': 'Ja, samo verjetno bi ...'}
+{'xmin': 704.687, 'xmax': 705.91, 'speaker': 'spk1', 'content': 'Morda je premraz zanj.'}
+{'xmin': 705.91, 'xmax': 709.603, 'speaker': 'spk2', 'content': 'Premraz je, pozimi bi jo treba v lonec pa noter dati pol.'}
+{'xmin': 709.603, 'xmax': 711.734, 'speaker': 'spk2', 'content': 'Verjetno bi pomrznila, no.'}
+{'xmin': 711.734, 'xmax': 714.225, 'speaker': 'spk1', 'content': 'Kaj pa se splača pol še dati pri nas?'}
+{'xmin': 714.225, 'xmax': 715.26, 'speaker': 'spk1', 'content': 'K je bolj mraz.'}
+{'xmin': 715.26, 'xmax': 716.727, 'speaker': 'spk2', 'content': 'Kaj misliš zelenjavo'}
+{'xmin': 716.727, 'xmax': 717.92, 'speaker': 'spk2', 'content': 'ali kaj takega?'}
+{'xmin': 716.727, 'xmax': 717.92, 'speaker': 'spk1', 'content': 'Ja, ne, take'}
+{'xmin': 717.92, 'xmax': 718.999, 'speaker': 'spk1', 'content': 'cvetoče rastline.'}
+{'xmin': 718.999, 'xmax': 719.893, 'speaker': 'spk2', 'content': 'Cvetoče?'}
+{'xmin': 719.893, 'xmax': 721.666, 'speaker': 'spk2', 'content': 'Ne vem. Kakšen majnik,'}
+{'xmin': 721.666, 'xmax': 722.795, 'speaker': 'spk2', 'content': 'ko bo zdaj cvetel.'}
+{'xmin': 721.666, 'xmax': 722.795, 'speaker': 'spk1', 'content': 'Aaa, to mi je tudi'}
+{'xmin': 722.795, 'xmax': 724.547, 'speaker': 'spk1', 'content': 'lepo, vidiš. To mi je tudi lepo.'}
+{'xmin': 724.547, 'xmax': 726.54, 'speaker': 'spk2', 'content': 'Majnik. Kaj je še kaj drugega?'}
+{'xmin': 724.547, 'xmax': 726.54, 'speaker': 'spk1', 'content': 'To bi si kupila.'}
+{'xmin': 726.54, 'xmax': 727.027, 'speaker': 'spk2', 'content': 'Kakšen tak'}
+{'xmin': 727.027, 'xmax': 728.49, 'speaker': 'spk2', 'content': 'lep drev okrasen.'}
+{'xmin': 727.027, 'xmax': 728.49, 'speaker': 'spk1', 'content': 'Ga je imel drevesnici'}
+{'xmin': 728.49, 'xmax': 728.937, 'speaker': 'spk1', 'content': 'tu?'}
+{'xmin': 728.937, 'xmax': 729.999, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 729.999, 'xmax': 730.911, 'speaker': 'spk1', 'content': 'Ja?'}
+{'xmin': 730.911, 'xmax': 731.398, 'speaker': 'spk2', 'content': 'Se mi zdi, da'}
+{'xmin': 731.398, 'xmax': 732.434, 'speaker': 'spk1', 'content': 'Tudi videla.'}
+{'xmin': 731.398, 'xmax': 732.434, 'speaker': 'spk2', 'content': 'sem ga videla.'}
+{'xmin': 732.434, 'xmax': 735.002, 'speaker': 'spk1', 'content': 'A rozastega? Ora() vijol() vijoličastega?'}
+{'xmin': 735.002, 'xmax': 738.513, 'speaker': 'spk2', 'content': 'Ja, ne vem, kakšen, kaj jaz vem. Tisti škatli tako je pakiran.'}
+{'xmin': 738.513, 'xmax': 740.286, 'speaker': 'spk1', 'content': 'Aja, ko ne veš, kaj je noter, ko je lahko eden'}
+{'xmin': 740.286, 'xmax': 741.533, 'speaker': 'spk1', 'content': 'je bel.'}
+{'xmin': 740.286, 'xmax': 741.533, 'speaker': 'spk2', 'content': 'Ja, saj je na sliki,'}
+{'xmin': 741.533, 'xmax': 743.199, 'speaker': 'spk2', 'content': 'bel, vijoličast pa rozast menda'}
+{'xmin': 743.199, 'xmax': 744.328, 'speaker': 'spk2', 'content': 'pride, ne?'}
+{'xmin': 743.199, 'xmax': 744.328, 'speaker': 'spk1', 'content': 'No, vijoličast'}
+{'xmin': 744.328, 'xmax': 744.934, 'speaker': 'spk1', 'content': 'mi je lep.'}
+{'xmin': 744.934, 'xmax': 745.662, 'speaker': 'spk2', 'content': 'Tako da'}
+{'xmin': 745.662, 'xmax': 746.934, 'speaker': 'spk1', 'content': 'Pa lepo diši tisto.'}
+{'xmin': 745.662, 'xmax': 746.934, 'speaker': 'spk2', 'content': 'tisto ...'}
+{'xmin': 746.934, 'xmax': 749.613, 'speaker': 'spk2', 'content': 'Drugo pa ne vem, saj je še kakšen tak drev.'}
+{'xmin': 749.613, 'xmax': 752.848, 'speaker': 'spk2', 'content': 'Tak, kot imamo mi tukaj pred hišo, katalpa, ko'}
+{'xmin': 752.848, 'xmax': 754.204, 'speaker': 'spk2', 'content': 'Kaj je to?'}
+{'xmin': 752.848, 'xmax': 754.204, 'speaker': 'spk1', 'content': 'cveti belo.'}
+{'xmin': 754.204, 'xmax': 760.616, 'speaker': 'spk2', 'content': 'Katalpa, cigarovec. Ko ima velike tis() take srčaste liste, pol naredi cvete kot ena trobenta.'}
+{'xmin': 760.616, 'xmax': 764.44, 'speaker': 'spk1', 'content': 'Ja, samo tisto bi morala dati pozimi eee biz() ... tisto bi moralo biti v loncu, da'}
+{'xmin': 764.44, 'xmax': 765.986, 'speaker': 'spk1', 'content': 'se da pozimi noter ali ne?'}
+{'xmin': 764.44, 'xmax': 765.986, 'speaker': 'spk2', 'content': 'Zakaj? Ne.'}
+{'xmin': 765.986, 'xmax': 766.645, 'speaker': 'spk2', 'content': 'Če t() n()'}
+{'xmin': 766.645, 'xmax': 767.631, 'speaker': 'spk1', 'content': 'Aja?'}
+{'xmin': 766.645, 'xmax': 767.631, 'speaker': 'spk2', 'content': 'mi imamo pri nas'}
+{'xmin': 767.631, 'xmax': 768.693, 'speaker': 'spk2', 'content': 'vsajeno.'}
+{'xmin': 768.693, 'xmax': 769.949, 'speaker': 'spk1', 'content': 'Aja?'}
+{'xmin': 768.693, 'xmax': 769.949, 'speaker': 'spk2', 'content': 'Pri jungelci'}
+{'xmin': 769.949, 'xmax': 772.279, 'speaker': 'spk2', 'content': 'tisti drev velik.'}
+{'xmin': 772.279, 'xmax': 776.026, 'speaker': 'spk1', 'content': 'Kaj se ne reče tisti tisti javorjevi listi?'}
+{'xmin': 772.279, 'xmax': 776.026, 'speaker': 'spk2', 'content': 'Tisto ... Kaj ti nisem, kaj ti nisem jaz'}
+{'xmin': 776.026, 'xmax': 778.306, 'speaker': 'spk2', 'content': 'tebi lani dala ena dva taka poganjka?'}
+{'xmin': 778.306, 'xmax': 778.92, 'speaker': 'spk2', 'content': 'Ta na, k sem'}
+{'xmin': 778.306, 'xmax': 778.92, 'speaker': 'spk1', 'content': 'Ne.'}
+{'xmin': 778.92, 'xmax': 781.003, 'speaker': 'spk2', 'content': 'ven skopala. Ja sem ti dala, sem.'}
+{'xmin': 781.003, 'xmax': 782.43, 'speaker': 'spk1', 'content': 'Ne, tistega ne.'}
+{'xmin': 782.43, 'xmax': 783.497, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 783.497, 'xmax': 785.087, 'speaker': 'spk1', 'content': 'Veš, kaj si mi dala?'}
+{'xmin': 783.497, 'xmax': 785.087, 'speaker': 'spk2', 'content': 'Da vsadi v lonec,'}
+{'xmin': 785.087, 'xmax': 786.526, 'speaker': 'spk2', 'content': 'sem rekla.'}
+{'xmin': 786.526, 'xmax': 789.094, 'speaker': 'spk2', 'content': 'Da moraš vse dati v lonec.'}
+{'xmin': 789.094, 'xmax': 791.28, 'speaker': 'spk1', 'content': 'A, čakaj, nekaj sem vsadila v lonec.'}
+{'xmin': 791.28, 'xmax': 791.775, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 791.775, 'xmax': 792.596, 'speaker': 'spk1', 'content': 'Ma onega'}
+{'xmin': 791.775, 'xmax': 792.596, 'speaker': 'spk2', 'content': 'Take ...'}
+{'xmin': 792.596, 'xmax': 793.814, 'speaker': 'spk1', 'content': 'tam, ko je tako kot drevo'}
+{'xmin': 793.814, 'xmax': 794.351, 'speaker': 'spk1', 'content': 'veliko.'}
+{'xmin': 793.814, 'xmax': 794.351, 'speaker': 'spk2', 'content': 'No, saj'}
+{'xmin': 794.351, 'xmax': 794.943, 'speaker': 'spk2', 'content': 'tisto.'}
+{'xmin': 794.943, 'xmax': 799.483, 'speaker': 'spk1', 'content': 'No, saj zdaj sem ga zadnjič ven prinesla iz one kočice, da vidim, če bo kaj pognalo listov.'}
+{'xmin': 799.483, 'xmax': 800.145, 'speaker': 'spk2', 'content': 'No, no, bo'}
+{'xmin': 800.145, 'xmax': 802.176, 'speaker': 'spk1', 'content': 'Ne vem. Zdaj je samo štrcelj.'}
+{'xmin': 800.145, 'xmax': 802.176, 'speaker': 'spk2', 'content': 'bo pognalo. Pusti, pusti še'}
+{'xmin': 802.176, 'xmax': 806.06, 'speaker': 'spk2', 'content': 'v loncu in ko bo malo pognalo, čez boš pol posadila'}
+{'xmin': 806.06, 'xmax': 807.348, 'speaker': 'spk1', 'content': 'Zdaj je samo štrcelj.'}
+{'xmin': 806.06, 'xmax': 807.348, 'speaker': 'spk2', 'content': 'ven nekam.'}
+{'xmin': 807.348, 'xmax': 808.124, 'speaker': 'spk2', 'content': 'Ja itak.'}
+{'xmin': 807.348, 'xmax': 808.124, 'speaker': 'spk1', 'content': 'Am() ...'}
+{'xmin': 808.124, 'xmax': 809.647, 'speaker': 'spk2', 'content': 'Je še zgodaj.'}
+{'xmin': 809.647, 'xmax': 811.276, 'speaker': 'spk1', 'content': 'Aja, je še zgodaj za'}
+{'xmin': 811.276, 'xmax': 811.936, 'speaker': 'spk2', 'content': 'Ja, je še'}
+{'xmin': 811.276, 'xmax': 811.936, 'speaker': 'spk1', 'content': 'to?'}
+{'xmin': 811.936, 'xmax': 815.297, 'speaker': 'spk2', 'content': 'zgodaj. To bo komaj zdaj začelo odganjat, ko bo bolj toplo.'}
+{'xmin': 815.297, 'xmax': 816.096, 'speaker': 'spk1', 'content': 'Aha.'}
+{'xmin': 816.096, 'xmax': 817.3, 'speaker': 'spk1', 'content': 'No, no.'}
+{'xmin': 816.096, 'xmax': 817.3, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 817.3, 'xmax': 818.965, 'speaker': 'spk2', 'content': 'Drugo, kaj še kaj takega bi'}
+{'xmin': 818.965, 'xmax': 819.559, 'speaker': 'spk2', 'content': 'vsadila?'}
+{'xmin': 818.965, 'xmax': 819.559, 'speaker': 'spk1', 'content': 'Ja, kdaj bom pa'}
+{'xmin': 819.559, 'xmax': 820.554, 'speaker': 'spk1', 'content': 'krompir dala?'}
+{'xmin': 820.554, 'xmax': 823.915, 'speaker': 'spk2', 'content': 'Ja pa tam ... aprila enkrat'}
+{'xmin': 823.915, 'xmax': 827.454, 'speaker': 'spk1', 'content': 'Aja, pa kakšne sorte naj vsadim, da bo čim bolj zgodaj? [glas]'}
+{'xmin': 827.454, 'xmax': 830.328, 'speaker': 'spk2', 'content': 'Arov je zgodnja sorta,'}
+{'xmin': 830.328, 'xmax': 831.719, 'speaker': 'spk1', 'content': 'Pa[nerazumljivo]'}
+{'xmin': 830.328, 'xmax': 831.719, 'speaker': 'spk2', 'content': 'pa ... Verjetno,'}
+{'xmin': 831.719, 'xmax': 838.191, 'speaker': 'spk2', 'content': 'pojdi pogledat, ne vem, jaz nisem gledala tako. Mi smo krompir naročili, so ga domov pripeljali, ne vem, moraš pogledati.'}
+{'xmin': 838.191, 'xmax': 838.781, 'speaker': 'spk1', 'content': 'Aha.'}
+{'xmin': 838.781, 'xmax': 842.321, 'speaker': 'spk2', 'content': 'Pa ti bojo morda tam še kaj svetovali, kakšen krompir.'}
+{'xmin': 842.321, 'xmax': 843.819, 'speaker': 'spk1', 'content': 'No, tega bi, ja.'}
+{'xmin': 843.819, 'xmax': 849.367, 'speaker': 'spk2', 'content': 'Če ne pa daš kakšnega drugega, da je bolj pozen, ko se bo tudi bolj boljše skladišči.'}
+{'xmin': 849.367, 'xmax': 850.03, 'speaker': 'spk1', 'content': 'Aja?'}
+{'xmin': 850.03, 'xmax': 851.213, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 851.213, 'xmax': 857.814, 'speaker': 'spk2', 'content': 'Kakšno sorto, ko imajo tudi manjša pakiranja, ne samo one velike vreče po petindvajset kil, imajo tudi majhna pakiranja.'}
+{'xmin': 857.814, 'xmax': 858.697, 'speaker': 'spk1', 'content': 'A majčken'}
+{'xmin': 858.697, 'xmax': 859.368, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 858.697, 'xmax': 859.368, 'speaker': 'spk2', 'content': 'žakelj?'}
+{'xmin': 859.368, 'xmax': 861.279, 'speaker': 'spk2', 'content': 'Ja, menda po deset kil.'}
+{'xmin': 861.279, 'xmax': 864.333, 'speaker': 'spk1', 'content': 'Aja, pol bi mogla kupiti enega zgodnjega, da je čim prej?'}
+{'xmin': 864.333, 'xmax': 865.811, 'speaker': 'spk1', 'content': 'Pa enega kasnega.'}
+{'xmin': 865.811, 'xmax': 866.624, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 866.624, 'xmax': 871.881, 'speaker': 'spk2', 'content': 'Tako da ... odvisno, koliko imaš prostora, no, kakšne imaš tiste gredice, njivo, ne vem.'}
+{'xmin': 871.881, 'xmax': 873.514, 'speaker': 'spk1', 'content': 'Ma, nekaj ga je.'}
+{'xmin': 873.514, 'xmax': 877.667, 'speaker': 'spk2', 'content': 'Drugo pa ne vem, kaj boš še sadila, za bučke, tisto je pa še vse prezgodaj.'}
+{'xmin': 877.667, 'xmax': 878.754, 'speaker': 'spk1', 'content': 'Tisto je še prezgodaj. T()'}
+{'xmin': 878.754, 'xmax': 879.547, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 878.754, 'xmax': 879.547, 'speaker': 'spk1', 'content': 'tisto more biti'}
+{'xmin': 879.547, 'xmax': 879.919, 'speaker': 'spk1', 'content': 'toplo,'}
+{'xmin': 879.919, 'xmax': 880.329, 'speaker': 'spk1', 'content': 'ne?'}
+{'xmin': 879.919, 'xmax': 880.329, 'speaker': 'spk2', 'content': 'Zdaj bi'}
+{'xmin': 880.329, 'xmax': 885.507, 'speaker': 'spk2', 'content': 'lahko to cvetačo, zelje bi lahko dala, ko cvetača ti poleti, če je prevroče, noče delati.'}
+{'xmin': 885.507, 'xmax': 886.859, 'speaker': 'spk1', 'content': 'Ja, pa imajo že sadikice'}
+{'xmin': 886.859, 'xmax': 887.822, 'speaker': 'spk1', 'content': 'cvetače?'}
+{'xmin': 886.859, 'xmax': 887.822, 'speaker': 'spk2', 'content': 'Imajo.'}
+{'xmin': 887.822, 'xmax': 889.063, 'speaker': 'spk2', 'content': 'Cvetača, zelje,'}
+{'xmin': 889.063, 'xmax': 889.553, 'speaker': 'spk2', 'content': 'eee'}
+{'xmin': 889.063, 'xmax': 889.553, 'speaker': 'spk1', 'content': 'Aja?'}
+{'xmin': 889.553, 'xmax': 892.498, 'speaker': 'spk2', 'content': 'brstični ohrovt, solate.'}
+{'xmin': 892.498, 'xmax': 893.966, 'speaker': 'spk2', 'content': 'Pa kje si ti to vse videla?'}
+{'xmin': 892.498, 'xmax': 893.966, 'speaker': 'spk1', 'content': 'To sem videla jaz vse.'}
+{'xmin': 893.966, 'xmax': 895.705, 'speaker': 'spk2', 'content': 'V vrtnariji, pri Primožu.'}
+{'xmin': 895.705, 'xmax': 896.844, 'speaker': 'spk1', 'content': 'A, pol moram iti jaz jutri'}
+{'xmin': 896.844, 'xmax': 897.586, 'speaker': 'spk1', 'content': 'pogledat.'}
+{'xmin': 896.844, 'xmax': 897.586, 'speaker': 'spk2', 'content': 'Tako'}
+{'xmin': 897.586, 'xmax': 899.311, 'speaker': 'spk2', 'content': 'da to bi komot lahko sadila.'}
+{'xmin': 899.311, 'xmax': 900.695, 'speaker': 'spk1', 'content': 'Bom šla čez vikend pol j()'}
+{'xmin': 900.695, 'xmax': 901.68, 'speaker': 'spk1', 'content': 'eee, seveda če ne'}
+{'xmin': 900.695, 'xmax': 901.68, 'speaker': 'spk2', 'content': 'Ta prve cvet() ...'}
+{'xmin': 901.68, 'xmax': 902.49, 'speaker': 'spk1', 'content': 'bo dežja.'}
+{'xmin': 902.49, 'xmax': 904.84, 'speaker': 'spk2', 'content': 'Ko ta prve cvetače so ta lepše, take ...'}
+{'xmin': 904.84, 'xmax': 905.87, 'speaker': 'spk1', 'content': 'Ja, zato ker je še mraz, ne?'}
+{'xmin': 905.87, 'xmax': 908.109, 'speaker': 'spk2', 'content': 'Ali pa pol jesenska, poleti ti ne bo,'}
+{'xmin': 908.109, 'xmax': 908.701, 'speaker': 'spk2', 'content': 'Ne.'}
+{'xmin': 908.109, 'xmax': 908.701, 'speaker': 'spk1', 'content': ''}
+{'xmin': 908.701, 'xmax': 909.001, 'speaker': 'spk1', 'content': 'Tisto'}
+{'xmin': 909.001, 'xmax': 909.488, 'speaker': 'spk1', 'content': 'rata pol'}
+{'xmin': 909.001, 'xmax': 909.488, 'speaker': 'spk2', 'content': 'Pa'}
+{'xmin': 909.488, 'xmax': 909.616, 'speaker': 'spk1', 'content': 'vse'}
+{'xmin': 909.616, 'xmax': 910.739, 'speaker': 'spk1', 'content': 'pa polno'}
+{'xmin': 909.616, 'xmax': 910.739, 'speaker': 'spk2', 'content': 'rumeno tako.'}
+{'xmin': 910.739, 'xmax': 911.855, 'speaker': 'spk2', 'content': 'treba zalivati, ne.'}
+{'xmin': 911.855, 'xmax': 912.216, 'speaker': 'spk1', 'content': 'Aja?'}
+{'xmin': 912.216, 'xmax': 913.985, 'speaker': 'spk2', 'content': 'Ja, seveda. Cvetača rabi polno'}
+{'xmin': 913.985, 'xmax': 914.67, 'speaker': 'spk2', 'content': 'Aja?'}
+{'xmin': 913.985, 'xmax': 914.67, 'speaker': 'spk1', 'content': 'vode.'}
+{'xmin': 914.67, 'xmax': 915.022, 'speaker': 'spk1', 'content': 'Kaj pa'}
+{'xmin': 915.022, 'xmax': 915.659, 'speaker': 'spk1', 'content': 'brokoli?'}
+{'xmin': 915.022, 'xmax': 915.659, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 915.659, 'xmax': 918.371, 'speaker': 'spk2', 'content': 'Tudi, ker je tu(), pa zelje rabi, moraš zalivati.'}
+{'xmin': 918.371, 'xmax': 918.752, 'speaker': 'spk1', 'content': 'Aja?'}
+{'xmin': 918.752, 'xmax': 919.574, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 919.574, 'xmax': 923.271, 'speaker': 'spk2', 'content': 'Drugače pa lahko še korenček seješ, kakšno blitvo.'}
+{'xmin': 923.271, 'xmax': 924.346, 'speaker': 'spk1', 'content': 'Ja, tisto imamo radi.'}
+{'xmin': 924.346, 'xmax': 926.602, 'speaker': 'spk2', 'content': 'To, redkvica.'}
+{'xmin': 926.602, 'xmax': 932.743, 'speaker': 'spk2', 'content': 'Eee sem videla ima tudi r() sadike pora pa rdeče pese, tako da imaš za naprej, ne.'}
+{'xmin': 932.743, 'xmax': 934.459, 'speaker': 'spk1', 'content': 'Ja, da je pol'}
+{'xmin': 934.459, 'xmax': 934.833, 'speaker': 'spk2', 'content': 'Edino'}
+{'xmin': 934.833, 'xmax': 935.59, 'speaker': 'spk2', 'content': 'vsakega malo.'}
+{'xmin': 934.833, 'xmax': 935.59, 'speaker': 'spk1', 'content': 'koren ...'}
+{'xmin': 935.59, 'xmax': 938.404, 'speaker': 'spk2', 'content': 'tako, edino korenček sadike niso v redu.'}
+{'xmin': 938.404, 'xmax': 938.861, 'speaker': 'spk1', 'content': 'Ne?'}
+{'xmin': 938.861, 'xmax': 944.074, 'speaker': 'spk2', 'content': 'Ne, ko pride korenček razvejan, ni tak lep, raven, kot bi moral biti.'}
+{'xmin': 944.074, 'xmax': 946.008, 'speaker': 'spk1', 'content': 'Ni samo ena korenika, jih je več.'}
+{'xmin': 946.008, 'xmax': 950.597, 'speaker': 'spk2', 'content': 'Ja, tako, ja, pride kar nekaj. Ko naleti na eno oviro, rata vse se'}
+{'xmin': 950.597, 'xmax': 951.135, 'speaker': 'spk1', 'content': 'Aja?'}
+{'xmin': 951.135, 'xmax': 952.448, 'speaker': 'spk2', 'content': 'deformira tako.'}
+{'xmin': 952.448, 'xmax': 956.439, 'speaker': 'spk1', 'content': 'Ma kaj to je res, da se da h korenčku lahko tudi mivko?'}
+{'xmin': 956.439, 'xmax': 957.422, 'speaker': 'spk2', 'content': 'Tudi, ja.'}
+{'xmin': 957.422, 'xmax': 963.2, 'speaker': 'spk2', 'content': 'Ja, saj korenček rabi bolj tako z() zemljo, peščeno tako, ne, da bo on, da bo lep.'}
+{'xmin': 963.2, 'xmax': 965.491, 'speaker': 'spk2', 'content': 'Ko če je trdo, nima iti kam,'}
+{'xmin': 965.491, 'xmax': 966.216, 'speaker': 'spk1', 'content': 'Aha, rabi biti'}
+{'xmin': 965.491, 'xmax': 966.216, 'speaker': 'spk2', 'content': 'ne.'}
+{'xmin': 966.216, 'xmax': 966.862, 'speaker': 'spk1', 'content': 'bolj mehka'}
+{'xmin': 966.862, 'xmax': 968.523, 'speaker': 'spk1', 'content': 'zemlja. Da lahko naredi'}
+{'xmin': 966.862, 'xmax': 968.523, 'speaker': 'spk2', 'content': 'Ja, tako, tako, ja.'}
+{'xmin': 968.523, 'xmax': 969.11, 'speaker': 'spk1', 'content': 'koreniko.'}
+{'xmin': 969.11, 'xmax': 972.55, 'speaker': 'spk2', 'content': 'Tako. Glih tako kot por, ko ga moraš gor malo zagrebsti,'}
+{'xmin': 972.55, 'xmax': 973.775, 'speaker': 'spk1', 'content': 'Da je čim več belega?'}
+{'xmin': 972.55, 'xmax': 973.775, 'speaker': 'spk2', 'content': 'eee da ima ...'}
+{'xmin': 973.775, 'xmax': 975.927, 'speaker': 'spk2', 'content': 'tako, ja, da ima čim več belega dela,'}
+{'xmin': 975.927, 'xmax': 977.782, 'speaker': 'spk2', 'content': 'Ja. Tisto je fino.'}
+{'xmin': 975.927, 'xmax': 977.782, 'speaker': 'spk1', 'content': 'ja. Tistega uporabnega,'}
+{'xmin': 977.782, 'xmax': 978.864, 'speaker': 'spk2', 'content': 'ja, tako.'}
+{'xmin': 978.864, 'xmax': 983.472, 'speaker': 'spk2', 'content': 'Drugo pa ne vem. Rukola bi bila zdaj, še bi lahko, je dobra.'}
+{'xmin': 983.472, 'xmax': 986.524, 'speaker': 'spk1', 'content': 'Pa kaj naj pol kupim, tudi loke pa tisto kopreno?'}
+{'xmin': 986.524, 'xmax': 991.362, 'speaker': 'spk2', 'content': 'Lahko, ko daš loke pa daš kopreno ono, magari zdaj zimsko, če jo imaš.'}
+{'xmin': 991.362, 'xmax': 992.66, 'speaker': 'spk1', 'content': 'Ja, kaj, zimska je bolj debela,'}
+{'xmin': 992.66, 'xmax': 993.332, 'speaker': 'spk2', 'content': 'Ja, je bolj'}
+{'xmin': 992.66, 'xmax': 993.332, 'speaker': 'spk1', 'content': 'so različne?'}
+{'xmin': 993.332, 'xmax': 996.483, 'speaker': 'spk2', 'content': 'gosta, ja, letna koprena je pa bolj tanka.'}
+{'xmin': 996.483, 'xmax': 997.347, 'speaker': 'spk2', 'content': 'Ali pa'}
+{'xmin': 996.483, 'xmax': 997.347, 'speaker': 'spk1', 'content': 'Aja, dve?'}
+{'xmin': 997.347, 'xmax': 1001.328, 'speaker': 'spk2', 'content': 'daš najlon še, ne vem, pa čez kopreno ali nekaj.'}
+{'xmin': 1001.328, 'xmax': 1002.45, 'speaker': 'spk1', 'content': 'A različne so?'}
+{'xmin': 1002.45, 'xmax': 1009.463, 'speaker': 'spk2', 'content': 'Ja, ko skozi najlon pol zna sonce tudi z() to vse zapalit, kadar fajn pali, zdaj če te ni tam, da nisi blizu.'}
+{'xmin': 1009.463, 'xmax': 1011.278, 'speaker': 'spk2', 'content': 'Eee da bi to čez dan ...'}
+{'xmin': 1009.463, 'xmax': 1011.278, 'speaker': 'spk1', 'content': 'Da bi[nerazumljivo] kaj?'}
+{'xmin': 1011.278, 'xmax': 1014.352, 'speaker': 'spk2', 'content': 'Ja, da lahko čez dan to kaj odgrneš, ne.'}
+{'xmin': 1014.352, 'xmax': 1015.008, 'speaker': 'spk1', 'content': 'Ne, to ne'}
+{'xmin': 1015.008, 'xmax': 1016.763, 'speaker': 'spk1', 'content': 'morem, ko nisem vsak dan tam.'}
+{'xmin': 1015.008, 'xmax': 1016.763, 'speaker': 'spk2', 'content': '[glas]'}
+{'xmin': 1016.763, 'xmax': 1023.575, 'speaker': 'spk2', 'content': 'No, ko ne vem, v r() tule mi, ko imamo v rastlinjaku, so je noter pride savna. Moraš čez dan odpreti, če ne, je vse skuhano.'}
+{'xmin': 1023.575, 'xmax': 1024.237, 'speaker': 'spk1', 'content': 'Aja.'}
+{'xmin': 1023.575, 'xmax': 1024.237, 'speaker': 'spk2', 'content': 'Zdaj, k'}
+{'xmin': 1024.237, 'xmax': 1024.587, 'speaker': 'spk2', 'content': 'je bilo'}
+{'xmin': 1024.587, 'xmax': 1025.231, 'speaker': 'spk1', 'content': 'Pol pa boljše, da'}
+{'xmin': 1024.587, 'xmax': 1025.231, 'speaker': 'spk2', 'content': 'vro() tu je ...'}
+{'xmin': 1025.231, 'xmax': 1026.746, 'speaker': 'spk1', 'content': 'dam kopreno, ko diha.'}
+{'xmin': 1026.746, 'xmax': 1027.531, 'speaker': 'spk2', 'content': 'Ja.'}
+{'xmin': 1027.531, 'xmax': 1033.475, 'speaker': 'spk2', 'content': 'Edino če je bo napovedan kakšen bolj mraz, ne vem, daš, če imaš, en kos najlona, ne.'}
+{'xmin': 1033.475, 'xmax': 1035.701, 'speaker': 'spk2', 'content': 'Pokriješ, tako da ...'}
+{'xmin': 1035.701, 'xmax': 1036.387, 'speaker': 'spk1', 'content': 'Mhm.'}
+{'xmin': 1036.387, 'xmax': 1040.346, 'speaker': 'spk2', 'content': 'To je to, no. Drugo pa ne vem. Kaj bi še kakšno drevje okrasno sadila?'}
+{'xmin': 1040.346, 'xmax': 1042.498, 'speaker': 'spk1', 'content': 'Ja, češplje bom sadila.'}
+{'xmin': 1042.498, 'xmax': 1043.376, 'speaker': 'spk2', 'content': 'Aha.'}
+{'xmin': 1043.376, 'xmax': 1047.132, 'speaker': 'spk1', 'content': 'Pa m() pa to, kaj je že, češnjo.'}
+{'xmin': 1047.132, 'xmax': 1048.036, 'speaker': 'spk2', 'content': 'To bi še'}
+{'xmin': 1047.132, 'xmax': 1048.036, 'speaker': 'spk1', 'content': 'Malo ...'}
+{'xmin': 1048.036, 'xmax': 1048.391, 'speaker': 'spk1', 'content': 'dala.'}
+{'xmin': 1048.391, 'xmax': 1049.275, 'speaker': 'spk2', 'content': 'Okrasno ali'}
+{'xmin': 1049.275, 'xmax': 1050.741, 'speaker': 'spk2', 'content': 'Ne, češnjo ta pravo,'}
+{'xmin': 1049.275, 'xmax': 1050.741, 'speaker': 'spk1', 'content': 'češnjo ta pravo?'}
+{'xmin': 1050.741, 'xmax': 1051.523, 'speaker': 'spk1', 'content': 'da bo sadež.'}
+{'xmin': 1051.523, 'xmax': 1052.914, 'speaker': 'spk2', 'content': 'Da bo sadež, aha.'}
+{'xmin': 1052.914, 'xmax': 1053.437, 'speaker': 'spk1', 'content': 'Bom naredila kakšno'}
+{'xmin': 1052.914, 'xmax': 1053.437, 'speaker': 'spk2', 'content': 'No no.'}
+{'xmin': 1053.437, 'xmax': 1054.576, 'speaker': 'spk1', 'content': 'marmelado pol.'}
+{'xmin': 1054.576, 'xmax': 1058.975, 'speaker': 'spk2', 'content': 'Aja, tudi pri nas jo je, pa jo vsako leto samo ptiči pojejo.'}
+{'xmin': 1058.975, 'xmax': 1060.405, 'speaker': 'spk1', 'content': 'Aja? Pa kaj,'}
+{'xmin': 1060.405, 'xmax': 1061.829, 'speaker': 'spk1', 'content': 'se ne da nič zaščititi?'}
+{'xmin': 1060.405, 'xmax': 1061.829, 'speaker': 'spk2', 'content': 'Ja. Ma ja,'}
+{'xmin': 1061.829, 'xmax': 1066.01, 'speaker': 'spk2', 'content': 'se da, ja, dati mrežo, ma zrase visoko in pol ne moreš do njih,'}
+{'xmin': 1066.01, 'xmax': 1066.875, 'speaker': 'spk2', 'content': 'ne.'}
+{'xmin': 1066.01, 'xmax': 1066.875, 'speaker': 'spk1', 'content': 'Aja.'}
+{'xmin': 1066.875, 'xmax': 1069.947, 'speaker': 'spk2', 'content': 'In pol greš, se koplješ po kakšnih lojtrah.'}
+{'xmin': 1069.947, 'xmax': 1072.362, 'speaker': 'spk2', 'content': 'Ni vredno, ko lahko še padeš dol.'}
+{'xmin': 1072.362, 'xmax': 1073.684, 'speaker': 'spk1', 'content': 'Aja, to sem imela'}
+{'xmin': 1073.684, 'xmax': 1075.227, 'speaker': 'spk1', 'content': 'v planu, da bi še kupila.'}
+{'xmin': 1073.684, 'xmax': 1075.227, 'speaker': 'spk2', 'content': 'Mreže pa obstajajo,'}
+{'xmin': 1075.227, 'xmax': 1082.506, 'speaker': 'spk2', 'content': 'ja, da vržeš čez krošnjo, ne, zdaj če pa rata preveliko drevo, je pa pol to vse skup veliko, visoko.'}
+{'xmin': 1082.506, 'xmax': 1087.72, 'speaker': 'spk1', 'content': 'Aja, kaj pa to, veš, kaj bi jaz dala v dve gredice? One dalije, rože, ko so mi lepe.'}
+{'xmin': 1087.72, 'xmax': 1089.06, 'speaker': 'spk1', 'content': 'Tisto tudi ni še zdaj'}
+{'xmin': 1089.06, 'xmax': 1089.833, 'speaker': 'spk2', 'content': 'Ne, tisto'}
+{'xmin': 1089.06, 'xmax': 1089.833, 'speaker': 'spk1', 'content': 'cajt, ne?'}
+{'xmin': 1089.833, 'xmax': 1091.826, 'speaker': 'spk2', 'content': 'se da kadar krompir, zato ko majo tisti'}
+{'xmin': 1091.826, 'xmax': 1093.459, 'speaker': 'spk2', 'content': 'gomolji ... Ko krompir,'}
+{'xmin': 1091.826, 'xmax': 1093.459, 'speaker': 'spk1', 'content': '[nerazumljivo]'}
+{'xmin': 1093.459, 'xmax': 1096.471, 'speaker': 'spk2', 'content': 'ja. Samo v jeseni moraš tisto skopati ven,'}
+{'xmin': 1096.471, 'xmax': 1101.266, 'speaker': 'spk2', 'content': 'vse med gomolji očistiš eee tisto eee zemljo.'}
+{'xmin': 1101.266, 'xmax': 1108.441, 'speaker': 'spk2', 'content': 'In lepo pospraviš v eno klet in spomladi spet sadiš in pol daš še na pol, ker to rata gomolj pol še enkrat večji.'}
+{'xmin': 1108.441, 'xmax': 1109.045, 'speaker': 'spk2', 'content': 'In se je() ...'}
+{'xmin': 1108.441, 'xmax': 1109.045, 'speaker': 'spk1', 'content': 'A pol bo'}
+{'xmin': 1109.045, 'xmax': 1109.665, 'speaker': 'spk1', 'content': 'vsako leto jih'}
+{'xmin': 1109.665, 'xmax': 1110.248, 'speaker': 'spk1', 'content': 'več?'}
+{'xmin': 1109.665, 'xmax': 1110.248, 'speaker': 'spk2', 'content': 'Tako'}
+{'xmin': 1110.248, 'xmax': 1112.954, 'speaker': 'spk2', 'content': 'ja, se jih namno() imaš pol za z() naprej, ja.'}
+{'xmin': 1112.954, 'xmax': 1114.96, 'speaker': 'spk1', 'content': 'Aha. No, no.'}
+{'xmin': 1112.954, 'xmax': 1114.96, 'speaker': 'spk2', 'content': 'Tako, ja.'}
+{'xmin': 1114.96, 'xmax': 1117.456, 'speaker': 'spk1', 'content': 'To bom dala, ja. Te so mi lepe.'}
+{'xmin': 1117.456, 'xmax': 1119.706, 'speaker': 'spk1', 'content': 'Da bom imela za dati si v vazo.'}
+{'xmin': 1119.706, 'xmax': 1120.77, 'speaker': 'spk2', 'content': 'Za rezano.'}
+{'xmin': 1119.706, 'xmax': 1120.77, 'speaker': 'spk1', 'content': 'Ja.'}
+{'xmin': 1120.77, 'xmax': 1122.088, 'speaker': 'spk1', 'content': 'Pa kakšne bi lahko še dala?'}
+{'xmin': 1122.088, 'xmax': 1124.56, 'speaker': 'spk2', 'content': 'Pa cinije bi lahko sejala pa astre'}
+{'xmin': 1124.56, 'xmax': 1125.221, 'speaker': 'spk2', 'content': 'pa kakšne ...'}
+{'xmin': 1124.56, 'xmax': 1125.221, 'speaker': 'spk1', 'content': 'A to je seme'}
+{'xmin': 1125.221, 'xmax': 1125.678, 'speaker': 'spk1', 'content': 'pride?'}
+{'xmin': 1125.678, 'xmax': 1135.658, 'speaker': 'spk2', 'content': 'Ja, kupiš seme. Lahko kupiš sončnico, jo daš kam. Zdaj če je previsoka, jo daš ob kakšen rob pa ti lepo, se lepo ona obrača proti soncu.'}
+{'xmin': 1135.658, 'xmax': 1139.661, 'speaker': 'spk2', 'content': 'In pol da imaš seme, tudi ptiči pol pojejo tisto seme.'}
+{'xmin': 1139.661, 'xmax': 1141.038, 'speaker': 'spk2', 'content': 'Tako da ...'}
+{'xmin': 1141.038, 'xmax': 1141.921, 'speaker': 'spk1', 'content': 'No, no.'}
+{'xmin': 1141.038, 'xmax': 1141.921, 'speaker': 'spk2', 'content': 'to.'}
+{'xmin': 1141.921, 'xmax': 1149.351, 'speaker': 'spk2', 'content': 'Saj je polno tam, tako, vse sort je rož, samo pride noter v vrečki glih ene tri semena pa dostikrat tudi ven nič ne pride.'}
+{'xmin': 1149.351, 'xmax': 1150.423, 'speaker': 'spk1', 'content': 'Pa kaj je to seme tako'}
+{'xmin': 1150.423, 'xmax': 1151.681, 'speaker': 'spk1', 'content': 'Ja, tako slabo'}
+{'xmin': 1150.423, 'xmax': 1151.681, 'speaker': 'spk2', 'content': 'slabo ratalo?'}
+{'xmin': 1151.681, 'xmax': 1152.432, 'speaker': 'spk2', 'content': 'je, ja.'}
+{'xmin': 1152.432, 'xmax': 1152.907, 'speaker': 'spk1', 'content': 'Pa še'}
+{'xmin': 1152.432, 'xmax': 1152.907, 'speaker': 'spk2', 'content': 'Pa ...'}
+{'xmin': 1152.907, 'xmax': 1153.958, 'speaker': 'spk1', 'content': 'malo dajo noter.'}
+{'xmin': 1153.958, 'xmax': 1156.657, 'speaker': 'spk2', 'content': 'Pa veš, kaj je tudi lepo? Kakšen ognjič.'}
+{'xmin': 1156.657, 'xmax': 1163.394, 'speaker': 'spk2', 'content': 'Da daš na njivo med [glas] malo sadik, ga glih tako lahko poseješ, pa on se tudi pol kar vseje za naprej.'}
+{'xmin': 1163.394, 'xmax': 1163.763, 'speaker': 'spk1', 'content': 'Aja?'}
+{'xmin': 1163.763, 'xmax': 1167.669, 'speaker': 'spk2', 'content': 'Pa je lepo videti med zelenjavo pa odganja neke škodljivce, ne vem.'}
+{'xmin': 1167.669, 'xmax': 1168.578, 'speaker': 'spk1', 'content': 'Aja?'}
+{'xmin': 1167.669, 'xmax': 1168.578, 'speaker': 'spk2', 'content': 'Ali pa'}
+{'xmin': 1168.578, 'xmax': 1171.491, 'speaker': 'spk2', 'content': 'te eem ti turški nageljčki.'}
+{'xmin': 1171.491, 'xmax': 1172.073, 'speaker': 'spk1', 'content': 'Ja, ja,'}
+{'xmin': 1172.073, 'xmax': 1172.462, 'speaker': 'spk1', 'content': 'ja.'}
+{'xmin': 1172.073, 'xmax': 1172.462, 'speaker': 'spk2', 'content': 'Tisto'}
+{'xmin': 1172.462, 'xmax': 1173.274, 'speaker': 'spk2', 'content': 'glih tako kupiš'}
+{'xmin': 1173.274, 'xmax': 1174.523, 'speaker': 'spk1', 'content': 'Pa tudi odganja?'}
+{'xmin': 1173.274, 'xmax': 1174.523, 'speaker': 'spk2', 'content': 'seme pa ...'}
+{'xmin': 1174.523, 'xmax': 1179.177, 'speaker': 'spk2', 'content': 'Eee turški, pa pobereš pol seme pa imaš za naprej pa si poseješ.'}
+{'xmin': 1179.177, 'xmax': 1184.416, 'speaker': 'spk2', 'content': 'Pa glih tako odganja neke škodljivce, pa to pa lepo ...'}
+{'xmin': 1184.416, 'xmax': 1188.294, 'speaker': 'spk2', 'content': 'Pa lepo je videti ob gredicah malo, da cveti med kakšno zelenjavo,'}
+{'xmin': 1188.294, 'xmax': 1189.681, 'speaker': 'spk1', 'content': 'Ja, da je pol, da da je'}
+{'xmin': 1188.294, 'xmax': 1189.681, 'speaker': 'spk2', 'content': 'daš kakšen cvet, ja.'}
+{'xmin': 1189.681, 'xmax': 1190.514, 'speaker': 'spk1', 'content': 'pol lep vrt.'}
+{'xmin': 1190.514, 'xmax': 1191.584, 'speaker': 'spk2', 'content': 'Ja, tako. Da je'}
+{'xmin': 1191.584, 'xmax': 1194.16, 'speaker': 'spk1', 'content': 'No.'}
+{'xmin': 1191.584, 'xmax': 1194.16, 'speaker': 'spk2', 'content': 'lepo urejeno.'}

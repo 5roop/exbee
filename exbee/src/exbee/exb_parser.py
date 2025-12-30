@@ -25,7 +25,9 @@ class EXB:
         :return dict[str, float]: timeline dictionary, keys are IDS, values are times
         """
         return {
-            i.attrib["id"]: float(i.attrib["time"]) for i in self.doc.findall(".//tli")
+            i.attrib["id"]: float(i.attrib.get("time"))
+            for i in self.doc.findall(".//tli")
+            if "time" in i.attrib.keys()
         }
 
     def update_timeline(self) -> None:
