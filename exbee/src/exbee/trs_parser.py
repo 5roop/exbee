@@ -1,7 +1,6 @@
 from pathlib import Path
 from lxml import etree  # pyright: ignore[reportAttributeAccessIssue]
 from loguru import logger
-from trsproc.parser import TRSParser
 from pydantic import BaseModel, Field, field_validator
 
 
