@@ -34,6 +34,14 @@ class EXB:
         """Refreshes timeline attribute"""
         self.timeline = self.get_timeline()
 
+    def round_timeline(self, decimals=3) -> None:
+        """Round all the timestamps to desired precision.
+
+        :param int decimals: Number of decimals to use, defaults to 3
+        """
+        for tli in self.doc.findall(".//tli"):
+            tli.set("time", str(round(float(tli.get("time")), 3)))
+
     def find_speakers_from_tier_attrib_speaker(self) -> list[str]:
         """Read all the tiers, except the one named [nn], and extract
         speakers from the attributes. The result is in order of appearance.
