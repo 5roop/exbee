@@ -47,6 +47,19 @@ class EXB:
         ]
         return list(dict.fromkeys(speakers))
 
+    def find_speakers_from_tier_display_name(self) -> list[str]:
+        """Read all the tiers, except the one named [nn], and extract
+        speakers from the attributes. The result is in order of appearance.
+
+        :return list[str]: list of speakers
+        """
+        speakers = [
+            i.attrib.get("display-name").split()[0]
+            for i in self.doc.findall(".//tier")
+            if i.attrib.get("display-name") != "[nn]"
+        ]
+        return list(dict.fromkeys(speakers))
+
     def remove_unused_attributes(self) -> None:
         """Removes redundant elements in EXB:
         * AutoSave ud-information
