@@ -120,6 +120,7 @@ class EXB:
         if not Path(file).parent.exists():
             logger.info("Creating parent directory")
             Path(file).parent.mkdir(exist_ok=True, parents=True)
+        etree.indent(self.doc)
         Path(file).write_text(
             etree.tostring(
                 self.doc,
