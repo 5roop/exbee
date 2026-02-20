@@ -114,7 +114,7 @@ class EXB:
 
         :param str | Path file: Path into which the result will be saved.
         """
-        self.remove_duplicated_tlis()
+        # self.remove_duplicated_tlis()
         self.sort_tlis()
         self.remove_unused_attributes()
         if not Path(file).parent.exists():
