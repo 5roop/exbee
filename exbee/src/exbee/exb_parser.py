@@ -117,19 +117,17 @@ class EXB:
         self.remove_duplicated_tlis()
         self.sort_tlis()
         self.remove_unused_attributes()
-
-        Path(file).parent.mkdir(exist_ok=True, parents=True)
+        if not Path(file).parent.exists():
+            logger.info("Creating parent directory")
+            Path(file).parent.mkdir(exist_ok=True, parents=True)
         Path(file).write_text(
-            etree.tostring(self.doc, encoding="unicode", pretty_print=True),
-            encoding="utf8",
-        )
-        import subprocess
-
-        subprocess.run(
-            ["xmllint", "--format", file, "--encode", "utf-8", "--output", file],
-            check=True,
-            capture_output=True,
-            # text=True,
+            etree.tostring(
+                self.doc,
+                encoding="unicode",
+                pretty_print=True,
+                with_tail=True,
+                doctype="""<?xml version="1.0" encoding="utf-8"?>""",
+            )
         )
         logger.info(f"EXB saved to {file} and formatted prettily.")
 
