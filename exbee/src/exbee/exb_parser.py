@@ -180,7 +180,9 @@ class EXB:
             if event.text:
                 event.text = event.text.strip() + " "
 
-    def add_to_timeline(self, timestamp_seconds: float) -> str:
+    def add_to_timeline(
+        self, timestamp_seconds: float, remove_duplicated: bool = True
+    ) -> str:
         """Returns the id of tli at timestamp_seconds. If there was one already,
         it will be recycled, else a new one will be created. Time resolution: 1ms
 
@@ -205,5 +207,6 @@ class EXB:
         tli.attrib["id"] = proposed_id
         tli.attrib["time"] = str(round(timestamp_seconds, 3))
         self.doc.find(".//common-timeline").append(tli)
-        self.remove_duplicated_tlis()
+        if remove_duplicated:
+            self.remove_duplicated_tlis()
         return proposed_id
