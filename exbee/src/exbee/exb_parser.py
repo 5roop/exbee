@@ -14,6 +14,12 @@ class EXB:
             self.path.absolute().resolve().parent / self.wavfile_raw
         ).absolute()
 
+        # Check if trouble:
+        if not self.test_tier_id_unique():
+            logger.critical(f"Tiers have non-unique ids! Fix it!")
+        if not self.test_tier_display_name_unique():
+            logger.critical(f"Tiers have non-unique display names! Fix it!")
+
     def get_tier_names(self):
         tiers = self.doc.findall(".//tier")
         return [t.attrib.get("display-name", "<NO DISPLAY NAME!>") for t in tiers]
@@ -212,15 +218,19 @@ class EXB:
         return proposed_id
 
     def test_tier_id_unique(self):
-        ids = self.doc.xpath(".//tier@id")
+        ids = self.doc.xpath(".//tier/@id")
         return len(ids) == len(set(ids))
+
+    def test_tier_display_name_unique(self):
+        dispnames = self.doc.xpath(".//tier/@display-name")
+        return len(dispnames) == len(set(dispnames))
 
     def remove_duplicated_tiers(self):
         """Removes tier, if there is another one with the same attributes
         and the same children."""
         seen = {}
         tiers_to_remove = []
-
+        etree.indent(self.doc)
         for tier in self.doc.findall(".//tier"):
             # Get the full XML string of this tier (attributes + children + text)
             tier_xml = etree.tostring(tier, encoding="unicode")

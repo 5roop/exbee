@@ -1,7 +1,7 @@
 from exbee.exb_parser import EXB
 from exbee.trs_parser import TRS
 
-__version__ = "2026.6.3"
+__version__ = "2026.6.3.1"
 
 
 def main() -> None:
