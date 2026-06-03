@@ -210,3 +210,32 @@ class EXB:
         if remove_duplicated:
             self.remove_duplicated_tlis()
         return proposed_id
+
+    def test_tier_id_unique(self):
+        ids = self.doc.xpath(".//tier@id")
+        return len(ids) == len(set(ids))
+
+    def remove_duplicated_tiers(self):
+        """Removes tier, if there is another one with the same attributes
+        and the same children."""
+        seen = {}
+        tiers_to_remove = []
+
+        for tier in self.doc.findall(".//tier"):
+            # Get the full XML string of this tier (attributes + children + text)
+            tier_xml = etree.tostring(tier, encoding="unicode")
+
+            if tier_xml in seen:
+                tiers_to_remove.append(tier)
+                logger.warning(
+                    f"Removing duplicate tier id='{tier.get('id', '?')}' "
+                    f"display-name='{tier.get('display-name', '?')}' — "
+                    f"duplicate of id='{seen[tier_xml].get('id', '?')}'"
+                )
+            else:
+                seen[tier_xml] = tier
+
+        for tier in tiers_to_remove:
+            tier.getparent().remove(tier)
+
+        logger.info(f"Removed {len(tiers_to_remove)} duplicate tier(s)")
