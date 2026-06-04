@@ -1,8 +1,7 @@
 from pathlib import Path
+from exbee import TRS
 
 demo_file = list(Path(".").glob("**/ROG-Dia-GSO-P0005-std.trs"))[0]
-
-from exbee import TRS
 
 
 def test_loading():

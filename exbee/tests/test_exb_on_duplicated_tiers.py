@@ -1,13 +1,9 @@
 from pathlib import Path
-from loguru import logger
-import sys
+from exbee import EXB
 
-logger.remove()
-logger.add(sys.stdout, level="TRACE")
 demo_file = list(Path(".").glob("**/duplicated_tier.exb"))[0]
 okfile = list(Path(".").glob("**/ROG-Dia-GSO-P0005.exb"))[0]
 
-from exbee import EXB
 
 dup = EXB(demo_file)
 

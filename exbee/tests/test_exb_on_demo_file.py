@@ -1,9 +1,6 @@
 from pathlib import Path
-from loguru import logger
-import sys
+from lxml import etree
 
-logger.remove()
-logger.add(sys.stdout, level="TRACE")
 demo_file = list(Path(".").glob("**/ROG-Dia-GSO-P0005.exb"))[0]
 
 from exbee import EXB
@@ -108,3 +105,23 @@ def test_adding_timeline_elements():
     exb.sort_tlis()
     assert list(exb.timeline.keys())[1] == id
     assert exb.timeline[id] == 0.222
+
+
+def test_add_to_timeline_existing_id_recycled():
+    """Adding a timeline point that already exists should recycle its ID"""
+    exb = EXB(demo_file)
+    existing_id = list(exb.timeline.keys())[0]
+    existing_time = exb.timeline[existing_id]
+    result_id = exb.add_to_timeline(existing_time)
+    assert result_id == existing_id  # Should recycle, not create new
+
+
+def test_remove_unused_attributes_idempotent():
+    """Running remove_unused_attributes twice should not change anything"""
+    exb = EXB(demo_file)
+    first_run = exb.copy()
+    first_run.remove_unused_attributes()
+    second_run = first_run.copy()
+    second_run.remove_unused_attributes()
+    # Compare XML serialization
+    assert etree.tostring(first_run.doc) == etree.tostring(second_run.doc)

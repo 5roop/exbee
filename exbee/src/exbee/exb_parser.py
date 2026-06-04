@@ -7,8 +7,8 @@ class EXB:
     def __init__(self, file: Path | str):
         self.path = Path(file)
         self.doc = etree.fromstring(Path(file).read_bytes())
-        self.timeline = self.get_timeline()
-        self.speakers = self.find_speakers_from_tier_attrib_speaker()
+        # self.timeline = self.get_timeline()
+        # self.speakers = self.find_speakers_from_tier_attrib_speaker()
         self.wavfile_raw = Path(self.doc.find(".//referenced-file").attrib["url"])
         self.wavfile_abs = (
             self.path.absolute().resolve().parent / self.wavfile_raw
@@ -24,29 +24,41 @@ class EXB:
         tiers = self.doc.findall(".//tier")
         return [t.attrib.get("display-name", "<NO DISPLAY NAME!>") for t in tiers]
 
-    def get_timeline(self):
-        """Find all <tli> element and parse them as dict
-        with id:float pairs
+    @property
+    def tier_names(self):
+        """Get the names of all tiers"""
+        return [
+            t.attrib.get("display-name", "<NO DISPLAY NAME!>")
+            for t in self.doc.findall(".//tier")
+        ]
 
-        :return dict[str, float]: timeline dictionary, keys are IDS, values are times
-        """
+    @property
+    def timeline(self):
+        """Find all <tli> elements and parse them as a dict with id:float pairs"""
         return {
             i.attrib["id"]: float(i.attrib.get("time"))
             for i in self.doc.findall(".//tli")
             if "time" in i.attrib.keys()
         }
 
-    def update_timeline(self) -> None:
-        """Refreshes timeline attribute"""
-        self.timeline = self.get_timeline()
+    @property
+    def speakers(self):
+        """Read all the tiers, except the one named [nn], and extract speakers from the attributes"""
+        return list(
+            dict.fromkeys(
+                [
+                    i.attrib.get("speaker")
+                    for i in self.doc.findall(".//tier")
+                    if i.attrib.get("display-name") != "[nn]"
+                ]
+            )
+        )
+
 
     def round_timeline(self, decimals=3) -> None:
-        """Round all the timestamps to desired precision.
-
-        :param int decimals: Number of decimals to use, defaults to 3
-        """
+        """Round all the timestamps to desired precision"""
         for tli in self.doc.findall(".//tli"):
-            tli.set("time", str(round(float(tli.get("time")), 3)))
+            tli.set("time", str(round(float(tli.get("time")), decimals)))
 
     def find_speakers_from_tier_attrib_speaker(self) -> list[str]:
         """Read all the tiers, except the one named [nn], and extract
@@ -141,7 +153,6 @@ class EXB:
     def sort_tlis(self) -> None:
         tl = self.doc.find(".//common-timeline")
         tl[:] = sorted(tl[:], key=lambda tli: float(tli.attrib.get("time", 0)))
-        self.update_timeline()
 
     def remove_duplicated_tlis(self) -> None:
         """Performs exact deduplication on TLI elements in place. If duplicates
@@ -162,7 +173,6 @@ class EXB:
                 tli.getparent().remove(tli)
             else:
                 previous = tli.attrib
-        self.update_timeline()
 
     def copy(self):
         """Returns a deep copy of the EXB instance
@@ -195,7 +205,6 @@ class EXB:
         :param float timestamp_seconds: Time at which to create the tli
         :return str: the id of the tli at timestamp_seconds
         """
-        # self.update_timeline()
         timeline = self.timeline
 
         if round(timestamp_seconds, 3) in [round(i, 3) for i in timeline.values()]:
@@ -215,6 +224,7 @@ class EXB:
         self.doc.find(".//common-timeline").append(tli)
         if remove_duplicated:
             self.remove_duplicated_tlis()
+        self.sort_tlis()
         return proposed_id
 
     def test_tier_id_unique(self):
