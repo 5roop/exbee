@@ -6,6 +6,8 @@ A small python package for wrangling EXB files
 
 Via pip: `pip install "git+https://github.com/5roop/exbee.git#subdirectory=exbee"`
 
+As of version 2026.6.4, it's also possible to download it from pypi: `pip install exbee`
+
 ## Exploratory usage:
 
 ```python
