@@ -17,8 +17,16 @@ class EXB:
         # Check if trouble:
         if not self.test_tier_id_unique():
             logger.critical(f"Tiers have non-unique ids! Fix it!")
+            from collections import Counter
+
+            c = Counter([i.get("id") for i in self.doc.findall(".//tier")])
+            logger.critical(f"Non-unique display names: {[i for i in c if c[i] > 1]}")
         if not self.test_tier_display_name_unique():
             logger.critical(f"Tiers have non-unique display names! Fix it!")
+            from collections import Counter
+
+            c = Counter(self.get_tier_names())
+            logger.critical(f"Non-unique display names: {[i for i in c if c[i] > 1]}")
 
     def get_tier_names(self):
         tiers = self.doc.findall(".//tier")
@@ -53,7 +61,6 @@ class EXB:
                 ]
             )
         )
-
 
     def round_timeline(self, decimals=3) -> None:
         """Round all the timestamps to desired precision"""
