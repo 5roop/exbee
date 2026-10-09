@@ -32,9 +32,9 @@ class EXB:
                 f"Non-unique display names: {[f'{i} ({c[i]} times)' for i in c if c[i] > 1]}"
             )
 
-    def get_tier_names(self):
-        tiers = self.doc.findall(".//tier")
-        return [t.attrib.get("display-name", "<NO DISPLAY NAME!>") for t in tiers]
+    def get_tier_names(self) -> list[str]:
+        # Kept for backwards compatibility
+        return self.tier_names
 
     @property
     def tier_names(self):
@@ -270,3 +270,11 @@ class EXB:
             tier.getparent().remove(tier)
 
         logger.info(f"Removed {len(tiers_to_remove)} duplicate tier(s)")
+
+    def generate_new_tier_id(self) -> str:
+        existing_tier_ids = [tier.get("id") for tier in self.doc.findall(".//tier")]
+        i = 0
+        while True:
+            id = f"TIER{i}"
+            if id not in existing_tier_ids:
+                return id

@@ -125,3 +125,10 @@ def test_remove_unused_attributes_idempotent():
     second_run.remove_unused_attributes()
     # Compare XML serialization
     assert etree.tostring(first_run.doc) == etree.tostring(second_run.doc)
+
+
+def test_generating_new_tier_ids():
+    """Test that the new tier id generator works"""
+    exb = EXB(demo_file)
+    tier_id = exb.generate_new_tier_id()
+    assert tier_id not in [i.get("id") for i in exb.doc.findall(".//tier")]
